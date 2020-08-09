@@ -4,7 +4,7 @@ permalink: /de/
 ---
 *Language: [en](https://cogneon.github.io/lernos), de*
 
-![lernOS Logo](https://github.com/cogneon/lernos-core/raw/master/images/lernOS-logo-400px.png)
+![lernOS Logo](https://raw.githubusercontent.com/cogneon/lernos-core/master/images/lernOS%20Logo/lernOS-logo-400px.png)
 <br />
 
 # Warum lernOS?
