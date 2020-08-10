@@ -2,7 +2,7 @@
 layout: default
 permalink: /de/
 ---
-*Language: [en](https://cogneon.github.io/lernos), de*
+*Language: [en](/lernos/en), de*
 
 ![lernOS Logo](/images/lernOS-logo-400px.png)
 <br />
