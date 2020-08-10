@@ -26,18 +26,18 @@ Mit lernOS ist es wie mit [den blinden Männern und dem Elefant](https://de.wiki
 # lernOS Leitfäden
 Der **lernOS Core** stellt Leitfäden auf den Ebenen Individuum, Team und Organisation bereit. Die lernOS Inhalte können in verschiedenen Formaten und Sprachen heruntergeladen werden. Der lernOS Core besteht aus drei Leitfäden:
 
-* [lernOS für Dich](https://github.com/cogneon/lernos-for-you) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens ([Web](https://cogneon.github.io/lernos-for-you/de/), [PDF](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-for-You-Guide-de.pdf))
+* [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-for-You-Guide-de.pdf))
 * lernOS für Teams (noch nicht verfügbar)
-* [lernOS für Organisationen](https://github.com/cogneon/lernos-for-organizations) - Gemeinsam Lernende Organisationen entwickeln ([Web](https://cogneon.github.io/lernos-for-organizations/de/), [PDF](https://raw.githubusercontent.com/cogneon/lernos-for-organizations/master/de/lernOS-Guide-for-Organizations-de.pdf))
+* [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/) - Gemeinsam Lernende Organisationen entwickeln ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-organizations/master/de/lernOS-Guide-for-Organizations-de.pdf))
 
 Die **lernOS Toolbox** stellt weitere Leitfäden zu bewährten Tools und Methoden bereit, die den guten Umgang mit Wissen fördern. Aktuell sind verfügbar:
 
-* [lernOS Barcamp](https://github.com/cogneon/lernos-barcamp) - WE bring the Structure, YOU bring the Content! ([Web](https://cogneon.github.io/lernos-barcamp/de/), [PDF](https://raw.githubusercontent.com/cogneon/lernos-barcamp/master/de/lernOS-Barcamp-Guide-de.pdf))
-* [lernOS Community Management](https://github.com/cogneon/lernos-cmgmt) - Soziales Lernen im Netzwerk ([Web](https://cogneon.github.io/lernos-cmgmt/de/), [PDF](https://raw.githubusercontent.com/cogneon/lernos-cmgmt/master/de/lernOS-Community-Management-Guide-de.pdf))
-* [lernOS Expert Debriefing](https://github.com/cogneon/lernos-expert-debriefing) ([Web](https://cogneon.github.io/lernos-expert-debriefing/de/), [PDF](https://raw.githubusercontent.com/cogneon/lernos-expert-debriefing/master/de/lernOS-expert-debriefing-Guide-de.pdf))
-* [lernOS Podcasting](https://github.com/cogneon/lernos-podcasting) - Wissen teilen mit Podcasts ([Web](https://cogneon.github.io/lernos-podcasting/de/), [PDF](https://raw.githubusercontent.com/cogneon/lernos-podcasting/master/de/lernOS-Podcasting-Guide-de.pdf))
+* [lernOS Barcamp](https://cogneon.github.io/lernos-barcamp/de/) - WE bring the Structure, YOU bring the Content! ([PDF](https://raw.githubusercontent.com/cogneon/lernos-barcamp/master/de/lernOS-Barcamp-Guide-de.pdf))
+* [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/) - Soziales Lernen im Netzwerk ([PDF](https://raw.githubusercontent.com/cogneon/lernos-cmgmt/master/de/lernOS-Community-Management-Guide-de.pdf))
+* [lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-expert-debriefing/master/de/lernOS-expert-debriefing-Guide-de.pdf))
+* [lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/) - Wissen teilen mit Podcasts ([PDF](https://raw.githubusercontent.com/cogneon/lernos-podcasting/master/de/lernOS-Podcasting-Guide-de.pdf))
 * [lernOS Prozessmodellierung](https://github.com/cogneon/lernos-cmgmt) - If you can’t describe what you are doing as a process,you don’t know what you’re doing ([PDF](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf))
-* [lernOS Sketchnoting](https://github.com/cogneon/lernos-sketchnoting) ([Web](https://cogneon.github.io/lernos-sketchnoting/de/), [PDF](https://raw.githubusercontent.com/cogneon/lernos-sketchnoting/master/de/lernOS-Sketchnoting-Guide-de.pdf))
+* [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-sketchnoting/master/de/lernOS-Sketchnoting-Guide-de.pdf))
 
 Auf CONNECT befindet sich eine [Übersicht von Ansprechpartnern](https://community.cogneon.de/t/lernos-ansprechpartner/1845) und weiteren Leitfäden/Lernpfaden, an denen gerade gearbeitet wird.
 
