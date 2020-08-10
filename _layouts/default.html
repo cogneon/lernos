@@ -11,9 +11,8 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.show_downloads %}
+      <img src="/images/lernOS-logo-400px.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>      {% if site.show_downloads %}
         <a href="{{ site.github.en_url }}" class="btn">lernOS Guide (en)</a>
         <a href="{{ site.github.de_url }}" class="btn">lernOS Leitfaden (de)</a>
       {% endif %}
