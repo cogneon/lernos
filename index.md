@@ -3,19 +3,27 @@ layout: default
 ---
 *Language: [en](/lernos/en), de*
 
-![lernOS Logo](/images/lernOS-logo-400px.png)
+**lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und [Lernende Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). Die Funktionsweise von lernOS wird in [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** beschrieben. lernOS kann ganz einfach als **Einzelperson**, im **Team** oder in der gesamten **Organisation** praktiziert werden. Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de), dort gibt es z.B. den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
+
+Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als PDF, PPT):
+
+![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-v03.png)
+
 <br />
 
 # Warum lernOS?
-Ständige Veränderung und unser zukünftiges Wohlergehen erfordern kontinuierliches Lernen. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft. lernOS bietet frei und offen verfügbare Leitfäden, mit denen das selbstgesteuerte Lernen auf allen Ebenen gefördert wird.
+Ständige Veränderung und unser zukünftiges Wohlergehen erfordern kontinuierliches Lernen. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
 
 # Was ist lernOS?
+
+Mit lernOS ist es wie mit [den blinden Männern und dem Elefant](https://de.wikipedia.org/wiki/Die_blinden_M%C3%A4nner_und_der_Elefant): aus verschiedenen Blickwinkeln betrachtet, bedeutet lernOS unterschiedliche Dinge. Die wichtigsten Blickwinkel sind:
+
 * Offenes System für Lebenslanges Lernen und Lernende Organisationen
 * Brainware ... keine Software!
 * Verb in Esperanto, ich/wir werden lernen (mi/ni lernos)
 * Projekt der [Cogneon Akademie](https://lernos.org) mit Laufzeit 2016-2022
 
-# lernOS  Guides
+# lernOS Leitfäden
 Der **lernOS Core** stellt Leitfäden auf den drei Ebenen Individuum, Team und Organisation bereit. Die lernOS Inhalte können in verschiedenen Formaten und Sprachen heruntergeladen werden. Der lernOS Core besteht aus drei Leitfäden:
 
 * [lernOS für Dich](https://github.com/cogneon/lernos-for-you)
