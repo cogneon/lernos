@@ -62,5 +62,3 @@ Ja, Sie können und wir wollen, dass Sie es tun! Aus diesem Grund wird lernOS un
 **Kann ich kommerzielle Produkte und Dienstleistungen mit lernOS im Namen von lernOS anbieten?**
 
 Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht in ihrem Namen enthalten (z.B. "lernOS-Lernwerkstatt"). Das ist wie bei [Chromium](https://www.chromium.org/Home) (Open-Source-Webbrowserkern) und [Chrome](https://www.google.com/intl/en_en/chrome/) (ein Browser-Produkt von Google). Chromium ist der offen und frei verfügbare Quellcode für Webbrowser. Wenn Sie ein Produkt wie Chrome (Google) oder Edge (Microsoft) erstellen, müssen diese Produkte unterschiedliche Namen haben.
-
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
