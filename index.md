@@ -51,9 +51,9 @@ lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
 
 # lernOS FAQ
-**Wo finde ich die PDF-, WORD-, HTML- usw. Dateien zu den Leitfäden?**
+**Wo finde ich die DOCX-, HTML-, MOBI- und EPUB-Dateien zu den Leitfäden?**
 
-Lade die ZIP-Datei aus dem GitHub-Repository herunter und entpacken Sie sie auf deinem Computer. Auf oberster Ebene befindet sich je ein Ordner je vorhandener Sprachversionen (en, de etc.) mit den entsprechenden Dateien darin. PDF- und Web-Version sind zusätzlich oben im Abschnitt *lernOS Leitfäden* verlinkt.
+Klicke in der Web-Version des Leitfadens oben rechts auf den Link zum GitHub-Repository. Dort findest du die Dateien im Ordner zur jeweiligen Sprachversion (z.B. de, en).
 
 **Kann ich die lernOS Leitfäden auf einem E-Book-Reader wie dem Kindle lesen?**
 
