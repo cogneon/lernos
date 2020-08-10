@@ -1,52 +1,70 @@
 ---
 layout: default
-permalink: /en/
 ---
 *Language: en, [de](/lernos/)*
 
-![lernOS Logo](https://github.com/cogneon/lernos-core/raw/master/images/lernOS-logo-400px.png)
-<br />
+**lernOS** is an [open system](https://en.wikipedia.org/wiki/Open_system_(systems_theory)) for [lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning) and [learning organisations](https://en.wikipedia.org/wiki/Learning_organization). The functioning of lernOS is described in [openly](https://opendefinition.org/od/2.1/de/) available **guides**. lernOS can be easily practised as **individual**, in a **team** or in the whole **organisation**.
 
-lernOS is a self-management method for people living and working in the 21st century. To be successful you have to learn, organize, and develop yourself on an ongoing basis. No matter if you are a teenager, a student, a subject matter expert, or a manager. lernOS integrates elements from methods like [Scrum](https://www.scrumguides.org/), [Objectives & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR), [Getting Things Done](https://gettingthingsdone.com) (GTD), and [Working Out Loud](https://workingoutloud.com) (WOL) and  in an integrated approach.
+If you start as a single person, we recommend that you start together in a **Circle** (4-5 persons) or at least in a **learning tandem** (2 persons). You can easily find like-minded people in the [lernOS Community CONNECT](https://community.cogneon.de), where you can also find the [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
 
-You can use lernOS on your own, in a learning tandem (2 people) or in a learning circle (4-5 people). Learning with lernOS iterates in sprints of 13 weeks called learning sprints. Week 0 is for sprint planning, weeks 1-11 for the actual learning process and week 12 for a retrospective. Each week a learning weekly takes place (about 60 minutes). This way four sprints per year build the basic framework for your livelong learning process.
+The **lernOS Quick-Start-Guide** (only German) provides a quick introduction into the topic and the most important concepts of lernOS (Download as [PDF](./downloads/lernOS-Quick-Start-Guide-en-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-en-v03.pptx)):
 
-Download the lernOS Guides and additional material below and get started now! If you need support to find circle members you can ask your friends and network or use the [Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder) on CONNECT. If you have any further questions you can use the [lernOS category](https://community.cogneon.de/c/lernos) on our community platform [CONNECT](https://community.cogneon.de) or write with the [hashtag #lernOS on Twitter](https://twitter.com/search?q=%23lernOS).
+![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-v03.png)
 
-The adoption of lernOS is a matter of months or years not hours or days. So Keep Calm & Learn On!
-[@simondueckert](https://twitter.com/simondueckert)
+# Why lernOS?
+Constant change and our future well-being require continuous learning. Lifelong learning as well as learning in teams and organisations ensures a good future for all of us (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
 
-# lernOS  Guides
-The **lernOS Core** provides guidelines for the three layers individuals, teams, and organizations. The lernOS content can be downloaded as guides in different formats and languages. The lernOS Core consists of three guides:
+# What is lernOS?
 
-* [lernOS for You](https://github.com/cogneon/lernos-for-you)
-* [lernOS for Teams](https://github.com/cogneon/lernos-for-teams)
-* [lernOS for Organizations](https://github.com/cogneon/lernos-for-organizations)
+With lernOS it is like with [the blind men and the elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant): seen from different angles, lernOS means different things. The most important angles are:
 
-The **lernOS Toolbox** provides further guides for tools and methods often used (e.g. Expert Debriefing, Barcamps, Podcasting, Sketchnoting.
+* Open system for lifelong learning and learning organizations
+* Brainware ... not software!
+* Verb in Esperanto, I/we will learn (mi/ni lernos)
+* Project of the [Cogneon Academy](https://lernos.org) that runs from 2016-2022
 
-# lernOS FAQ
-**Where do I find the PDF, WORD, HTML etc. files?**
+# lernOS Guides
+Der **lernOS Core** stellt Leitfäden auf den Ebenen Individuum, Team und Organisation bereit. Die lernOS Inhalte können in verschiedenen Formaten und Sprachen heruntergeladen werden. Der lernOS Core besteht aus drei Leitfäden:
 
-Download the ZIP-File from the repository and extract it on your computer. In the folder with the guide you'll find subfolders for the available language versions (en, de etc.) with the files in it.
+The **lernOS Core** provides guides on the levels individual, team and organisation. The lernOS content can be downloaded in different formats and languages. The lernOS Core consists of three guides:
 
-**Can I read the lernOS Guides on an ebook reader like the kindle?**
+* [lernOS für Dich](https://cogneon.github.io/lernos-for-you/en/) - The Art of Selfdirected, Lifelong Learning ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/en/lernOS-for-You-Guide-en.pdf))
+* lernOS für Teams (noch nicht verfügbar)
+* [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/) (only German) - Gemeinsam Lernende Organisationen entwickeln ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-organizations/master/de/lernOS-Guide-for-Organizations-de.pdf))
 
-Yes. You have to get the email adress of your kindle in the preferences. Then send the mobi version to that email adress and the guide will appear on your kindle device or app. Other devices might need the epub version. Check the documentation of your device.
+The **lernOS Toolbox** provides further guides to proven tools and methods that promote good knowledge management. Currently available:
 
-**Can I use and modify lernOS?**
+* [lernOS Barcamp](https://cogneon.github.io/lernos-barcamp/de/) (only German) - WE bring the Structure, YOU bring the Content! ([PDF](https://raw.githubusercontent.com/cogneon/lernos-barcamp/master/de/lernOS-Barcamp-Guide-de.pdf))
+* [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/) (only German) - Soziales Lernen im Netzwerk ([PDF](https://raw.githubusercontent.com/cogneon/lernos-cmgmt/master/de/lernOS-Community-Management-Guide-de.pdf))
+* [lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/) (only German) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-expert-debriefing/master/de/lernOS-expert-debriefing-Guide-de.pdf))
+* [lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/) (only German) - Wissen teilen mit Podcasts ([PDF](https://raw.githubusercontent.com/cogneon/lernos-podcasting/master/de/lernOS-Podcasting-Guide-de.pdf))
+* [lernOS Prozessmodellierung](https://github.com/cogneon/lernos-cmgmt) (only German) - If you can’t describe what you are doing as a process,you don’t know what you’re doing ([PDF](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf))
+* [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/en/) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-sketchnoting/master/en/lernOS-Sketchnoting-Guide-en.pdf))
 
-Yes. You can and we want you to do it! That's why lernOS is released under a creative commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and follows the principles of the open definition. You can download, use, and modify it. You can use it in private and business contexts. You can create products and services with lernOS and provide support, training, coaching and professional services. You can also call yourself a lernOS coach, mentor, guide, trainer, circle facilitator etc.
-
-**Can I provide commercial products and services with lernOS in the name?**
-
-No. Individual products and services must not contain the term "lernOS" in their name (e.g. "lernOS Learning Workshop"). It's like [Chromium](https://www.chromium.org/Home) (open source web browser core) and [Chrome](https://www.google.com/intl/en_en/chrome/) (a browser product of google). Chromium is the openly and freely available source code for web browsers. If you create a product like Chrome (Google) or Edge (Microsoft) these products have to have different names.
+On CONNECT there is an [overview of contact persons](https://community.cogneon.de/t/lernos-ansprechpartner/1845) and other guides/learning paths that are currently being worked on.
 
 # License
-lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). Following the [Open Definition](https://opendefinition.org/) you can freely access, use, modify, and share it for any purpose (private/business, commercial/non-commercial).
+lernOS is available as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). According to the [Open Definition](https://opendefinition.org/od/2.1/de/) you can freely access, modify and share the content.
 
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
+
+# lernOS FAQ
+**Where can I find the DOCX, HTML, MOBI and EPUB files for the guides?**
+
+In the web version of the guide, click on the link to the GitHub repository in the upper right corner. There you will find the files in the folder for the respective language version (e.g. de, en).
+
+**Can I read the lernOS guides on an e-book reader like the Kindle?**
+
+Yes, on GitHub, the guides are available in [EPUB](https://de.wikipedia.org/wiki/EPUB) and [Mobipocket](https://de.wikipedia.org/wiki/Mobipocket) format. E.g. on Kindle you just need to send the mobi file to the Kindle's email address (shown in the settings). For e-book management software like [Calibre](https://calibre-ebook.com/), you can simply drag and drop the epub file to add it.
+
+**Can I use and modify lernOS content?**
+
+Yes, you can and we even want you to do that! For this reason lernOS is released under the Creative Commons License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can download, use and modify the content. You can use lernOS content in private and commercial contexts.
+
+**Can I offer commercial products and services with lernOS in the name?**
+
+No. Individual products and services must not contain the term "lernOS" in their name (e.g. "lernOS Lernwerkstatt"). This is like Open Source Webbrowser [Chromium](https://www.chromium.org/Home), whose source code anyone can use. Products based on it must have a different name ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
