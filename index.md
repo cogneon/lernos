@@ -5,11 +5,9 @@ layout: default
 
 **lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und [Lernende Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). Die Funktionsweise von lernOS wird in [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** beschrieben. lernOS kann ganz einfach als **Einzelperson**, im **Team** oder in der gesamten **Organisation** praktiziert werden. Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de), dort gibt es z.B. den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
 
-Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als PDF, PPT):
+Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als [PDF](./downloads/lernOS-Quick-Start-Guide-de-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-de-v03.pptx)):
 
 ![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-v03.png)
-
-<br />
 
 # Warum lernOS?
 Ständige Veränderung und unser zukünftiges Wohlergehen erfordern kontinuierliches Lernen. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
