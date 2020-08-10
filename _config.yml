@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: lernOS
 description: Open System for Lifelong Learning and Learning Organizations
-show_downloads: false
+show_downloads: true
 github:
   en_url: https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md
   de_url: https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-de.md
