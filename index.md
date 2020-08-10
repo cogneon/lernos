@@ -41,7 +41,24 @@ Die **lernOS Toolbox** stellt weitere Leitfäden zu bewährten Tools und Methode
 
 Auf CONNECT befindet sich eine [Übersicht von Ansprechpartnern](https://community.cogneon.de/t/lernos-ansprechpartner/1845) und weiteren Leitfäden/Lernpfaden, an denen gerade gearbeitet wird.
 
+# Videos, Podcasts, Blogs etc.
+
+lernOS wurde bereits in vielen Vorträgen, Diskussionen, Podcasts, Blogs etc. besprochen. Eine kleine Auswahl:
+
+* Buchkapitel **lernOS als Betriebssystem für die Arbeit der Zukunft** von Simon Dückert in [Faszination New Work: 50 Impulse für die neue Arbeitswelt](https://amzn.to/3issdMx)
+* Podcast [Lebenslanges Lernen mit lernOS](https://fyyd.de/episode/5173375) im Klartext HR Podcast
+* Vortrag [lernOS – Lebenslanges Lernen und Aufbau digitaler Kompetenzen für alle Bürger](https://www.youtube.com/watch?v=Wfe7HsqvqrQ)
+* Vortrag [lernOS in a Nutshell bei der GfWM Regionalgruppe Frankfurt-Rhein-Main](https://www.youtube.com/watch?v=F5-f61GvXE4)
+* Vortrag [Learning Organization - State of the Union - von lernOS, GTD, OKR, PKM, WOL & Co.](https://www.youtube.com/watch?v=H3O3eAY7XrI)
+* Vortrag [lernOS - Hacking How We Learn - Lifelong](https://www.youtube.com/watch?v=7atMXYyzkBc&t=16s) (en)
+* [lernOS All Stars Camp 2020](https://wiki.cogneon.de/loscamp20)
+* [lernOS Rockstars Camp 2019](https://community.cogneon.de/t/1-lernos-rockstars-camp/)
+* Blog [Die 13 wichtigsten Unterschiede zwischen lernOS und WOL](https://cogneon.de/2019/07/13/di3-13-wichtigsten-unterschiede-zwischen-lernos-und-wol/)
+* Podcast [lernOS on Air](https://cogneon.de/loa)
+* [lernOS Community Call](https://www.youtube.com/watch?v=-YKT2dD_C10&list=PLsDEDkLIwmRytb196veslnu2JiK9_dTqy) (Erster Freitag im Monat)
+
 # Lizenz
+
 lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) unter [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY) verfügbar. Gemäß der [Open Definition](https://opendefinition.org/od/2.1/de/) kannst du die Inhalte frei zugreifen, verändern und teilen.
 
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
@@ -65,4 +82,8 @@ Ja, du kannst und wir wollen sogar, dass du das machst! Aus diesem Grund wird le
 
 **Kann ich kommerzielle Produkte und Dienstleistungen mit lernOS im Namen anbieten?**
 
-Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht in ihrem Namen enthalten (z.B. "lernOS Lernwerkstatt"). Das ist wie bei Open Source Webbrowser [Chromium](https://www.chromium.org/Home), dessen Quellcode jeder verwenden kann. Darauf aufbauende Produkte müssen aber einen anderen Namen haben ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))) .
+Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht in ihrem Namen enthalten (z.B. "lernOS Lernwerkstatt"). Das ist wie bei Open Source Webbrowser [Chromium](https://www.chromium.org/Home), dessen Quellcode jeder verwenden kann. Darauf aufbauende Produkte müssen aber einen anderen Namen haben ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
+
+----
+
+*Hinweis: Links zu Büchern und Produkten auf dieser Seite können Affiliate-Links sein.*
