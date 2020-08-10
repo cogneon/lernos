@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /en/
 ---
 *Language: en, [de](/lernos/)*
 
