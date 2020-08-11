@@ -62,6 +62,19 @@ lernOS has already been discussed in many lectures, discussions, podcasts, blogs
 * Podcast [lernOS on Air](https://cogneon.de/loa) (de)
 * [lernOS Community Call](https://www.youtube.com/watch?v=-YKT2dD_C10&list=PLsDEDkLIwmRytb196veslnu2JiK9_dTqy) (first friday per month) (de)
 
+# lernOS Supporter
+
+**lernOS Supporter** are organisations that support the application and further development of lernOS. Every lernOS supporter receives a seat in the **lernOS Advisory Board** (€ 1.000,- per year, participation in 3 advisory board meetings) and can support, shape and actively participate in the development.  Organisations can become lernOS supporters at any time ([contact Cogneon](https://cogneon.de/kontakt)).
+
+**Current lernOS Supporter:**
+
+1. [DATEV](https://www.datev.de) (until June 2020), represented by [Knut Eckstein](https://www.xing.com/profile/Knut_Eckstein)
+2. [Ernst & Young](https://www.ey.com) (EY) (until June 2021), represented by [Alessa Münch](https://www.linkedin.com/in/alessamuench/)
+3. [Life insurance from 1871](https://www.lv1871.de) (until June 2021), represented by [Alexander Rose](https://www.linkedin.com/in/alexander-rose-loci/)
+4. [SAP](https://www.sap.com) (until June 2021), represented by [Thomas Jenewein](https://www.linkedin.com/in/thomasjenewein/)
+5. [Siemens Heathineers](https://www.siemens-healthineers.com) (until June 2021), represented by [Thao Nguyen](https://www.linkedin.com/in/thao-nguyen-b19545148/)
+6. [Telekom](https://www.telekom.de) (until June 2021), represented by  [Winfried Ebner](https://www.linkedin.com/in/winfried-ebner/)
+
 # License
 lernOS is available as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). According to the [Open Definition](https://opendefinition.org/od/2.1/de/) you can freely access, modify and share the content.
 
