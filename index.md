@@ -89,3 +89,5 @@ Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht 
 ----
 
 *Hinweis: Links zu Büchern und Produkten auf dieser Seite können Affiliate-Links sein.*
+
+![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)

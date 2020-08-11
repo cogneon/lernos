@@ -91,3 +91,5 @@ No. Individual products and services must not contain the term "lernOS" in their
 ----
 
 *Note: Links to books and products on this site may be affiliate links.*
+
+![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
