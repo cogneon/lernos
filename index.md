@@ -28,7 +28,7 @@ Mit lernOS ist es wie mit [den blinden Männern und dem Elefant](https://de.wiki
 # lernOS Leitfäden
 Der **lernOS Core** stellt Leitfäden auf den Ebenen Individuum, Team und Organisation bereit. Die lernOS Inhalte können in verschiedenen Formaten und Sprachen heruntergeladen werden. Der lernOS Core besteht aus drei Leitfäden:
 
-* [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.pdf); [DOCX](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.docx), [MOBI](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.mobi), [EPUB](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.epub))
+* [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.pdf), [DOCX](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.docx), [MOBI](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.mobi), [EPUB](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/lernOS-fuer-Dich-Leitfaden.epub))
 * lernOS für Teams (noch nicht verfügbar)
 * [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/) - Gemeinsam Lernende Organisationen entwickeln ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-organizations/master/de/lernOS-Guide-for-Organizations-de.pdf))
 
