@@ -31,7 +31,7 @@ Der **lernOS Core** stellt Leitfäden auf den Ebenen Individuum, Team und Organi
 
 The **lernOS Core** provides guides on the levels individual, team and organisation. The lernOS content can be downloaded in different formats and languages. The lernOS Core consists of three guides:
 
-* [lernOS für Dich](https://cogneon.github.io/lernos-for-you/en/) - The Art of Selfdirected, Lifelong Learning ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-you/master/en/lernOS-for-You-Guide-en.pdf))
+* lernOS für Dich - The Art of Selfdirected, Lifelong Learning (until version 2.0 there is only [version 1.6 available in English](https://github.com/cogneon/lernos-for-you/releases/tag/1.6))
 * lernOS für Teams (noch nicht verfügbar)
 * [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/) (only German) - Gemeinsam Lernende Organisationen entwickeln ([PDF](https://raw.githubusercontent.com/cogneon/lernos-for-organizations/master/de/lernOS-Guide-for-Organizations-de.pdf))
 
