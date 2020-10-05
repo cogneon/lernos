@@ -7,7 +7,7 @@ layout: default
 
 Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de), dort gibt es z.B. den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
 
-![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-v03.png)
+![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-de-v03.png)
 
 Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als [PDF](./downloads/lernOS-Quick-Start-Guide-de-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-de-v03.pptx)).
 

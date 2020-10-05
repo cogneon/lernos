@@ -8,11 +8,11 @@ permalink: /en/
 
 If you start as a single person, we recommend that you start together in a **Circle** (4-5 persons) or at least in a **learning tandem** (2 persons). You can easily find like-minded people in the [lernOS Community CONNECT](https://community.cogneon.de), where you can also find the [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
 
-![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-v03.png)
+![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-en-v03.png)
 
 The **lernOS Quick-Start-Guide** (only German) provides a quick introduction into the topic and the most important concepts of lernOS (Download as [PDF](./downloads/lernOS-Quick-Start-Guide-en-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-en-v03.pptx)).
 
-With the **[lernOS Web-Presentation](https://cogneon.github.io/lernos/presentation/de/)** (only German) you can easily present lernOS at events, barcamps, meetups, conferences, departmental rounds, regular meetings etc.
+With the **[lernOS Web-Presentation](https://cogneon.github.io/lernos/presentation/en/)** (only German) you can easily present lernOS at events, barcamps, meetups, conferences, departmental rounds, regular meetings etc.
 
 # Why lernOS?
 Constant change and our future well-being require continuous learning. Lifelong learning as well as learning in teams and organisations ensures a good future for all of us (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
