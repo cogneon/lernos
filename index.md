@@ -34,6 +34,7 @@ Der **lernOS Core** stellt Leitfäden auf den Ebenen Individuum, Team und Organi
 
 Die **lernOS Toolbox** stellt weitere Leitfäden zu bewährten Tools und Methoden bereit, die den guten Umgang mit Wissen fördern. Aktuell sind verfügbar:
 
+* [lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/) - Achtsamkeit 4.2 - Dein Weg ist das Ziel ([PDF](https://github.com/cogneon/lernos-achtsamkeit/blob/master/de/lernOS-Achtsamkeit42.pdf))
 * [lernOS Barcamp](https://cogneon.github.io/lernos-barcamp/de/) - WE bring the Structure, YOU bring the Content! ([PDF](https://raw.githubusercontent.com/cogneon/lernos-barcamp/master/de/lernOS-Barcamp-Guide-de.pdf))
 * [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/) - Soziales Lernen im Netzwerk ([PDF](https://raw.githubusercontent.com/cogneon/lernos-cmgmt/master/de/lernOS-Community-Management-Guide-de.pdf))
 * [lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-expert-debriefing/master/de/lernOS-expert-debriefing-Guide-de.pdf))

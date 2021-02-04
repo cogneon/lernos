@@ -37,6 +37,7 @@ The **lernOS Core** provides guides on the levels individual, team and organisat
 
 The **lernOS Toolbox** provides further guides to proven tools and methods that promote good knowledge management. Currently available:
 
+* [lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/) - Achtsamkeit 4.2 - Dein Weg ist das Ziel ([PDF](https://github.com/cogneon/lernos-achtsamkeit/blob/master/de/lernOS-Achtsamkeit42.pdf))
 * [lernOS Barcamp](https://cogneon.github.io/lernos-barcamp/de/) (only German) - WE bring the Structure, YOU bring the Content! ([PDF](https://raw.githubusercontent.com/cogneon/lernos-barcamp/master/de/lernOS-Barcamp-Guide-de.pdf))
 * [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/) (only German) - Soziales Lernen im Netzwerk ([PDF](https://raw.githubusercontent.com/cogneon/lernos-cmgmt/master/de/lernOS-Community-Management-Guide-de.pdf))
 * [lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/) (only German) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-expert-debriefing/master/de/lernOS-expert-debriefing-Guide-de.pdf))
