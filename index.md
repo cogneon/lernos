@@ -3,7 +3,9 @@ layout: default
 ---
 *Language: [en](/lernos/en), de*
 
-**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen**. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
+**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen**. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)):
+
+![](images/oecd-learning-compass-2030-de.png)
 
 **lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und [Lernende Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). Die Funktionsweise von lernOS wird in [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** beschrieben. lernOS kann ganz einfach als **Einzelperson**, im **Team** oder in der gesamten **Organisation** praktiziert werden.
 
