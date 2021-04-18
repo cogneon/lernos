@@ -56,6 +56,7 @@ lernOS wurde bereits in vielen Vorträgen, Diskussionen, Podcasts, Blogs etc. be
 * [lernOS Rockstars Camp 2019](https://community.cogneon.de/t/1-lernos-rockstars-camp/)
 * Blog [Die 13 wichtigsten Unterschiede zwischen lernOS und WOL](https://cogneon.de/2019/07/13/di3-13-wichtigsten-unterschiede-zwischen-lernos-und-wol/)
 * Podcast [lernOS on Air](https://cogneon.de/loa)
+* Video über lernOS for You [auf LinkedIn](https://www.linkedin.com/posts/theresa-laudenbach-4559a5200_lernos-lebenslangeslernen-fau-ugcPost-6770754811093684224-uIA8)‚
 
 # Lizenz
 

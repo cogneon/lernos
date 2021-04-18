@@ -58,8 +58,9 @@ lernOS has already been discussed in many lectures, discussions, podcasts, blogs
 * [lernOS Rockstars Camp 2019](https://community.cogneon.de/t/1-lernos-rockstars-camp/) (de)
 * Blog [Die 13 wichtigsten Unterschiede zwischen lernOS und WOL](https://cogneon.de/2019/07/13/di3-13-wichtigsten-unterschiede-zwischen-lernos-und-wol/) (de)
 * Podcast [lernOS on Air](https://cogneon.de/loa) (de)
+* Video about lernOS for You [on LinkedIn](https://www.linkedin.com/posts/theresa-laudenbach-4559a5200_lernos-lebenslangeslernen-fau-ugcPost-6770754811093684224-uIA8) (de)
 
-# License
+# Licen‚se
 lernOS is available as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). According to the [Open Definition](https://opendefinition.org/od/2.1/de/) you can freely access, modify and share the content.
 
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
