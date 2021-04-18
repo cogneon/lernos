@@ -60,15 +60,13 @@ lernOS wurde bereits in vielen Vorträgen, Diskussionen, Podcasts, Blogs etc. be
 * Podcast [lernOS on Air](https://cogneon.de/loa)
 * [lernOS Community Call](https://www.youtube.com/watch?v=-YKT2dD_C10&list=PLsDEDkLIwmRytb196veslnu2JiK9_dTqy) (Erster Freitag im Monat)
 
-6. https://www.linkedin.com/in/winfried-ebner/)
-
 # Lizenz
 
 lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) unter [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY) verfügbar. Gemäß der [Open Definition](https://opendefinition.org/od/2.1/de/) kannst du die Inhalte frei zugreifen, verändern und teilen.
 
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+![](images/cc-by.png)
 
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
 

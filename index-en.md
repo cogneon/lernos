@@ -70,7 +70,7 @@ lernOS is available as [free cultural work](https://creativecommons.org/share-yo
 
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+![](images/cc-by.png)
 
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
 
