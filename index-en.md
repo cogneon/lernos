@@ -63,18 +63,7 @@ lernOS has already been discussed in many lectures, discussions, podcasts, blogs
 * Podcast [lernOS on Air](https://cogneon.de/loa) (de)
 * [lernOS Community Call](https://www.youtube.com/watch?v=-YKT2dD_C10&list=PLsDEDkLIwmRytb196veslnu2JiK9_dTqy) (first friday per month) (de)
 
-# lernOS Supporter
-
-**lernOS Supporter** are organisations that support the application and further development of lernOS. Every lernOS supporter receives a seat in the **lernOS Advisory Board** (€ 1.000,- per year, participation in 3 advisory board meetings) and can support, shape and actively participate in the development.  Organisations can become lernOS supporters at any time ([contact Cogneon](https://cogneon.de/kontakt)).
-
-**Current lernOS Supporter:**
-
-1. [DATEV](https://www.datev.de), represented by [Simone Wanken](https://www.linkedin.com/in/dr-simone-wanken-004b7a202/)
-2. [Ernst & Young](https://www.ey.com) (EY), represented by [Alessa Münch](https://www.linkedin.com/in/alessamuench/)
-3. [Lebensversicherung von 1871](https://www.lv1871.de), represented by [Kathrin Falkenstein](https://www.linkedin.com/in/kathrin-falkenstein/)
-4. [SAP](https://www.sap.com), vertreten durch [Thomas Jenewein](https://www.linkedin.com/in/thomasjenewein/)
-5. [Siemens Heathineers](https://www.siemens-healthineers.com), represented by [Thao Nguyen](https://www.linkedin.com/in/thao-nguyen-b19545148/)
-6. [Telekom](https://www.telekom.de), represented by [Winfried Ebner](https://www.linkedin.com/in/winfried-ebner/)
+6. https://www.linkedin.com/in/winfried-ebner/)
 
 # License
 lernOS is available as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). According to the [Open Definition](https://opendefinition.org/od/2.1/de/) you can freely access, modify and share the content.
@@ -101,9 +90,5 @@ Yes, you can and we even want you to do that! For this reason lernOS is released
 **Can I offer commercial products and services with lernOS in the name?**
 
 No. Individual products and services must not contain the term "lernOS" in their name (e.g. "lernOS Lernwerkstatt"). This is like Open Source Webbrowser [Chromium](https://www.chromium.org/Home), whose source code anyone can use. Products based on it must have a different name ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
-
-----
-
-*Note: Links to books and products on this site may be affiliate links.*
 
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)

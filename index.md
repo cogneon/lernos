@@ -60,18 +60,7 @@ lernOS wurde bereits in vielen Vorträgen, Diskussionen, Podcasts, Blogs etc. be
 * Podcast [lernOS on Air](https://cogneon.de/loa)
 * [lernOS Community Call](https://www.youtube.com/watch?v=-YKT2dD_C10&list=PLsDEDkLIwmRytb196veslnu2JiK9_dTqy) (Erster Freitag im Monat)
 
-# lernOS Supporter
-
-**lernOS Supporter** sind Organisationen, die die Anwendung und Weiterentwicklung von lernOS unterstützen. Jeder lernOS Supporter erhält einen Sitze im **lernOS Beirat** (€ 1.000,- pro Jahr, Teilnahme an 3 Beiratstreffen) und kann darüber  die Entwicklung unterstürtzen, mitgestalten und sich aktiv beteiligen.  Organisation können jederzeit lernOS Supporter werden ([Kontakt aufnehmen](https://cogneon.de/kontakt)).
-
-**Aktuelle lernOS Supporter:**
-
-1. [DATEV](https://www.datev.de), vertreten durch [Simone Wanken](https://www.linkedin.com/in/dr-simone-wanken-004b7a202/)
-2. [Ernst & Young](https://www.ey.com) (EY), vertreten durch [Alessa Münch](https://www.linkedin.com/in/alessamuench/)
-3. [Lebensversicherung von 1871](https://www.lv1871.de), vertreten durch [Kathrin Falkenstein](https://www.linkedin.com/in/kathrin-falkenstein/)
-4. [SAP](https://www.sap.com), vertreten durch [Thomas Jenewein](https://www.linkedin.com/in/thomasjenewein/)
-5. [Siemens Heathineers](https://www.siemens-healthineers.com), vertreten durch [Thao Nguyen](https://www.linkedin.com/in/thao-nguyen-b19545148/)
-6. [Telekom](https://www.telekom.de), vertreten durch [Winfried Ebner](https://www.linkedin.com/in/winfried-ebner/)
+6. https://www.linkedin.com/in/winfried-ebner/)
 
 # Lizenz
 
