@@ -3,20 +3,9 @@ layout: default
 ---
 *Language: [en](/lernos/en), de*
 
+**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen**. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
+
 **lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und [Lernende Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). Die Funktionsweise von lernOS wird in [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** beschrieben. lernOS kann ganz einfach als **Einzelperson**, im **Team** oder in der gesamten **Organisation** praktiziert werden.
-
-Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de), dort gibt es z.B. den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
-
-![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-de-v03.png)
-
-Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als [PDF](./downloads/lernOS-Quick-Start-Guide-de-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-de-v03.pptx)).
-
-Mit der **[lernOS Web-Präsentation](https://cogneon.github.io/lernos/presentation/de/)** kann man lernOS ganz einfach auf Veranstaltungen, Barcamps, Meetups, Konferenzen, Abteilungsrunden, Regelterminen etc. vorstellen.
-
-# Warum lernOS?
-Ständige Veränderung und unser zukünftiges Wohlergehen erfordern kontinuierliches Lernen. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
-
-# Was ist lernOS?
 
 Mit lernOS ist es wie mit [den blinden Männern und dem Elefant](https://de.wikipedia.org/wiki/Die_blinden_M%C3%A4nner_und_der_Elefant): aus verschiedenen Blickwinkeln betrachtet, bedeutet lernOS unterschiedliche Dinge. Die wichtigsten Blickwinkel sind:
 
@@ -24,6 +13,11 @@ Mit lernOS ist es wie mit [den blinden Männern und dem Elefant](https://de.wiki
 * Brainware ... keine Software!
 * Verb in Esperanto, ich/wir werden lernen (mi/ni lernos)
 * Projekt der [Cogneon Akademie](https://lernos.org) mit Laufzeit 2016-2022
+* Sammlung von offen verfügbaren Leitfäden
+
+Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als [PDF](./downloads/lernOS-Quick-Start-Guide-de-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-de-v03.pptx)). Mit der **[lernOS Web-Präsentation](https://cogneon.github.io/lernos/presentation/de/)** kann man lernOS ganz einfach auf Veranstaltungen, Barcamps, Meetups, Konferenzen, Abteilungsrunden, Regelterminen etc. vorstellen.
+
+![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-de-v03.png)
 
 # lernOS Leitfäden
 Der **lernOS Core** stellt Leitfäden auf den Ebenen Individuum, Team und Organisation bereit. Die lernOS Inhalte können in verschiedenen Formaten und Sprachen heruntergeladen werden. Der lernOS Core besteht aus drei Leitfäden:
@@ -41,6 +35,8 @@ Die **lernOS Toolbox** stellt weitere Leitfäden zu bewährten Tools und Methode
 * [lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/) - Wissen teilen mit Podcasts ([PDF](https://raw.githubusercontent.com/cogneon/lernos-podcasting/master/de/lernOS-Podcasting-Guide-de.pdf))
 * [lernOS Prozessmodellierung](https://github.com/cogneon/lernos-cmgmt) - If you can’t describe what you are doing as a process,you don’t know what you’re doing ([PDF](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf))
 * [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-sketchnoting/master/de/lernOS-Sketchnoting-Guide-de.pdf))
+
+Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de), dort gibt es z.B. den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
 
 Auf CONNECT befindet sich eine [Übersicht von Ansprechpartnern](https://community.cogneon.de/t/lernos-ansprechpartner/1845) und weiteren Leitfäden/Lernpfaden, an denen gerade gearbeitet wird.
 
@@ -86,9 +82,5 @@ Ja, du kannst und wir wollen sogar, dass du das machst! Aus diesem Grund wird le
 **Kann ich kommerzielle Produkte und Dienstleistungen mit lernOS im Namen anbieten?**
 
 Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht in ihrem Namen enthalten (z.B. "lernOS Lernwerkstatt"). Das ist wie bei Open Source Webbrowser [Chromium](https://www.chromium.org/Home), dessen Quellcode jeder verwenden kann. Darauf aufbauende Produkte müssen aber einen anderen Namen haben ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
-
-----
-
-*Hinweis: Links zu Büchern und Produkten auf dieser Seite können Affiliate-Links sein.*
 
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)

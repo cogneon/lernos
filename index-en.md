@@ -4,20 +4,9 @@ permalink: /en/
 ---
 *Language: en, [de](/lernos/)*
 
+**Constant change** and our **future well-being** require **continuous, self-organized learning**. Lifelong learning as well as learning in teams and organisations ensures a good future for all of us (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
+
 **lernOS** is an [open system](https://en.wikipedia.org/wiki/Open_system_(systems_theory)) for [lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning) and [learning organisations](https://en.wikipedia.org/wiki/Learning_organization). The functioning of lernOS is described in [openly](https://opendefinition.org/od/2.1/de/) available **guides**. lernOS can be easily practised as **individual**, in a **team** or in the whole **organisation**.
-
-If you start as a single person, we recommend that you start together in a **Circle** (4-5 persons) or at least in a **learning tandem** (2 persons). You can easily find like-minded people in the [lernOS Community CONNECT](https://community.cogneon.de), where you can also find the [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
-
-![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-en-v03.png)
-
-The **lernOS Quick-Start-Guide** (only German) provides a quick introduction into the topic and the most important concepts of lernOS (Download as [PDF](./downloads/lernOS-Quick-Start-Guide-en-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-en-v03.pptx)).
-
-With the **[lernOS Web-Presentation](https://cogneon.github.io/lernos/presentation/en/)** (only German) you can easily present lernOS at events, barcamps, meetups, conferences, departmental rounds, regular meetings etc.
-
-# Why lernOS?
-Constant change and our future well-being require continuous learning. Lifelong learning as well as learning in teams and organisations ensures a good future for all of us (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/)).
-
-# What is lernOS?
 
 With lernOS it is like with [the blind men and the elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant): seen from different angles, lernOS means different things. The most important angles are:
 
@@ -25,6 +14,11 @@ With lernOS it is like with [the blind men and the elephant](https://en.wikipedi
 * Brainware ... not software!
 * Verb in Esperanto, I/we will learn (mi/ni lernos)
 * Project of the [Cogneon Academy](https://lernos.org) that runs from 2016-2022
+* Collection of openly available guidelines
+
+The **lernOS Quick-Start-Guide** (only German) provides a quick introduction into the topic and the most important concepts of lernOS (Download as [PDF](./downloads/lernOS-Quick-Start-Guide-en-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-en-v03.pptx)). With the **[lernOS Web-Presentation](https://cogneon.github.io/lernos/presentation/en/)** (only German) you can easily present lernOS at events, barcamps, meetups, conferences, departmental rounds, regular meetings etc.
+
+![lernOS Quick-Start-Guide (Version 0.3)](./images/lernOS-Quick-Start-Guide-en-v03.png)
 
 # lernOS Guides
 Der **lernOS Core** stellt Leitfäden auf den Ebenen Individuum, Team und Organisation bereit. Die lernOS Inhalte können in verschiedenen Formaten und Sprachen heruntergeladen werden. Der lernOS Core besteht aus drei Leitfäden:
@@ -44,6 +38,8 @@ The **lernOS Toolbox** provides further guides to proven tools and methods that 
 * [lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/) (only German) - Wissen teilen mit Podcasts ([PDF](https://raw.githubusercontent.com/cogneon/lernos-podcasting/master/de/lernOS-Podcasting-Guide-de.pdf))
 * [lernOS Prozessmodellierung](https://github.com/cogneon/lernos-cmgmt) (only German) - If you can’t describe what you are doing as a process,you don’t know what you’re doing ([PDF](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf))
 * [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/en/) ([PDF](https://raw.githubusercontent.com/cogneon/lernos-sketchnoting/master/en/lernOS-Sketchnoting-Guide-en.pdf))
+
+If you start as a single person, we recommend that you start together in a **Circle** (4-5 persons) or at least in a **learning tandem** (2 persons). You can easily find like-minded people in the [lernOS Community CONNECT](https://community.cogneon.de), where you can also find the [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/).
 
 On CONNECT there is an [overview of contact persons](https://community.cogneon.de/t/lernos-ansprechpartner/1845) and other guides/learning paths that are currently being worked on.
 
