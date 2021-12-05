@@ -9,7 +9,7 @@ layout: default
 
 Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als [PDF](./downloads/lernOS-Quick-Start-Guide-de-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-de-v03.pptx)). Mit der **[lernOS Web-Präsentation](https://cogneon.github.io/lernos/presentation/de/)** kann man lernOS ganz einfach auf Veranstaltungen, Barcamps, Meetups, Konferenzen, Abteilungsrunden, Regelterminen etc. vorstellen.
 
-![](./images/lernOS-Quick-Start-Guide-de-v03.png | width=400px)
+<a href="https://raw.githubusercontent.com/cogneon/lernos/master/images/lernOS-Quick-Start-Guide-de-v03.png"><img src="https://raw.githubusercontent.com/cogneon/lernos/master/images/lernOS-Quick-Start-Guide-de-v03.png" width=400px /></a>
 
 # lernOS Leitfäden
 ## lernOS Core
