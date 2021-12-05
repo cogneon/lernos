@@ -15,7 +15,7 @@ Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema un
 ## lernOS Core
 Mit den Leitfäden des lernOS Core (Kernel) werden die Grundlagen für das kontinuierliche Lernen auf allen Ebenen der Organisation gelegt. Einsteiger_innen empfehlen wir mit einem der drei Lernpfade im lernOS für Dich Leitfaden zu beginnen.
 
-1.[lernOS für Dich Leitfaden](https://cogneon.github.io/lernos-for-you/de/)*- Die Kunst des selbstgesteuerten, lebenslangenen Lernens
+1.[lernOS für Dich Leitfaden](https://cogneon.github.io/lernos-for-you/de/) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens
 1. *lernOS für Teams Leitfaden* - noch nicht verfügbar
 1. [lernOS für Organisationen Leitfaden](https://cogneon.github.io/lernos-for-organizations/de/) - Gemeinsam Lernende Organisationen entwickeln
 
