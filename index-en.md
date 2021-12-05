@@ -4,17 +4,9 @@ permalink: /en/
 ---
 *Language: en, [de](/lernos/)*
 
-**Constant change** and our **future well-being** require **continuous, self-organized learning**. Lifelong learning as well as learning in teams and organisations ensures a good future for all of us (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Learning_Compass_2030_Concept_Note_Series.pdf)).
+**Constant change** and our **future well-being** require **continuous, self-organized learning** (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Learning_Compass_2030_Concept_Note_Series.pdf)). We all feel the effects of the digitally connected knowledge society on a daily basis (information overload, performance pressure, speed of technical innovation).
 
-**lernOS** is an [open system](https://en.wikipedia.org/wiki/Open_system_(systems_theory)) for [lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning) and [learning organisations](https://en.wikipedia.org/wiki/Learning_organization). The functioning of lernOS is described in [openly](https://opendefinition.org/od/2.1/de/) available **guides**. lernOS can be easily practised as **individual**, in a **team** or in the whole **organisation**.
-
-With lernOS it is like with [the blind men and the elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant): seen from different angles, lernOS means different things. The most important angles are:
-
-* Open system for lifelong learning and learning organizations
-* Brainware ... not software!
-* Verb in Esperanto, I/we will learn (mi/ni lernos)
-* Project of the [Cogneon Academy](https://lernos.org) that runs from 2016-2022
-* Collection of openly available guidelines
+**lernOS** is an [open system](https://en.wikipedia.org/wiki/Open_system_(systems_theory)) for [lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning) and the development [learning organisations](https://en.wikipedia.org/wiki/Learning_organization). The functioning of lernOS is described in [openly](https://opendefinition.org/od/2.1/de/) available **guides**. You can learn about lernOS with the in [openly](https://opendefinition.org/od/2.1/de/) available **guides** as **individual**, in a **learning tandem** or a **learning group** (lernOS Cicle, 4-5 people).
 
 The **lernOS Quick-Start-Guide** (only German) provides a quick introduction into the topic and the most important concepts of lernOS (Download as [PDF](./downloads/lernOS-Quick-Start-Guide-en-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-en-v03.pptx)). With the **[lernOS Web-Presentation](https://cogneon.github.io/lernos/presentation/en/)** (only German) you can easily present lernOS at events, barcamps, meetups, conferences, departmental rounds, regular meetings etc.
 

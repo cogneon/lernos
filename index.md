@@ -3,17 +3,9 @@ layout: default
 ---
 *Language: [en](/lernos/en), de*
 
-**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen**. Lebenslanges Lernen sowie das Lernen in Teams und Organisationen sichern uns allen eine gute Zukunft (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)).
+**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)). Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
 
-**lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und [Lernende Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). Die Funktionsweise von lernOS wird in [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** beschrieben. lernOS kann ganz einfach als **Einzelperson**, im **Team** oder in der gesamten **Organisation** praktiziert werden.
-
-Mit lernOS ist es wie mit [den blinden Männern und dem Elefant](https://de.wikipedia.org/wiki/Die_blinden_M%C3%A4nner_und_der_Elefant): aus verschiedenen Blickwinkeln betrachtet, bedeutet lernOS unterschiedliche Dinge. Die wichtigsten Blickwinkel sind:
-
-* Offenes System für Lebenslanges Lernen und Lernende Organisationen
-* Brainware ... keine Software!
-* Verb in Esperanto, ich/wir werden lernen (mi/ni lernos)
-* Projekt der [Cogneon Akademie](https://lernos.org) mit Laufzeit 2016-2022
-* Sammlung von offen verfügbaren Leitfäden
+**lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und die Entwicklung von [Lernenden Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). lernOS kannst du mit den [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** als **Einzelperson**, im **Lerntandem** oder einer **Lerngruppe** (lernOS Circe, 4-5 Personen) **Team** oder in der gesamten **Organisation** praktiziert werden.
 
 Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als [PDF](./downloads/lernOS-Quick-Start-Guide-de-v03.pdf), [PPT](./downloads/lernOS-Quick-Start-Guide-de-v03.pptx)). Mit der **[lernOS Web-Präsentation](https://cogneon.github.io/lernos/presentation/de/)** kann man lernOS ganz einfach auf Veranstaltungen, Barcamps, Meetups, Konferenzen, Abteilungsrunden, Regelterminen etc. vorstellen.
 
