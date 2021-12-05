@@ -15,22 +15,22 @@ Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema un
 ## lernOS Core
 Mit den Leitfäden des lernOS Core (Kernel) werden die Grundlagen für das kontinuierliche Lernen auf allen Ebenen der Organisation gelegt. Einsteiger_innen empfehlen wir mit einem der drei Lernpfade im lernOS für Dich Leitfaden zu beginnen.
 
-1. [lernOS für Dich Leitfaden](https://cogneon.github.io/lernos-for-you/de/) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens
-1. lernOS für Teams Leitfaden - noch nicht verfügbar
-1. [lernOS für Organisationen Leitfaden](https://cogneon.github.io/lernos-for-organizations/de/) - Gemeinsam Lernende Organisationen entwickeln
+1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens
+1. lernOS für Teams - noch nicht verfügbar
+1. [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/) - Gemeinsam Lernende Organisationen entwickeln
 
 ## lernOS Toolbox
 Die lernOS Toolbox stellt Leitfäden zum Erlernen bewährter Methoden, Tools und Formate für den guten Umgang mit Wissen bereit.
 
-1. [lernOS Achtsamkeit 4.2 Leitfaden](https://cogneon.github.io/lernos-achtsamkeit/de/) - Dein Weg ist das Ziel
-1. [lernOS BarCamp Leitfaden](https://cogneon.github.io/lernos-barcamp/de/) - WE bring the Structure, YOU bring the Content!
-1. [lernOS Community Management Leitfaden](https://cogneon.github.io/lernos-cmgmt/de/) - Soziales Lernen im Netzwerk
-1. [lernOS Diversity & Inclusion Leitfaden](https://cogneon.github.io/lernos-diversity/de/) - Deine Lernreise von Diversity zu Inclusion
-1. [lernOS ePortfolio Leitfaden](https://cogneon.github.io/lernos-eportfolio/de/)
-1. [lernOS Expert Debriefing Leitfaden](https://cogneon.github.io/lernos-expert-debriefing/de/) - Wissen von Expert_innen nachhaltig bewahren
-1. [lernOS Podcasting Leitfaden](https://cogneon.github.io/lernos-podcasting/de/) - Wissen teilen mit Podcasts
-1. [lernOS Leitfaden Prozessmodellierung](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf) - If you can’t describe what you are doing as a process, you don’t know what you’re doing
-1. [lernOS Sketchnoting Leitfaden](https://cogneon.github.io/lernos-sketchnoting/de/)              
+1. [Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/) - Dein Weg ist das Ziel
+1. [BarCamp](https://cogneon.github.io/lernos-barcamp/de/) - WE bring the Structure, YOU bring the Content!
+1. [Community Management](https://cogneon.github.io/lernos-cmgmt/de/) - Soziales Lernen im Netzwerk
+1. [Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/) - Deine Lernreise von Diversity zu Inclusion
+1. [ePortfolio](https://cogneon.github.io/lernos-eportfolio/de/)
+1. [Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/) - Wissen von Expert_innen nachhaltig bewahren
+1. [Podcasting](https://cogneon.github.io/lernos-podcasting/de/) - Wissen teilen mit Podcasts
+1. [Prozessmodellierung](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf) - If you can’t describe what you are doing as a process, you don’t know what you’re doing
+1. [Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)              
 
 # FAQ
 
