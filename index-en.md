@@ -62,6 +62,10 @@ lernOS is available as [free cultural work](https://creativecommons.org/share-yo
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
 
 # lernOS FAQ
+**I want to get into lernOS, but don't know exactly how to start. What tips do you have?**
+
+A good place to start is the [Community CONNECT](https://cogneon.de) with over 1,600 members. You can also ask in social media such as Twitter or LinkedIn (hashtag: #lernos). If you want to start a lernOS Circle, we recommend to use the [Peerfinder](https://web.peerfinder.app/).
+
 **Where can I find the DOCX, HTML, MOBI and EPUB files for the guides?**
 
 In the web version of the guide, click on the link to the GitHub repository in the upper right corner. There you will find the files in the folder for the respective language version (e.g. de, en).

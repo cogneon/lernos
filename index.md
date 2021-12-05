@@ -61,6 +61,10 @@ lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
 
 # lernOS FAQ
+**Ich möchte in lernOS einsteigen, weiß aber noch nicht genau wie. Welche Tipps gibt es?**
+
+Eine gute Anlaufstelle ist die [Community CONNECT](https://cogneon.de) mit über 1.600 Mitgliedern. Du kannst auch in den sozialen Medien wie z.B. Twitter oder LinkedIn herumfragen (Hashtag: #lernos). Wenn du einen lernOS Circle starten möchtest, empfehlen wir dir den [Peerfinder](https://web.peerfinder.app/).
+
 **Wo finde ich die DOCX-, HTML-, MOBI- und EPUB-Dateien zu den Leitfäden?**
 
 Klicke in der Web-Version des Leitfadens oben rechts auf den Link zum GitHub-Repository. Dort findest du die Dateien im Ordner zur jeweiligen Sprachversion (z.B. de, en).
