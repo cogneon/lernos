@@ -58,7 +58,7 @@ Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht 
 
 lernOS wurde bereits in vielen Vorträgen, Diskussionen, Podcasts, Blogs etc. besprochen. Eine kleine Auswahl:
 
-* Buchkapitel **lernOS als Betriebssystem für die Arbeit der Zukunft** von Simon Dückert in [Faszination New Work: 50 Impulse für die neue Arbeitswelt](https://amzn.to/3issdMx)
+* Buchkapitel *lernOS als Betriebssystem für die Arbeit der Zukunft* von Simon Dückert in [Faszination New Work: 50 Impulse für die neue Arbeitswelt](https://amzn.to/3issdMx)
 * Podcast [Lebenslanges Lernen mit lernOS](https://fyyd.de/episode/5173375) im Klartext HR Podcast
 * Vortrag [lernOS – Lebenslanges Lernen und Aufbau digitaler Kompetenzen für alle Bürger](https://www.youtube.com/watch?v=Wfe7HsqvqrQ)
 * Vortrag [lernOS in a Nutshell bei der GfWM Regionalgruppe Frankfurt-Rhein-Main](https://www.youtube.com/watch?v=F5-f61GvXE4)
