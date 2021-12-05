@@ -29,7 +29,7 @@ Die lernOS Toolbox stellt Leitfäden zum Erlernen bewährter Methoden, Tools und
 1. [lernOS ePortfolio Leitfaden](https://cogneon.github.io/lernos-eportfolio/de/)
 1. [lernOS Expert Debriefing Leitfaden](https://cogneon.github.io/lernos-expert-debriefing/de/) - Wissen von Expert_innen nachhaltig bewahren
 1. [lernOS Podcasting Leitfaden](https://cogneon.github.io/lernos-podcasting/de/) - Wissen teilen mit Podcasts
-1. [lernOS Leitfaden Prozessmodellierung](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf) - If you can’t describe what you are doing as a process,you don’t know what you’re doing
+1. [lernOS Leitfaden Prozessmodellierung](https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf) - If you can’t describe what you are doing as a process, you don’t know what you’re doing
 1. [lernOS Sketchnoting Leitfaden](https://cogneon.github.io/lernos-sketchnoting/de/)              
 
 # FAQ
