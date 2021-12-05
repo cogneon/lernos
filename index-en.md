@@ -4,9 +4,7 @@ permalink: /en/
 ---
 *Language: en, [de](/lernos/)*
 
-**Constant change** and our **future well-being** require **continuous, self-organized learning**. Lifelong learning as well as learning in teams and organisations ensures a good future for all of us (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Learning_Compass_2030_Concept_Note_Series.pdf)):
-
-![](images/oecd-learning-compass-2030-en.png)
+**Constant change** and our **future well-being** require **continuous, self-organized learning**. Lifelong learning as well as learning in teams and organisations ensures a good future for all of us (see also [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Learning_Compass_2030_Concept_Note_Series.pdf)).
 
 **lernOS** is an [open system](https://en.wikipedia.org/wiki/Open_system_(systems_theory)) for [lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning) and [learning organisations](https://en.wikipedia.org/wiki/Learning_organization). The functioning of lernOS is described in [openly](https://opendefinition.org/od/2.1/de/) available **guides**. lernOS can be easily practised as **individual**, in a **team** or in the whole **organisation**.
 
