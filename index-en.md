@@ -36,6 +36,28 @@ If you start as a single person, we recommend that you start together in a **Cir
 
 On CONNECT there is an [overview of contact persons](https://community.cogneon.de/t/lernos-ansprechpartner/1845) and other guides/learning paths that are currently being worked on.
 
+# lernOS FAQ
+
+**I want to get into lernOS, but don't know exactly how to start. What tips do you have?**
+
+A good place to start is the [Community CONNECT](https://cogneon.de) with over 1,600 members. You can also ask in social media such as Twitter or LinkedIn (hashtag: #lernos). If you want to start a lernOS Circle, we recommend to use the [Peerfinder](https://web.peerfinder.app/).
+
+**Where can I find the DOCX, HTML, MOBI and EPUB files for the guides?**
+
+In the web version of the guide, click on the link to the GitHub repository in the upper right corner. There you will find the files in the folder for the respective language version (e.g. de, en).
+
+**Can I read the lernOS guides on an e-book reader like the Kindle?**
+
+Yes, on GitHub, the guides are available in [EPUB](https://de.wikipedia.org/wiki/EPUB) and [Mobipocket](https://de.wikipedia.org/wiki/Mobipocket) format. E.g. on Kindle you just need to send the mobi file to the Kindle's email address (shown in the settings). For e-book management software like [Calibre](https://calibre-ebook.com/), you can simply drag and drop the epub file to add it.
+
+**Can I use and modify lernOS content?**
+
+Yes, you can and we even want you to do that! For this reason lernOS is released under the Creative Commons License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can download, use and modify the content. You can use lernOS content in private and commercial contexts.
+
+**Can I offer commercial products and services with lernOS in the name?**
+
+No. Individual products and services must not contain the term "lernOS" in their name (e.g. "lernOS Lernwerkstatt"). This is like Open Source Webbrowser [Chromium](https://www.chromium.org/Home), whose source code anyone can use. Products based on it must have a different name ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
+
 # Videos, Podcasts, Blogs etc.
 
 lernOS has already been discussed in many lectures, discussions, podcasts, blogs etc. A small selection:
@@ -61,25 +83,6 @@ lernOS is available as [free cultural work](https://creativecommons.org/share-yo
 
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
 
-# lernOS FAQ
-**I want to get into lernOS, but don't know exactly how to start. What tips do you have?**
 
-A good place to start is the [Community CONNECT](https://cogneon.de) with over 1,600 members. You can also ask in social media such as Twitter or LinkedIn (hashtag: #lernos). If you want to start a lernOS Circle, we recommend to use the [Peerfinder](https://web.peerfinder.app/).
-
-**Where can I find the DOCX, HTML, MOBI and EPUB files for the guides?**
-
-In the web version of the guide, click on the link to the GitHub repository in the upper right corner. There you will find the files in the folder for the respective language version (e.g. de, en).
-
-**Can I read the lernOS guides on an e-book reader like the Kindle?**
-
-Yes, on GitHub, the guides are available in [EPUB](https://de.wikipedia.org/wiki/EPUB) and [Mobipocket](https://de.wikipedia.org/wiki/Mobipocket) format. E.g. on Kindle you just need to send the mobi file to the Kindle's email address (shown in the settings). For e-book management software like [Calibre](https://calibre-ebook.com/), you can simply drag and drop the epub file to add it.
-
-**Can I use and modify lernOS content?**
-
-Yes, you can and we even want you to do that! For this reason lernOS is released under the Creative Commons License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can download, use and modify the content. You can use lernOS content in private and commercial contexts.
-
-**Can I offer commercial products and services with lernOS in the name?**
-
-No. Individual products and services must not contain the term "lernOS" in their name (e.g. "lernOS Lernwerkstatt"). This is like Open Source Webbrowser [Chromium](https://www.chromium.org/Home), whose source code anyone can use. Products based on it must have a different name ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
 
 ![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
