@@ -5,8 +5,6 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Publikationen: publications.md
-    - FAQ: faq.md
     - Leitfäden:
       - lernOS für Dich: https://cogneon.github.io/lernos-for-you/de/
       - lernOS für Organisationen: https://cogneon.github.io/lernos-for-organizations/de/
@@ -19,6 +17,8 @@ nav:
       - Podcasting: https://cogneon.github.io/lernos-podcasting/de/
       - Prozessmodellierung: https://github.com/cogneon/lernos-prozessmodellierung/releases/download/1.0/lernOS-Prozessmodellierung-de.pdf
       - Sketchnoting: https://cogneon.github.io/lernos-sketchnoting/de/
+    - Publikationen: publications.md
+    - FAQ: faq.md
     - Links:
       - lernOS Community: https://community.cogneon.de
       - Peerfinder: https://web.peerfinder.app
