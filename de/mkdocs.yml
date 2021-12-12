@@ -5,7 +5,11 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Veröffentlichungen: publications.md
+    - Publikationen: publications.md
+    - FAQ: faq.md
+    - Links:
+      - lernOS Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'

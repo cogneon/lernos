@@ -1,3 +1,13 @@
+---
+hide:
+  - toc
+---
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>
+# Publikationen
 Auf dieser Seite sammeln wir Veröffentlichungen rund um lernOS. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns.
 
 # 2021
