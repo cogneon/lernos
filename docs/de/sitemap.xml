@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cogneon.github.io/faq/</loc>
+         <lastmod>2021-12-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cogneon.github.io/publications/</loc>
          <lastmod>2021-12-12</lastmod>
          <changefreq>daily</changefreq>
