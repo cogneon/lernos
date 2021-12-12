@@ -7,6 +7,9 @@ nav:
     - Willkommen: index.md
     - Publikationen: publications.md
     - FAQ: faq.md
+    - Leitfäden:
+      - lernOS für Dich: https://cogneon.github.io/lernos-for-you/de/
+      - lernOS für Organisationen: https://cogneon.github.io/lernos-for-organizations/de/
     - Links:
       - lernOS Community: https://community.cogneon.de
       - Peerfinder: https://web.peerfinder.app
