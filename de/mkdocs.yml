@@ -14,12 +14,14 @@ nav:
 theme:
     name: 'material'
     palette:
-        primary: 'deep orange'
-        accent: 'deep orange'
+        scheme: lernos
     language: de
     icon:
       repo: fontawesome/brands/github
       logo: material/home
+
+extra_css:
+  - stylesheets/extra.css
 
 repo_name: 'cogneon/lernos'
 repo_url: 'https://github.com/cogneon/lernos'
