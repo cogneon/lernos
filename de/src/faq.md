@@ -28,3 +28,6 @@ Ja, du kannst und wir wollen sogar, dass du das machst! Aus diesem Grund wird le
 **Kann ich kommerzielle Produkte und Dienstleistungen mit lernOS im Namen anbieten?**
 
 Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht in ihrem Namen enthalten (z.B. "lernOS Lernwerkstatt"). Das ist wie bei Open Source Webbrowser [Chromium](https://www.chromium.org/Home), dessen Quellcode jeder verwenden kann. Darauf aufbauende Produkte müssen aber einen anderen Namen haben ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
+
+**Ich möchte selber einen lernOS Leitfaden erstellen, wie geht das?**
+Die Erstellung von lernOS Leitfäden wird im [lernOS Template Leitfaden](https://cogneon.github.io/lernos-template/de/) beschrieben. Wenn du einen Leitfaden schreiben willst, nimm am besten als ersten Schritt Kontakt mit Simon auf.
