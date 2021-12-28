@@ -44,5 +44,3 @@ lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
 
 ![](images/cc-by.png)
-
-![](https://analytics.cogneon.de/piwik.php?idsite=3&amp;rec=1)
