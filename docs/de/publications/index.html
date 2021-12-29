@@ -16,6 +16,22 @@
 <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
 <link href="../stylesheets/extra.css" rel="stylesheet"/>
 <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.cogneon.de/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '5']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img alt="" src="https://analytics.cogneon.de/matomo.php?idsite=5&amp;rec=1" style="border:0;"/></p></noscript>
+<!-- End Matomo Code -->
 </head>
 <body data-md-color-accent="" data-md-color-primary="" data-md-color-scheme="lernos" dir="ltr">
 <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
@@ -195,9 +211,51 @@
 </li>
 <li class="md-nav__item md-nav__item--active">
 <input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Publikationen
+          <span class="md-nav__icon md-icon"></span>
+</label>
 <a class="md-nav__link md-nav__link--active" href="./">
         Publikationen
       </a>
+<nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2021">
+    2021
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2020">
+    2020
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2019">
+    2019
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2018">
+    2018
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2017">
+    2017
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2016">
+    2016
+  </a>
+</li>
+</ul>
+</nav>
 </li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="../faq/">
@@ -216,6 +274,11 @@
           Links
         </label>
 <ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="https://cogneon.github.io/lernos/de-slides">
+        Präsentation
+      </a>
+</li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="https://community.cogneon.de">
         lernOS Community
@@ -238,15 +301,79 @@
 <div class="md-sidebar__scrollwrap">
 <div class="md-sidebar__inner">
 <nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2021">
+    2021
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2020">
+    2020
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2019">
+    2019
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2018">
+    2018
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2017">
+    2017
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2016">
+    2016
+  </a>
+</li>
+</ul>
 </nav>
 </div>
 </div>
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
+<!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+<!-- Edit button -->
 <a class="md-content__button md-icon" href="https://github.com/cogneon/lernos/edit/master/docs/publications.md" title="Seite editieren">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"></path></svg>
 </a>
+<!--
+  Hack: check whether the content contains a h1 headline. If it
+  doesn't, the page title (or respectively site name) is used
+  as the main headline.
+-->
+<!-- Markdown content -->
 <style>
   .md-content__button {
     display: none;
@@ -254,18 +381,18 @@
 </style>
 <h1 id="publikationen">Publikationen</h1>
 <p>Auf dieser Seite sammeln wir Veröffentlichungen rund um lernOS. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns.</p>
-<h1 id="2021">2021</h1>
+<h2 id="2021">2021</h2>
 <ul>
 <li><a href="[https://hopin.com/events/diversitystoriesthatmatter">Barcamp DiversityStoryThatMatter</a> am 10.12. (online)</li>
 </ul>
-<h1 id="2020">2020</h1>
+<h2 id="2020">2020</h2>
 <ul>
 <li>Podcast <a href="https://fyyd.de/episode/5173375">Lebenslanges Lernen mit lernOS</a> im Klartext HR Podcast</li>
 <li><a href="https://wiki.cogneon.de/loscamp20">lernOS All Stars Camp</a> vom 23.-24.06.2020 (online)</li>
 <li>Vortrag <a href="https://www.youtube.com/watch?v=F5-f61GvXE4">lernOS in a Nutshell</a> am 15.06.2020 bei der GfWM Regionalgruppe Frankfurt-Rhein-Main</li>
 <li>Video über lernOS for You <a href="https://www.linkedin.com/posts/theresa-laudenbach-4559a5200_lernos-lebenslangeslernen-fau-ugcPost-6770754811093684224-uIA8">auf LinkedIn</a></li>
 </ul>
-<h1 id="2019">2019</h1>
+<h2 id="2019">2019</h2>
 <ul>
 <li>
 <p>Vortrag <a href="https://www.youtube.com/watch?v=7atMXYyzkBc">lernOS - Hacking How We Learn - Lifelong</a> am 30.12.2019 auf dem 36c3 in Leipzig</p>
@@ -280,18 +407,18 @@
 <p>Buchkapitel <em>lernOS als Betriebssystem für die Arbeit der Zukunft</em> von Simon Dückert in <a href="https://amzn.to/3issdMx">Faszination New Work: 50 Impulse für die neue Arbeitswelt</a></p>
 </li>
 </ul>
-<h1 id="2018">2018</h1>
+<h2 id="2018">2018</h2>
 <ul>
 <li>Vortrag <a href="https://www.youtube.com/watch?v=Wfe7HsqvqrQ">lernOS – Lebenslanges Lernen und Aufbau digitaler Kompetenzen für alle Bürger</a> am 18.10.2018 in Erding</li>
 <li><a href="https://www.youtube.com/watch?v=qD8cLcl8g3s">Release lernOS für Dich Version 1.0</a> am 18.09.2018</li>
 <li>Blog <a href="https://cogneon.de/2018/05/24/wol-a-tool-for-wol-circle-alumni-and-knowledge-workers/">lernOS Canvas - A Tool for WOL(TM) Circle Alumni and Knowledge Workers</a> (Umbenennung von WOL+ Canvas in lernOS Canvas)</li>
 <li>Vortrag <a href="https://www.youtube.com/watch?v=H3O3eAY7XrI">Learning Organization - State of the Union - von lernOS, GTD, OKR, PKM, WOL &amp; Co.</a> am 22.06.2018 auf der KnowTouch in Nürnberg</li>
 </ul>
-<h1 id="2017">2017</h1>
+<h2 id="2017">2017</h2>
 <ul>
 <li>Session <a href="https://cogneon.de/2017/10/02/lernos-session-auf-dem-corporate-learning-camp">lernOS - Organisationssystem für lernende Organisationen</a> auf dem Corporate Learning Camp am 29.09.2017 in Frankfurt</li>
 </ul>
-<h1 id="2016">2016</h1>
+<h2 id="2016">2016</h2>
 <ul>
 <li>
 <p>Podcast <a href="https://cogneon.de/2016/12/23/m2p026-cogneon-2-0/">Cogneon 2.0</a> mit einer Aufzeichnung von der 15-Jahres-Feier von Cogneon. Dort haben wir über unsere Vergangenheit und Zukunft gesprochen und das 6-jährige lernOS-Projekt aus der Taufe gehoben.</p>
@@ -300,6 +427,37 @@
 <p><a href="https://wiki.cogneon.de/Cogneon_Knowledge_Jam/Digital_Leadership_(ckj25)">Knowledge Jam #ckj25 Digital Leadership</a> mit Impulsvortrag zu Working Out Loud von John Stepper und Doppelsession <em>In Search of a WOL Business Model</em> in der Cogneon Akademie in Nürnberg</p>
 </li>
 </ul>
+<!-- Source file information -->
+<!-- Get setting from mkdocs.yml, but allow page-level overrides -->
+<!-- Inject Disqus into current page -->
+<h2 id="__comments">Kommentare</h2>
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function() {
+      this.page.url = "https://cogneon.github.io/publications/"
+      this.page.identifier =
+        "publications/"
+
+    }
+
+    /* Set up for the first time */
+    if (typeof DISQUS === "undefined") {
+      var script = document.createElement("script")
+      script.async = true
+      script.src = "https://lernos.disqus.com/embed.js"
+      script.setAttribute("data-timestamp", Date.now())
+
+      /* Inject script tag */
+      document.body.appendChild(script)
+
+    /* Set up on navigation (instant loading) */
+    } else {
+      DISQUS.reset({
+        reload: true,
+        config: disqus_config
+      })
+    }
+  </script>
 </article>
 </div>
 </div>

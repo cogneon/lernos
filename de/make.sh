@@ -2,12 +2,14 @@ PATH=$PATH:/opt/homebrew/bin
 echo Starting lernOS Guide Generation ...
 
 # Variables
-filename="lernOS-Leitfaden-schreiben-Guide-de"
-chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Grundidee.md ./src/1-2-Lebenszyklus.md ./src/1-3-Inhaltsverzeichnis.md ./src/1-4-Inhalt.md ./src/1-5-Produktionskette.md ./src/2-Lernpfad.md ./src/3-Anhang.md"
+filename="lernOS-Website-de"
+chapters="./src/index.md ./src/publications.md ./src/faq.md"
 
 # Delete Old Versions
 echo Deleting old versions ...
-rm -f $filename.*
+rm -rf $filename.*
+rm -rf ../docs/de/*
+rm -ff ../docs/de-slides/index.html
 
 # Create Web Version (mkdocs)
 echo Creating Web Version ...
@@ -34,4 +36,5 @@ pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filte
 ebook-convert $filename.epub $filename.mobi
 
 # Create Slides (revealjs)
-# pandoc -t revealjs --metadata title="lernOS in a Nutshell" -V theme=night -s lernos-slides-de.md -o lernos-slides-de.html
+echo Creating Presentation ...
+pandoc metadata.yaml --from markdown -s --resource-path="./src" -t revealjs -V theme=night -s ./slides/index.md -o ../docs/de-slides/index.html

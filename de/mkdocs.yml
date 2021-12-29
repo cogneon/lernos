@@ -20,11 +20,13 @@ nav:
     - Publikationen: publications.md
     - FAQ: faq.md
     - Links:
+      - Präsentation: https://cogneon.github.io/lernos/de-slides
       - lernOS Community: https://community.cogneon.de
       - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'
+    custom_dir: src/overrides
     palette:
         scheme: lernos
     language: de
@@ -47,6 +49,8 @@ extra:
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
     disqus: lernos
+    analytics:
+       provider: custom
 
 markdown_extensions:
   - pymdownx.superfences:
