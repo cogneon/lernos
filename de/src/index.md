@@ -27,7 +27,7 @@ Mit den Leitfäden des lernOS Core (Kernel) werden die Grundlagen für das konti
 
 Die lernOS Toolbox stellt Leitfäden zum Erlernen bewährter Methoden, Tools und Formate für den guten Umgang mit Wissen bereit.
 
-1. [Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/) - Dein Weg ist das Ziel
+1. [Achtsamkeit 4.2](https://cogneon.github.io/lernos-achtsamkeit/de/) - Dein Weg ist das Ziel
 2. [BarCamp](https://cogneon.github.io/lernos-barcamp/de/) - WE bring the Structure, YOU bring the Content!
 3. [Community Management](https://cogneon.github.io/lernos-cmgmt/de/) - Soziales Lernen im Netzwerk
 4. [Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/) - Deine Lernreise von Diversity zu Inclusion
