@@ -37,4 +37,4 @@ ebook-convert $filename.epub $filename.mobi
 
 # Create Slides (revealjs)
 echo Creating Presentation ...
-pandoc metadata.yaml --from markdown -s --resource-path="./src" -t revealjs -V theme=night -s ./slides/index.md -o ../docs/de-slides/index.html
+pandoc --from markdown -s --resource-path="./src" -t revealjs -V theme=night -s ./slides/index.md -o ../docs/de-slides/index.html

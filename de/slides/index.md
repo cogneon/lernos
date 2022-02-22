@@ -1,79 +1,101 @@
 ![](https://raw.githubusercontent.com/cogneon/lernos-template/master/de/src/images/lernOS-logo-white-4000px.png)
 
----
-
 ### Warum lernOS?
-* **Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches Lernen**.
-* **Lebenslanges Lernen** sowie das **Lernen in Teams** und **Organisationen** sichern uns allen eine **gute Zukunft**.
-* lernOS bietet **frei und [offen](https://opendefinition.org/od/2.1/de/) verfügbare Leitfäden**, mit denen das **selbstgesteuerte Lernen** auf allen Ebenen gefördert wird.
+<ul>
+  <li>**Treiber 1:** Immer mehr [Veränderung](https://de.wikipedia.org/wiki/VUCA) in allen Lebenslagen</li>
+  <li class="fragment">**Treiber 2:** Wandel der Arbeitswelt [durch Automatisierung](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/forschungsbericht-fb-455.html)</li>
+  <li class="fragment">**Treiber 3:** [Demografischer Wandel](https://de.wikipedia.org/wiki/Demografischer_Wandel) und [Fachkräftemangel](https://de.wikipedia.org/wiki/Fachkr%C3%A4ftemangel)</li>
+  <li class="fragment">**Ansatz:** [Informelles Lernen](https://de.wikipedia.org/wiki/Informelles_Lernen) auf allen gesellschaftlichen Ebenen fördern</li>
+</ul>
 
 ---
 
-### Was ist lernOS?
-* **Offenes System** für [Lebenslanges Lernen](https://wiki.cogneon.de/Lebenslanges_Lernen) und [Lernende Organisationen](https://wiki.cogneon.de/Lernende_Organisation)
-* **Brainware** ... keine Software!
-* **Verb** in Esperanto, ich/wir werden lernen (mi/ni lernos)
-* **Projekt** der [Cogneon Akademie](https://cogneon.de/) mit Laufzeit 2016-2022
+### Lernen
+<table>
+ <tr>
+  <td>Formelles Lernen</td>
+  <td>Informelles Lernen</td>
+ </tr>
+ <tr>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HNL_Wiki_Wiki_Bus.jpg/320px-HNL_Wiki_Wiki_Bus.jpg" height="320" /></td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cycling_Amsterdam.jpg/320px-Cycling_Amsterdam.jpg" height="320" /></td>
+ </tr>
+</table>
 
 ---
 
-### lernOS Quick-Start Guide
-<img src="https://raw.githubusercontent.com/cogneon/lernos/master/images/lernOS-Quick-Start-Guide-de-v03.png" width="50%" />
+### Informelles Lernen
+<ol>
+  <li>Ist nicht institutionell organisiert</li>
+  <li class="fragment">Ist wenig strukturiert</li>
+  <li class="fragment">Kommt alltäglichen vor</li>
+  <li class="fragment">Wird von Lernenden selbst selbstgesteuert</li>
+  <li class="fragment">Wird nicht pädagogisch begleitet</li>
+  <li class="fragment">Beinhaltet Lernen aus Erfahrungen & Reflexion</li>
+  <li class="fragment">Ist ein bewusster Prozess</li>
+  <li class="fragment">Hat Handlungsfähigkeit zum Ziel</li>
+  <li class="fragment">Ist oft in einen sozialen Kontext eingebunden</li>
+</ol>
 
 ---
 
-### lernOS Startpunkt wählen
-* Möchtest du als **Einzelperson** starten?
-* Wollt ihr die ganze **Organisation** einbinden?
-* Möchtet ihr als **Team** loslegen?
+### Formell vs. Informell
+
+<img alt="Quelle: https://en.wikipedia.org/w/index.php?title=Informal_learning&oldid=669320939" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ttp_samoore.gif" width="80%" />
 
 ---
 
-### lernOS für Dich
-* Lernen in **3-monatigen Sprints** mit **persönlichem Lernziel**
-* Selbstorganisiertes Lernen **alleine**, im **Lerntandem** (2 Personen) oder **Circle** (4-5)
-* 3 Lernpfade mit je **2h Aufwand/Woche**
-* **Methodische Bestandteile:** [Scrum](https://www.scrumguides.org/), [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), [GTD](https://gettingthingsdone.com/) und [WOL](https://workingoutloud.com/)
+### lernOS Wheel
+<img src="https://transfer.cogneon.de/lernos/lernOS-Wheel.png" width="100%" />
 
 ---
 
-### lernOS für Organisationen
-* Übergreifende **„Koalition des Lernens“** mit der [Lernenden Organisation](https://de.wikipedia.org/wiki/Lernende_Organisation) als [Nordstern](https://www.leanmagazin.de/lexikon/518-nordstern.html)
-* **Open Space Learning** Veranstaltung alle 3-6 Monate
-* **Lern-Sprints**, für organisationsweite Experimente und Projekte
-* Viele **freiwillige Helfer** ([„army of volunteers“](https://www.kotterinc.com/wp-content/uploads/2019/04/8-Steps-eBook-Kotter-2018.pdf))
+### Selbststeuerung des Lernens
+<img src="https://cogneon.github.io/lernos-for-you/de/images/lernOS-OKR-zyklus.png" width="100%" />
 
 ---
 
-### lernOS für Teams
-* **Team-Entwicklung** durch 3-monatige Sprints im Team mit/ohne Lerncoach
-* [Action Learning](https://de.wikipedia.org/wiki/Action_Learning) z.B. als Teil der Team-Regeltermine
-* **Themen** z.B. Kommunikation, Dokumentation, Ablage, Office 365 uvm.
-* Erscheint **2022**
+### lernOS Sprints
+<img src="https://transfer.cogneon.de/lernos/lernOS-Sprint.png" width="100%" />
 
 ---
 
-### lernOS Toolbox
-* **Dauer:** 1 Sprint (=3 Monate) bei 2h Aufwand/ Woche
-* **Lerngruppe:** Lernen alleine, im Lerntandem oder im Circle (4-5)
-* **Beispiele:** Barcamp, Community Management, Expert Debriefing, Podcasting, Prozessmodellierung, Sketchnoting
+### Lernpfade zum Einstieg
+<img src="https://cogneon.github.io/lernos-for-you/de/images/lernOS-Lernpfade.png" width="100%" />
 
 ---
 
-### lernOS Infos
+### lernOS Canvas
+<img src="https://transfer.cogneon.de/lernos/lernOS-Canvas-for-You-de.png" width="80%" />
+
+---
+
+### lernOS Workplace
+<img src="https://cogneon.github.io/lernos-for-you/de/images/lernOS-Workplace.png" width="80%" />
+
+---
+
+### Lebenslanges Lernen
+<img src="https://transfer.cogneon.de/lernos/lll-mit-lernos.png" width="100%" />
+
+---
+
+### lernOS Links
 * Webseite: [lernos.org](https://lernos.org/)
 * Twitter: [@lern_os](https://twitter.com/lern_os)
+* Twitter Community: [LearningMindset](https://twitter.com/i/communities/1494430902381944836)
 * Community: [community.cogneon.de](https://community.cogneon.de/)
+* Konferenz: [lernOS Convention](https://cogneon.de/loscon22) (5./6. Juli 2022)
 * GitHub: [github.com/cogneon](https://github.com/cogneon)
 
----
-
-### Stop Reading, Start Doing!
-* Wähle Leitfaden / Lernpfad
-* Suche Mitstreiter in Team/ Organisation oder für Tandem/Circle (Peerfinder)
-* Plane den Termin für den Start mit Woche 0 ein
-* lOS geht's!
-
----
-
 # KEEP CALM &<br /> LEARN ON
+
+---
+
+### Kontakt
+<table>
+ <tr valign="top">
+  <td><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHK07B2fuzx7Q/profile-displayphoto-shrink_200_200/0/1543418137342?e=1645660800&v=beta&t=5L7447iNW3OTTjNd2Sgzv8PUFEij9JQDnPXL9IFEBQM" height="400" /></td>
+  <td><img src="https://transfer.cogneon.de/lernos/qr-vcard-simondueckert.png" height="400" /></td>
+ </tr>
+</table>
