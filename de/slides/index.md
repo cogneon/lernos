@@ -1,5 +1,10 @@
 ![](https://raw.githubusercontent.com/cogneon/lernos-template/master/de/src/images/lernOS-logo-white-4000px.png)
 
+### Warum [Creative Commons](https://creativecommons.org/)?
+<small>Gesellschaften, die mehr Energie darauf verwenden, sich um Verwertung von bestehendem Wissen und Informationen zu kümmern bzw. um die Sicherung von Verwertungsansprüchen, als auf die Rahmenbedingungen, die die Produktion von neuem Wissen begünstigen, sind in einer ökonomischen, wissenschaftlichen, politischen, kulturellen und gesellschaftlichen Abwärtsentwicklung.</small>
+
+**Prof. Rainer Kuhlen**
+
 ### Warum lernOS?
 <ul>
   <li>**Treiber 1:** Immer mehr [Veränderung](https://de.wikipedia.org/wiki/VUCA) in allen Lebenslagen</li>
