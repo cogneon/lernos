@@ -100,7 +100,7 @@
 ### Kontakt
 <table>
  <tr valign="top">
-  <td><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHK07B2fuzx7Q/profile-displayphoto-shrink_200_200/0/1543418137342?e=1645660800&v=beta&t=5L7447iNW3OTTjNd2Sgzv8PUFEij9JQDnPXL9IFEBQM" height="400" /></td>
+  <td><a href="https://www.linkedin.com/in/simondueckert/"><img src="https://transfer.cogneon.de/lernos/simon-dueckert.jpg" height="400" /></a></td>
   <td><img src="https://transfer.cogneon.de/lernos/qr-vcard-simondueckert.png" height="400" /></td>
  </tr>
 </table>
