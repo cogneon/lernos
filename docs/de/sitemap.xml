@@ -11,7 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cogneon.github.io/guides/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cogneon.github.io/publications/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cogneon.github.io/support/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>

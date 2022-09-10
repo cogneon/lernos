@@ -3,59 +3,36 @@ hide:
   - toc
 ---
 <style>
+  .md-typeset h1,
   .md-content__button {
     display: none;
   }
 </style>
+
 <img title="" src="https://github.com/cogneon/lernos-core/raw/master/images/lernOS%20Logo/lernOS-logo-400px.png" alt="">
 
-**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)). Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
+**lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Die Inhalte von lernOS stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und die Entwicklung von [Lernenden Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). lernOS kannst du mit den [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** als **Einzelperson**, im **Lerntandem** oder einer **Lerngruppe** (lernOS Circe, 4-5 Personen) **Team** oder in der gesamten **Organisation** praktiziert werden.
+# WHY - Warum braucht es lernOS?
+**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)). Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
 
-Der **lernOS Quick-Start-Guide** ermöglicht den schnellen Einstieg ins Thema und die wichtigsten Konzepte von lernOS (Download als [PDF](lernOS-Quick-Start-Guide-de-v03.pdf), [PPT](lernOS-Quick-Start-Guide-de-v03.pptx)). Mit der **[lernOS Web-Präsentation](https://cogneon.github.io/lernos/de-slides/)** kann man lernOS ganz einfach auf Veranstaltungen, Barcamps, Meetups, Konferenzen, Abteilungsrunden, Regelterminen etc. vorstellen.
+# WHAT - Was ist lernOS?
+Das Wort **lernOS** stammt aus dem Esperanto und ist dort die Zukunftsform von Lernen: **ich/wir werden/n lernen**. Die Grundidee von lernOS ist es also, Einzelpersonen, Teams und Organisationen moderne Methoden des Lernens und Arbeitens beizubringen. Dafür stellt lernOS Leitfäden und Lernpfade bereit, mit denen eine moderne Haltung (**Mindset**), die richtigen Fähigkeiten (**Skillset**) und zeitgemäße Werkzeuge (**Toolset**) erlernt werden können.
 
-<a href="./images/lernOS-Quick-Start-Guide-de-v03.png"><img src="https://raw.githubusercontent.com/cogneon/lernos/master/images/lernOS-Quick-Start-Guide-de-v03.png" width=400px /></a>
+# HOW - Wie kann ich anfangen?
+Viele Wege führen zu lernOS. Eine Möglichkeit:
 
-# lernOS Leitfäden
+1. Wähle einen der [lernOS Leitfäden](/guides). Einsteiger_innen empfehlen wir einen der drei Lernpfade im [lernOS für Dich Leitfaden](https://cogneon.github.io/lernos-for-you/de/).
+1. Wähle einen **Zeitraum**, in dem du den Lernpfad des Leitfadens durchlaufen möchtest.
+1. Entscheide dich, ob die **alleine**, als **Lerntandem** oder im **Circle** mit 4-5 Personen lernen möchtest. Zum Start empfehlen wir dir das Lernen im Circle.
+1. Verwende dein **persönliches Netzwerk**, **soziale Medien** oder den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende zu finden.
+1. **Stop talking, start doing! :-)**
 
-Mit den Leitfäden des lernOS Core (Kernel) werden die Grundlagen für das kontinuierliche Lernen auf allen Ebenen der Organisation gelegt. Einsteiger_innen empfehlen wir mit einem der drei Lernpfade im lernOS für Dich Leitfaden zu beginnen.
+# Die Lizenz von lernOS
 
-1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/) - Die Kunst des selbstgesteuerten, lebenslangenen Lernens
-2. lernOS für Teams - noch nicht verfügbar
-3. [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/) - Gemeinsam Lernende Organisationen entwickeln
-
-Die lernOS Toolbox stellt Leitfäden zum Erlernen bewährter Methoden, Tools und Formate für den guten Umgang mit Wissen bereit.
-
-1. [Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/) - Dein Weg ist das Ziel
-2. [BarCamp](https://cogneon.github.io/lernos-barcamp/de/) - WE bring the Structure, YOU bring the Content!
-3. [Community Management](https://cogneon.github.io/lernos-cmgmt/de/) - Soziales Lernen im Netzwerk
-1. [Digitale Zusammenarbeit](https://cogneon.github.io/lernos-digitale-zusammenarbeit/de/)
-4. [Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/) - Deine Lernreise von Diversity zu Inclusion
-5. [ePortfolio](https://cogneon.github.io/lernos-eportfolio/de/)
-6. [Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/) - Wissen von Expert_innen nachhaltig bewahren
-7. [Podcasting](https://cogneon.github.io/lernos-podcasting/de/) - Wissen teilen mit Podcasts
-8. [Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/) - If you can’t describe what you are doing as a process, you don’t know what you’re doing
-9. [Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)              
-
-# lernOS Supporter
-
-Unternehmen, Organisationen, und Institutionen können lernOS unterstützen, indem sie lernOS Supporter werden. Für einen Betrag von € 1.000,-/Jahr (zzgl. MwSt.) werden die Supporter hier genannt, erhalten 3 Tickets für die jährliche lernOS Convention und können eine Person in den lernOS Beirat entsenden. Aktuelle lernOS Supporter sind:
-
-1. [bayernwerk](https://www.bayernwerk.de/)
-1. [DATEV](https://www.datev.de/)
-1. [Deutsche Telekom](https://www.telekom.de/)
-1. [Lebensversicherung von 1871](https://www.lv1871.de/)
-1. [SAP](https://www.sap.com/)
-1. [Siemens Healthineers](https://www.siemens-healthineers.com/)
-
-Wer lernOS Supporter werden möchte, kann [über dieses Formular Kontakt mit uns aufnehmen](https://cogneon.de/kontakt).
-
-# Lizenz
-
-lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) unter [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY) verfügbar. Gemäß der [Open Definition](https://opendefinition.org/od/2.1/de/) kannst du die Inhalte frei zugreifen, verändern und teilen.
+lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) verfügbar ([Erklärvideo zur Lizenz](https://www.youtube.com/watch?v=qDnXgMEH1vU)). Gemäß der [Open Definition](https://opendefinition.org/od/2.1/de/) kannst du die Inhalte frei zugreifen, verändern und teilen.
 
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
 

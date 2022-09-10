@@ -5,24 +5,13 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Leitfäden:
-      - lernOS für Dich: https://cogneon.github.io/lernos-for-you/de/
-      - lernOS für Organisationen: https://cogneon.github.io/lernos-for-organizations/de/
-      - Achtsamkeit: https://cogneon.github.io/lernos-achtsamkeit/de/
-      - BarCamp: https://cogneon.github.io/lernos-barcamp/de/
-      - Community Management: https://cogneon.github.io/lernos-cmgmt/de/
-      - Content Curation: https://cogneon.github.io/lernos-content-curation/de/
-      - Digitale Zusammenarbeit: https://cogneon.github.io/lernos-digitale-zusammenarbeit/de/
-      - Diversity & Inclusion: https://cogneon.github.io/lernos-diversity/de/
-      - ePortfolio: https://cogneon.github.io/lernos-eportfolio/de/
-      - Expert Debriefing: https://cogneon.github.io/lernos-expert-debriefing/de/
-      - Podcasting: https://cogneon.github.io/lernos-podcasting/de/
-      - Prozessmodellierung: https://cogneon.github.io/lernos-prozessmodellierung/de/
-      - Sketchnoting: https://cogneon.github.io/lernos-sketchnoting/de/
+    - lernOS Leitfäden: guides.md
+    - lernOS unterstützen: support.md
     - Publikationen: publications.md
     - FAQ: faq.md
     - Links:
       - lernOS Präsentation: https://cogneon.github.io/lernos/de-slides
+      - lernOS Quick-Start Guide: lernOS-Quick-Start-Guide-de-v03.pdf
       - CONNECT Community: https://community.cogneon.de
       - Meetup Gruppe: https://www.meetup.com/de-DE/lernos-connect/
       - Peerfinder: https://web.peerfinder.app
@@ -56,6 +45,7 @@ extra:
        provider: custom
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences:
