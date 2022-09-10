@@ -12,7 +12,7 @@ Auf dieser Seite sammeln wir Veröffentlichungen rund um lernOS. Dazu gehören A
 
 ## 2022
 
-* Session Making-of lernOS Convention 2022 am 09.09.2022
+* Session [Making-of lernOS Convention 2022](https://youtu.be/vPHEhRyjdDI) am 09.09.2022
 * lernOS Convention 2022 "The Re-Return of Knowledge Management" vom 05.-06.07.2022 auf der Kaiserburg Nürnberg und online ([Dokumentation](https://wiki.cogneon.de/LernOS_Convention_2022), [Video](https://www.youtube.com/watch?v=r9talnVcpYc]))
 * Session [#DATEVlernt](https://www.youtube.com/watch?v=yhwNhiOLc4Y) auf der ahrc2022 am 27.04.2022 in Köln
 * Video [lernOS - Eine Einführung](https://www.youtube.com/watch?v=JoTjZOK8L2g)
