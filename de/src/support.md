@@ -5,7 +5,7 @@
 </style>
 
 # lernOS unterstützen
-Es gibt verschiedene Möglichkeiten, das lernOS Projekt zu unterstützen:
+Es gibt verschiedene Möglichkeiten, das Projekt lernOS zu unterstützen:
 
 ## lernOS verwenden
 Zum Einstieg in lernOS ist es wichtig, eigene Erfahrungen mit der Methode zu sammeln.
