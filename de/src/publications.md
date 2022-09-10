@@ -8,14 +8,18 @@ hide:
   }
 </style>
 # Publikationen
-Auf dieser Seite sammeln wir Veröffentlichungen rund um lernOS. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns.
+Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns.
 
 ## 2022
 
 * Session [Making-of lernOS Convention 2022](https://youtu.be/vPHEhRyjdDI) am 09.09.2022
+* Beitrag zur lernOS Convention in der Zeitschrift [wirtschaft+weiterbildung Ausgabe 9/2022](https://www.haufe.de/personal/zeitschrift/wirtschaft-weiterbildung/wirtschaft-weiterbildung-ausgabe-92022-wirtschaft-weiterbildung_48_573890.html) (PDF)
+* Interview [Lernen, lernOS, Trends im Corporate Learning und mehr](https://leipzig-hrm-blog.blogspot.com/2022/08/lernen-lernos-trends-im-corporate.html) mit Simon Dückert im Leipziger HRM-Blog
 * lernOS Convention 2022 "The Re-Return of Knowledge Management" vom 05.-06.07.2022 auf der Kaiserburg Nürnberg und online ([Dokumentation](https://wiki.cogneon.de/LernOS_Convention_2022), [Video](https://www.youtube.com/watch?v=r9talnVcpYc]))
 * Session [#DATEVlernt](https://www.youtube.com/watch?v=yhwNhiOLc4Y) auf der ahrc2022 am 27.04.2022 in Köln
+* Blog [Kirche kann/soll/muss lernen!? lernOS und #WOL kann helfen](https://gottdigital.de/kirche-kann-soll-muss-lernen-lernos-und-wol-kann-helfen) vom 23.04.2022
 * Video [lernOS - Eine Einführung](https://www.youtube.com/watch?v=JoTjZOK8L2g)
+* Blog [Ich brauchte eine Struktur – eine Studentin berichtet aus ihrem lernOS-Zirkel](https://www.fernuni-hagen.de/zli/blog/ich-brauchte-eine-struktur-eine-studentin-berichtet-aus-ihrem-lernos-zirkel/) vom 01.02.2022
 * Vorstellung [lernOS Community Management Leitfaden](https://www.youtube.com/watch?v=2CyrFjiXqaM) beim C3Managers Meetup am 20.01.2022
 * Freihändig-Podcast Folge 57 [lernOS für Organisationen und Selbstlernprozesse](https://www.oliver-koenig.net/2022/01/13/simon-dueckert-lernos-fuer-organisationen-und-selbstlernprozesse-057/) vom 13.01.2022
 
@@ -30,6 +34,7 @@ Auf dieser Seite sammeln wir Veröffentlichungen rund um lernOS. Dazu gehören A
 
 - Podcast [Lebenslanges Lernen mit lernOS](https://fyyd.de/episode/5173375) im Klartext HR Podcast
 - Session [WOL - Back to the Roots](https://www.youtube.com/watch?v=9sCpcEi7uAM) auf dem WOL Camp am 26.11.2020
+- Podcast [Lebenslanges Lernen und lernOS](https://wohnzimmer.fm/firmenfunk/ff092-lebenslanges-lernen-und-lernos/) im Firmenfunk Podcast Episode 92 vom 12.11.2020
 - [lernOS All Stars Camp](https://wiki.cogneon.de/loscamp20) vom 23.-24.06.2020 (online)
 - Vortrag [lernOS in a Nutshell](https://www.youtube.com/watch?v=F5-f61GvXE4) am 15.06.2020 bei der GfWM Regionalgruppe Frankfurt-Rhein-Main
 - Video über lernOS for You [auf LinkedIn](https://www.linkedin.com/posts/theresa-laudenbach-4559a5200_lernos-lebenslangeslernen-fau-ugcPost-6770754811093684224-uIA8)
@@ -38,11 +43,9 @@ Auf dieser Seite sammeln wir Veröffentlichungen rund um lernOS. Dazu gehören A
 ## 2019
 
 * Vortrag [lernOS - Hacking How We Learn - Lifelong](https://www.youtube.com/watch?v=7atMXYyzkBc) am 30.12.2019 auf dem 36c3 in Leipzig
-
 * Blog [Die 13 wichtigsten Unterschiede zwischen lernOS und WOL](https://cogneon.de/2019/07/13/di3-13-wichtigsten-unterschiede-zwischen-lernos-und-wol/)
-
+* Beitrag [Das Projekt lernOS - Fahrplan fürs ­Lebenslange Lernen](https://www.managerseminare.de/ms_Artikel/Das-Projekt-lernOS-Fahrplan-fuers-Lebenslange-Lernen,272084) in managerSeminare Ausgabe 256
 * [lernOS Rockstars Camp](https://community.cogneon.de/t/1-lernos-rockstars-camp/) am 25.06.2019 in München
-
 * Buchkapitel *lernOS als Betriebssystem für die Arbeit der Zukunft* von Simon Dückert in [Faszination New Work: 50 Impulse für die neue Arbeitswelt](https://amzn.to/3issdMx)
 
 ## 2018
