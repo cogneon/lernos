@@ -10,16 +10,30 @@ hide:
 # Publikationen
 Auf dieser Seite sammeln wir Veröffentlichungen rund um lernOS. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns.
 
+## 2022
+
+* Session Making-of lernOS Convention 2022 am 09.09.2022
+* lernOS Convention 2022 "The Re-Return of Knowledge Management" vom 05.-06.07.2022 auf der Kaiserburg Nürnberg und online ([Dokumentation](https://wiki.cogneon.de/LernOS_Convention_2022), [Video](https://www.youtube.com/watch?v=r9talnVcpYc]))
+* Session [#DATEVlernt](https://www.youtube.com/watch?v=yhwNhiOLc4Y) auf der ahrc2022 am 27.04.2022 in Köln
+* Video [lernOS - Eine Einführung](https://www.youtube.com/watch?v=JoTjZOK8L2g)
+* Vorstellung [lernOS Community Management Leitfaden](https://www.youtube.com/watch?v=2CyrFjiXqaM) beim C3Managers Meetup am 20.01.2022
+* Freihändig-Podcast Folge 57 [lernOS für Organisationen und Selbstlernprozesse](https://www.oliver-koenig.net/2022/01/13/simon-dueckert-lernos-fuer-organisationen-und-selbstlernprozesse-057/) vom 13.01.2022
+
 ## 2021
 
 * [Barcamp DiversityStoryThatMatter]([https://hopin.com/events/diversitystoriesthatmatter) am 10.12. (online)
+* Session [ISO 30401 mit dem lernOS für Organisationen Canvas](https://www.youtube.com/watch?v=gv5lynQlWEU) am 19.11.2021 auf dem KnowledgeCamp (#gkc21)
+* Session [Making-of lernOS Convention 2021](https://www.youtube.com/watch?v=fk4rz86pahM) am 23.07.2021
+* lernOS Convention 2021 "Agil trifft Lernende Organisation" vom 24.-25.06.2021 online ([Dokumentation](https://wiki.cogneon.de/LernOS_Convention_2021), [Video](https://www.youtube.com/watch?v=5v_Gcvdy3no))
 
 ## 2020
 
 - Podcast [Lebenslanges Lernen mit lernOS](https://fyyd.de/episode/5173375) im Klartext HR Podcast
+- Session [WOL - Back to the Roots](https://www.youtube.com/watch?v=9sCpcEi7uAM) auf dem WOL Camp am 26.11.2020
 - [lernOS All Stars Camp](https://wiki.cogneon.de/loscamp20) vom 23.-24.06.2020 (online)
 - Vortrag [lernOS in a Nutshell](https://www.youtube.com/watch?v=F5-f61GvXE4) am 15.06.2020 bei der GfWM Regionalgruppe Frankfurt-Rhein-Main
 - Video über lernOS for You [auf LinkedIn](https://www.linkedin.com/posts/theresa-laudenbach-4559a5200_lernos-lebenslangeslernen-fau-ugcPost-6770754811093684224-uIA8)
+- Gelbe Raben Podcast [Über Wissensmanagement und lernende Organisationen](https://anchor.fm/barbara-brning6/episodes/ber-Wissensmanagement-und-lernende-Organisationen---im-Gesprch-mit-Simon-Dckert-e1elmo0/a-a7esj08) vom 20.02.2022
 
 ## 2019
 

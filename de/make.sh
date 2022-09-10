@@ -25,7 +25,7 @@ pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filte
 
 # Create PDF Version (pdf)
 echo Creating PDF version ...
-pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filter --template lernos --number-sections --toc -V lang=de-de -o $filename.pdf $chapters
+pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filter -F pandoc-latex-admonition --template lernos --number-sections --toc -V lang=de-de -o $filename.pdf $chapters
 
 # Create eBook Versions (epub, mobi)
 echo Creating eBook versions ...

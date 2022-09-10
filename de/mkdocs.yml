@@ -23,7 +23,7 @@ nav:
     - FAQ: faq.md
     - Links:
       - Präsentation: https://cogneon.github.io/lernos/de-slides
-      - lernOS Community: https://community.cogneon.de
+      - CONNECT Community: https://community.cogneon.de
       - Peerfinder: https://web.peerfinder.app
 
 theme:
@@ -55,6 +55,8 @@ extra:
        provider: custom
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
