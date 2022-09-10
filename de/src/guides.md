@@ -10,9 +10,9 @@ Die **lernOS Leitfäden** haben i.d.R. einen Umfang von ca. 50 Seiten und sind i
 ## lernOS Core
 Mit den Leitfäden des **lernOS Core** (Kern) werden die Grundlagen für das kontinuierliche Lernen auf allen Ebenen der Organisation gelegt.
 
-1. [lernOS für Dich](/lernos-for-you/)
+1. [lernOS für Dich](../lernos-for-you/)
 1. lernOS für Teams (noch nicht verfügbar)
-1. [lernOS für Organisationen](/lernos-for-organizations/)
+1. [lernOS für Organisationen](../lernos-for-organizations/)
 
 ## lernOS Toolbox
 Die **lernOS Toolbox** stellt Leitfäden zum Erlernen bewährter Methoden, Tools und Formate für den guten Umgang mit Wissen bereit.
