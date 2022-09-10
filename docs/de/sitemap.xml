@@ -16,6 +16,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cogneon.github.io/lernos-for-organizations/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cogneon.github.io/lernos-for-you/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cogneon.github.io/publications/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
