@@ -22,8 +22,9 @@ nav:
     - Publikationen: publications.md
     - FAQ: faq.md
     - Links:
-      - Präsentation: https://cogneon.github.io/lernos/de-slides
+      - lernOS Präsentation: https://cogneon.github.io/lernos/de-slides
       - CONNECT Community: https://community.cogneon.de
+      - Meetup Gruppe: https://www.meetup.com/de-DE/lernos-connect/
       - Peerfinder: https://web.peerfinder.app
 
 theme:
