@@ -3,7 +3,6 @@ hide:
   - toc
 ---
 <style>
-  .md-typeset h1,
   .md-content__button {
     display: none;
   }
@@ -11,7 +10,7 @@ hide:
 
 <img title="" src="https://github.com/cogneon/lernos-core/raw/master/images/lernOS%20Logo/lernOS-logo-400px.png" alt="">
 
-**lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Die Inhalte von lernOS stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
+**lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
