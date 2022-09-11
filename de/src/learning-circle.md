@@ -1,5 +1,5 @@
 # Lernen in Lerngruppen
-Lernpfade in [lernOS Leitfäden](../guides.md) können alleine, zu zweit in Lerntandems oder mit 4-5 Personen in einer **Lerngruppe** (Learning Circle) durchlaufen werden. Insbesondere lernOS Neulingen (Noobs) empfehlen wir die Lerngruppe, idealerweise mit mindestens einer Person mit Erfahrung.
+Lernpfade in [lernOS Leitfäden](../guides) können alleine, zu zweit in Lerntandems oder mit 4-5 Personen in einer **Lerngruppe** (Learning Circle) durchlaufen werden. Insbesondere lernOS Neulingen (Noobs) empfehlen wir die Lerngruppe, idealerweise mit mindestens einer Person mit Erfahrung.
 
 ![Gruppe von Personen beim Lernen](./images/undraw_Engineering_team_a7n2.png)
 
