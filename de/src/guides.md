@@ -30,5 +30,5 @@ Die **lernOS Toolbox** stellt Leitfäden zum Erlernen bewährter Methoden, Tools
 1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
 1. [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)
 
-# Einen eigenen Leitfaden erstellen
+## Einen eigenen Leitfaden erstellen
 Wenn Du einen eigenen lernOS Leitfaden erstellen möchtest, nimm Kontakt mit [Simon Dückert](https://www.linkedin.com/in/simondueckert/) auf.  
