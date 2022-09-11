@@ -28,6 +28,10 @@ Ja. Die Leitfaden sind in den E-Book-Formaten [EPUB](https://de.wikipedia.org/wi
 
 Ja, Du kannst und wir wollen sogar, dass du das machst! Aus diesem Grund werden die Inhalte von lernOS unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) veröffentlicht. Du kannst die Inhalte herunterladen, benutzen und modifizieren. Du kannst lernOS Inhalte im privaten und kommerziellen Kontexten kostenfrei verwenden.
 
+**Was ist der Unterschied zwischen lernOS und anderen Methoden wie z.B. Working Out Looud (WOL)?**
+
+Siehe [Blog zu den wichtigsten Unterschieden](https://cogneon.de/2019/07/13/di3-13-wichtigsten-unterschiede-zwischen-lernos-und-wol/).
+
 **Kann ich kommerzielle Produkte und Dienstleistungen mit lernOS im Namen anbieten?**
 
 Nein. Einzelne Produkte und Dienstleistungen dürfen den Begriff "lernOS" nicht in ihrem Namen enthalten (z.B. "lernOS Lernwerkstatt"). Das ist wie bei Open Source Webbrowser [Chromium](https://www.chromium.org/Home), dessen Quellcode jeder verwenden kann. Darauf aufbauende Produkte müssen aber einen anderen Namen haben ([Google Chrome](https://de.wikipedia.org/wiki/Google_Chrome), [Microsoft Edge](https://de.wikipedia.org/wiki/Microsoft_Edge), [Opera](https://de.wikipedia.org/wiki/Opera_(Browser)), [Flock](https://de.wikipedia.org/wiki/Flock_(Browser)), [Brave](https://de.wikipedia.org/wiki/Brave_(Browser))).
