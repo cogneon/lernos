@@ -6,7 +6,7 @@ Dafür vermittelt dieser Leitfaden im Kapitel Grundlagen einen Einblick in zentr
 Das Kapitel Lernpfad dient dem Einstieg in die Praxis. Gemeinsam mit einigen Mitstreitern gründest du eine "Koalition des Lernens" in deiner Organisation. Ihr identifiziert gemeinsam die wichtigsten Handlungsfelder und startet mit dem "Open Space des Lernens" einen Entwicklungsprozess, der in 3-monatigen Zeitabschnitten (Sprints) konkrete Schritte zur Entwicklung einer Lernende Organisation unternimmt. Eine wachsende Gruppe Freiwilliger ("army of volunteers") hilft im Lauf der Zeit dabei, die Lernende Organisation zum neuen Normal werden zu lassen.
 
 ## Leitfaden
-* [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/) (de)
+[lernOS für Organisationen Leitfaden (de)](https://cogneon.github.io/lernos-for-organizations/de/){ .md-button .md-button--primary }
 
 ## Team
 * Simon Dückert (Maintainer)

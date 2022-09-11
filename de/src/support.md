@@ -5,15 +5,17 @@
 </style>
 
 # lernOS unterstützen
-Es gibt verschiedene Möglichkeiten, das Projekt lernOS zu unterstützen:
+Es gibt verschiedene Möglichkeiten, **das Projekt lernOS zu unterstützen**: Du kannst lernOS einfach verwenden, es bekannt machen, eigene Inhalte erstellen oder sogar mit Deiner Organisation lernOS Supporter werden.
+
+![Zwei Personen an einem Baum, der wächst](./images/undraw_Waiting__for_you_ldha.png)
 
 ## lernOS verwenden
-Zum Einstieg in lernOS ist es wichtig, eigene Erfahrungen mit der Methode zu sammeln.
+Zum Einstieg in lernOS ist es wichtig, eigene Erfahrungen mit der Methode zu sammeln:
 
-1. Suche dir einen [lernOS Leitfaden](/guides) deiner Wahl. Einsteiger_innen empfehlen wir den lernOS für Dich Leitfaden
+1. Suche dir einen [lernOS Leitfaden](/guides) deiner Wahl. Einsteiger_innen empfehlen wir den lernOS für Dich Leitfaden.
 1. Wähle ein Quartal, in dem du den Lernpfad des Leitfadens durchlaufen möchtest
-1. Entscheide dich, ob die alleine, als Tandem oder im Circle mit 4-5 Personen lernen möchtest
-1. Verwende dein persönliches Netzwerk, soziale Medien oder den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende zu finden
+1. Entscheide dich, ob die alleine, im Lerntandem oder in einer Lerngruppe (auch Circle genannt) mit meist 4-5 Personen lernen möchtest.
+1. Verwende dein persönliches Netzwerk, soziale Medien oder den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende zu finden.
 1. Stop talking, start doing! :-)
 
 ## lernOS Supporter werden

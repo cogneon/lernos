@@ -6,12 +6,14 @@ site_dir: ../docs/de
 nav:
     - Willkommen: index.md
     - lernOS Leitfäden: guides.md
+    - Lernen in Gruppen: learning-circle.md
     - lernOS unterstützen: support.md
     - Publikationen: publications.md
     - FAQ: faq.md
     - Links:
       - lernOS Präsentation: https://cogneon.github.io/lernos/de-slides
       - lernOS Quick-Start Guide: lernOS-Quick-Start-Guide-de-v03.pdf
+      - lernOS Glossar: lernos-glossary.md
       - CONNECT Community: https://community.cogneon.de
       - Meetup Gruppe: https://www.meetup.com/de-DE/lernos-connect/
       - Peerfinder: https://web.peerfinder.app

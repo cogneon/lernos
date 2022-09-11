@@ -8,7 +8,9 @@ hide:
   }
 </style>
 # Publikationen
-Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns.
+Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns oder trage die Links unten in die Kommentare ein.
+
+![Personen vor einer Webseite](./images/undraw_Blogging_re_kl0d.png)
 
 ## 2022
 

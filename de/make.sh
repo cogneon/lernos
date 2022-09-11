@@ -3,7 +3,7 @@ echo Starting lernOS Guide Generation ...
 
 # Variables
 filename="lernOS-Website-de"
-chapters="./src/index.md ./src/publications.md ./src/faq.md"
+chapters="./src/index.md ./src/guides.md ./src/learning-circle.md ./src/support.md ./src/publications.md ./src/faq.md"
 
 # Delete Old Versions
 echo Deleting old versions ...
