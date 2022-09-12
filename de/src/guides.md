@@ -22,6 +22,7 @@ Die **lernOS Toolbox** stellt Leitfäden zum Erlernen bewährter Methoden, Tools
 1. [lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/)
 1. [lernOS BarCamp](https://cogneon.github.io/lernos-barcamp/de/)
 1. [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/)
+1. [lernOS Content Curation](https://cogneon.github.io/lernos-content-curation/de/)
 1. [lernOS Digitale Zusammenarbeit](https://cogneon.github.io/lernos-digitale-zusammenarbeit/de/)
 1. [lernOS Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/)
 1. [lernOS ePortfolio](https://cogneon.github.io/lernos-eportfolio/de/)
