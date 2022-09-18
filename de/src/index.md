@@ -15,8 +15,8 @@ hide:
 **lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur Verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
 
 ??? info "Schnellzugriff lernOS Leitfäden"
-    1. [lernOS für Dich](https://cogneon.github.io/lernos/de/lernos-for-you/)
-    1. [lernOS für Organisationen](https://cogneon.github.io/lernos/de/lernos-for-organizations/)
+    1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/)
+    1. [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/)
     1. [lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/)
     1. [lernOS BarCamp](https://cogneon.github.io/lernos-barcamp/de/)
     1. [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/)
