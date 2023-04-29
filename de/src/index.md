@@ -14,6 +14,8 @@ hide:
 
 **lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur Verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
 
+[KCLO Newsletter auf LinkedIn](https://www.linkedin.com/newsletters/7024998990765031424/){ .md-button }
+
 ??? info "Schnellzugriff lernOS Leitfäden"
     1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/)
     1. [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/)
