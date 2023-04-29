@@ -58,4 +58,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - mermaid2
+#  - mermaid2

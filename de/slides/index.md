@@ -51,7 +51,7 @@
 ---
 
 ### lernOS Wheel
-<img src="https://transfer.cogneon.de/lernos/lernOS-Wheel.png" width="100%" />
+<img src="https://github.com/cogneon/lernos-for-you/raw/master/de/src/images/lernOS-Wheel.png" width="80%" />
 
 ---
 
@@ -61,7 +61,7 @@
 ---
 
 ### lernOS Sprints
-<img src="https://transfer.cogneon.de/lernos/lernOS-Sprint.png" width="100%" />
+<img src="https://github.com/cogneon/lernos-for-you/raw/master/de/src/images/lernOS-Sprint.png" width="100%" />
 
 ---
 
@@ -70,37 +70,17 @@
 
 ---
 
-### lernOS Canvas
-<img src="https://transfer.cogneon.de/lernos/lernOS-Canvas-for-You-de.png" width="80%" />
-
----
-
 ### lernOS Workplace
 <img src="https://cogneon.github.io/lernos-for-you/de/images/lernOS-Workplace.png" width="80%" />
 
 ---
 
-### Lebenslanges Lernen
-<img src="https://transfer.cogneon.de/lernos/lll-mit-lernos.png" width="100%" />
-
----
-
 ### lernOS Links
-* Webseite: [lernos.org](https://lernos.org/)
-* Twitter: [@lern_os](https://twitter.com/lern_os)
-* Twitter Community: [LearningMindset](https://twitter.com/i/communities/1494430902381944836)
-* Community: [community.cogneon.de](https://community.cogneon.de/)
-* Konferenz: [lernOS Convention](https://cogneon.de/loscon22) (5./6. Juli 2022)
+* Website: [lernos.org](https://lernos.org/)
+* Mastodon: [@lern_os](https://colearn.social/@lernos) (Hashtag: #lernos)
+* Linkedin: [Seite lernOS](https://www.linkedin.com/showcase/lern-os/) (Hashtag: #lernos)
+* Community: [CONNECT](https://community.cogneon.de/) (24/7)
+* Event: [lernOS Convention](https://wiki.cogneon.de/loscon) (jährlich)
 * GitHub: [github.com/cogneon](https://github.com/cogneon)
 
 # KEEP CALM &<br /> LEARN ON
-
----
-
-### Kontakt
-<table>
- <tr valign="top">
-  <td><a href="https://www.linkedin.com/in/simondueckert/"><img src="https://transfer.cogneon.de/lernos/simon-dueckert.jpg" height="400" /></a></td>
-  <td><img src="https://transfer.cogneon.de/lernos/qr-vcard-simondueckert.png" height="400" /></td>
- </tr>
-</table>
