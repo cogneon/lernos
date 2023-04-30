@@ -12,6 +12,9 @@ Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehör
 
 ![Personen vor einer Webseite](./images/undraw_Blogging_re_kl0d.png)
 
+## 2023
+* Session lernOS 101 & AMA auf dem Expedition Arbeit Barcamp am 29.04.2023 in Fürth (dafür [lernOS Basispräsentation](https://cogneon.github.io/lernos/de-slides) aktualisiert)
+
 ## 2022
 
 * Session [Making-of lernOS Convention 2022](https://youtu.be/vPHEhRyjdDI) am 09.09.2022
