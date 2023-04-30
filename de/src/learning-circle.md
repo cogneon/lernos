@@ -3,6 +3,10 @@ Lernpfade in [lernOS Leitfäden](../guides) können alleine, zu zweit in Lerntan
 
 ![Gruppe von Personen beim Lernen](./images/undraw_Engineering_team_a7n2.png)
 
+Die Lerngruppe durchläuft einen Lernpfad meist im Zeitraum von einem Quartal, den wir in lernOS in Anlehnung an Scrum auch Lern-Sprint nennen. Der Sprint startet in Woche 0 mit einer Planung. Die Wochen 1-11 werden von den Übungen (Katas) des genutzen Lernpfads gefüllt. In Woche 12 endet der Sprint mit einer Retrospektive und dem gemeinsamen Feiern des Erreichten.
+
+![](https://github.com/cogneon/lernos-for-you/raw/master/de/src/images/lernOS-Sprint.png)
+
 **Die Vorteile einer Lerngruppe:**
 
 * Du bist nicht alleine
