@@ -14,6 +14,9 @@ hide:
 
 **lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur Verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Quicklinks
 [CONNECT Community](https://community.cogneon.de/){ .md-button } [KCLO Newsletter auf LinkedIn](https://www.linkedin.com/newsletters/7024998990765031424/){ .md-button }
 
 ??? info "Schnellzugriff lernOS Leitfäden"
@@ -31,7 +34,6 @@ hide:
     1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
     1. [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## WHY - Warum braucht es lernOS?
 **Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)). Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
