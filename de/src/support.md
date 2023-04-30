@@ -22,13 +22,13 @@ Zum Einstieg in lernOS ist es wichtig, eigene Erfahrungen mit der Methode zu sam
 
 Unternehmen, Organisationen, und Institutionen können lernOS unterstützen, indem sie lernOS Supporter werden. Für einen Betrag von € 1.000,-/Jahr (zzgl. MwSt.) werden die Supporter hier genannt, erhalten 3 Tickets für die jährliche lernOS Convention und können eine Person in den lernOS Beirat entsenden. Aktuelle lernOS Supporter sind:
 
-1. [bayernwerk](https://www.bayernwerk.de/)
-1. [DATEV](https://www.datev.de/)
-1. [Deutsche Telekom](https://www.telekom.de/)
-1. [IPI](https://www.ipi-gmbh.com/)
-1. [Lebensversicherung von 1871](https://www.lv1871.de/)
-1. [SAP](https://www.sap.com/)
-1. [Siemens Healthineers](https://www.siemens-healthineers.com/)
-1. [Vitesco Technologies](https://www.vitesco-technologies.com/)
+1. [bayernwerk](https://www.bayernwerk.de/) vertreten durch [Gerrit Mauch](https://www.linkedin.com/in/gerrit-mauch-4b766917b/)
+1. [DATEV](https://www.datev.de/) vertreten durch [Simone Wanken](https://www.linkedin.com/in/drsimonewanken/)
+1. [Deutsche Telekom](https://www.telekom.de/) vertreten durch [Jochen Pfender](https://www.linkedin.com/in/jochen-pfender-b9aaa2170/)
+1. [IPI](https://www.ipi-gmbh.com/) vertreten durch [Roland Klein](https://www.linkedin.com/in/roland-klein-61208b176/)
+1. [Lebensversicherung von 1871](https://www.lv1871.de/) vertreten durch [Susanne Mootz](https://www.linkedin.com/in/dr-susanne-mootz/)
+1. [SAP](https://www.sap.com/) vertreten durch [Thomas Jenewein](https://www.linkedin.com/in/thomasjenewein/)
+1. [Siemens Healthineers](https://www.siemens-healthineers.com/) vertreten durch [Thao Nguyen](https://www.linkedin.com/in/thao-nguyen-b19545148/)
+1. [Vitesco Technologies](https://www.vitesco-technologies.com/) vertreten durch [Bernd Siewert](https://www.linkedin.com/in/bernd-siewert-28078812b/)
 
 Wer lernOS Supporter werden möchte, kann [gerne Kontakt mit uns aufnehmen](https://cogneon.de/kontakt).
