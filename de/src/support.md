@@ -25,8 +25,10 @@ Unternehmen, Organisationen, und Institutionen können lernOS unterstützen, ind
 1. [bayernwerk](https://www.bayernwerk.de/)
 1. [DATEV](https://www.datev.de/)
 1. [Deutsche Telekom](https://www.telekom.de/)
+1. [IPI](https://www.ipi-gmbh.com/)
 1. [Lebensversicherung von 1871](https://www.lv1871.de/)
 1. [SAP](https://www.sap.com/)
 1. [Siemens Healthineers](https://www.siemens-healthineers.com/)
+1. [Vitesco Technologies](https://www.vitesco-technologies.com/)
 
 Wer lernOS Supporter werden möchte, kann [gerne Kontakt mit uns aufnehmen](https://cogneon.de/kontakt).
