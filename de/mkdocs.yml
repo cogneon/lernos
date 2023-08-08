@@ -45,6 +45,9 @@ extra:
     disqus: lernos
     analytics:
        provider: custom
+    generator: false
+
+copyright: Impressum cogneon.de/impressum
 
 markdown_extensions:
   - attr_list
