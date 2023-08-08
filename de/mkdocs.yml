@@ -5,11 +5,11 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - lernOS Leitfäden: guides.md
-    - Lernen in Gruppen: learning-circle.md
-    - lernOS unterstützen: support.md
-    - Publikationen: publications.md
-    - FAQ: faq.md
+    - lernOS Leitfäden: 1-guides.md
+    - Lernen in Gruppen: 2-learning-circle.md
+    - lernOS unterstützen: 3-support.md
+    - Publikationen: 4-publications.md
+    - FAQ: 5-faq.md
     - Links:
       - lernOS Präsentation: https://cogneon.github.io/lernos/de-slides
       - lernOS Quick-Start Guide: lernOS-Quick-Start-Guide-de-v03.pdf
