@@ -45,9 +45,6 @@ extra:
     disqus: lernos
     analytics:
        provider: custom
-    generator: false
-
-copyright: Impressum https://cogneon.de/impressum
 
 markdown_extensions:
   - attr_list
@@ -61,4 +58,5 @@ markdown_extensions:
 
 plugins:
   - search
+  - blog
 #  - mermaid2
