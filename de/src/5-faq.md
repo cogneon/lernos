@@ -1,16 +1,22 @@
 ---
+
 hide:
-  - toc
+
+- toc
+
 ---
+
 <style>
   .md-content__button {
     display: none;
   }
 </style>
+
 # lernOS FAQ
+
 Auf dieser Seite sammeln wir die **Antworten zu oft gestellten Fragen**. Ist Deine Frage nicht dabei, kannst du sie unten in die Kommentare schreiben.
 
-![Figuren mit Fragezeichen](./images/undraw_Faq_re_31cw.png)
+
 
 **Ich möchte in lernOS einsteigen, weiß aber noch nicht genau wie. Welche Tipps gibt es?**
 
