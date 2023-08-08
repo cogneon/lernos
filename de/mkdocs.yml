@@ -58,5 +58,5 @@ markdown_extensions:
 
 plugins:
   - search
-  - blog
+#  - blog
 #  - mermaid2
