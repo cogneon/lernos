@@ -58,18 +58,18 @@ jobs:
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
       # Create PDF Version (pdf)
-      - uses: docker://pandoc/extra
-        with:
-          args: >-
-            ./de/metadata.yaml
-            --standalone
-            --resource-path=./de/src
-            --number-sections
-            --toc
-            -V lang=de-de
-            --template /.pandoc/templates/eisvogel.latex
-            --output=./de/${{ github.event.repository.name }}-guide.pdf
-            ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+      #- uses: docker://pandoc/extra
+      #  with:
+      #    args: >-
+      #      ./de/metadata.yaml
+      #      --standalone
+      #      --resource-path=./de/src
+      #      --number-sections
+      #      --toc
+      #      -V lang=de-de
+      #      --template /.pandoc/templates/eisvogel.latex
+      #      --output=./de/${{ github.event.repository.name }}-guide.pdf
+      #      ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
       # Create Web Version (mkdocs)
       - uses: actions/setup-python@v4
