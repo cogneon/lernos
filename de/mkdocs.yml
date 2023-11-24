@@ -5,9 +5,8 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - lernOS Leitfäden: 1-guides.md
+    - Leitfäden: 1-guides.md
     - Lernen in Gruppen: 2-learning-circle.md
-    - lernOS unterstützen: 3-support.md
     - Publikationen: 4-publications.md
     - Blog:
       - blog/index.md
@@ -19,6 +18,7 @@ nav:
       - CONNECT Community: https://community.cogneon.de
       - Meetup Gruppe: https://www.meetup.com/de-DE/lernos-connect/
       - Peerfinder: https://web.peerfinder.app
+    - Unterstützen: 3-support.md
 theme:
     name: 'material'
     custom_dir: src/overrides
