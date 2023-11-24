@@ -9,6 +9,8 @@ nav:
     - Lernen in Gruppen: 2-learning-circle.md
     - lernOS unterstützen: 3-support.md
     - Publikationen: 4-publications.md
+    - Blog:
+      - blog/index.md
     - FAQ: 5-faq.md
     - Links:
       - lernOS Präsentation: https://cogneon.github.io/lernos/de-slides
@@ -17,7 +19,6 @@ nav:
       - CONNECT Community: https://community.cogneon.de
       - Meetup Gruppe: https://www.meetup.com/de-DE/lernos-connect/
       - Peerfinder: https://web.peerfinder.app
-
 theme:
     name: 'material'
     custom_dir: src/overrides
@@ -61,5 +62,4 @@ markdown_extensions:
 
 plugins:
   - search
-#  - blog
-#  - mermaid2
+  - blog
