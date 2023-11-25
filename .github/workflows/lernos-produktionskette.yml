@@ -30,6 +30,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-rss-plugin
       - run: mkdocs build -f ./de/mkdocs.yml
 
       # Geänderte Datein zurück ins Repository committen
