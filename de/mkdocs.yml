@@ -64,3 +64,4 @@ plugins:
       categories:
         - categories
         - tags
+      length: 1000
