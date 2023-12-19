@@ -31,5 +31,15 @@ Die **lernOS Toolbox** stellt Leitfäden zum Erlernen bewährter Methoden, Tools
 1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
 1. [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)
 
+## Leitfäden im Entstehen
+Einige Leitfäden sind gerade im Entstehen (0.x Version) und noch nicht getestet (s.a. [lernOS Leitfaden Status](https://community.cogneon.de/t/lernos-leitfaden-status/3908)):
+
+1. lernOS Change Management
+1. [lernOS Digitales Ökosystem](https://cogneon.github.io/lernos-digitales-oekosystem/de/)
+1. [lernOS Künstliche Intelligenz](https://cogneon.github.io/lernos-ai/de/)
+1. [lernOS Leadership](https://cogneon.github.io/lernos-leadership/de/)
+1. [lernOS Problemlösen](https://cogneon.github.io/lernos-problem-solving/de/)
+1. [lernOS Zettelkasten](https://cogneon.github.io/lernos-zettelkasten/de/)
+
 ## Einen eigenen Leitfaden erstellen
-Wenn Du einen eigenen lernOS Leitfaden erstellen möchtest, nimm Kontakt mit [Simon Dückert](https://www.linkedin.com/in/simondueckert/) auf.  
+Wenn Du einen eigenen lernOS Leitfaden erstellen möchtest, nimm Kontakt mit [Simon Dückert](https://www.linkedin.com/in/simondueckert/) auf. Für einige Themen gibt es schon konkretere Ideen, die aufgegriffen werden können (z.B. Innovationsmanagement, Digitale Trainings, Storytelling). 
