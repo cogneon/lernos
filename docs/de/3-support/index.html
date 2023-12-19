@@ -972,39 +972,62 @@
 <!-- Source file information -->
 
 
+
 <!-- Get setting from mkdocs.yml, but allow page-level overrides -->
 
 
 
-<!-- Inject Disqus into current page -->
-
   <h2 id="__comments">Kommentare</h2>
-  <div id="disqus_thread"></div>
+  <!-- Insert generated snippet here -->
+  <script src="https://giscus.app/client.js"
+  data-repo="cogneon/lernos"
+  data-repo-id="MDEwOlJlcG9zaXRvcnkyODYxOTU1MzM="
+  data-category="[GIB KATEGORIE NAMEN HIER EIN]"
+  data-category-id="[GIB KATEGORIE ID HIER EIN]"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="preferred_color_scheme"
+  data-lang="de"
+  crossorigin="anonymous"
+  async>
+</script>
+  <!-- Synchronize Giscus theme with palette -->
   <script>
-    var disqus_config = function() {
-      this.page.url = "https://cogneon.github.io/3-support/"
-      this.page.identifier =
-        "3-support/"
+    var giscus = document.querySelector("script[src*=giscus]")
 
+    // Set palette on initial load
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate"
+        ? "transparent_dark"
+        : "light"
+
+      // Instruct Giscus to set theme
+      giscus.setAttribute("data-theme", theme) 
     }
 
-    /* Set up for the first time */
-    if (typeof DISQUS === "undefined") {
-      var script = document.createElement("script")
-      script.async = true
-      script.src = "https://lernos.disqus.com/embed.js"
-      script.setAttribute("data-timestamp", Date.now())
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate"
+            ? "transparent_dark"
+            : "light"
 
-      /* Inject script tag */
-      document.body.appendChild(script)
-
-    /* Set up on navigation (instant loading) */
-    } else {
-      DISQUS.reset({
-        reload: true,
-        config: disqus_config
+          // Instruct Giscus to change theme
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
       })
-    }
+    })
   </script>
 
                 
