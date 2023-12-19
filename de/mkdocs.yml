@@ -53,6 +53,8 @@ copyright: cogneon.de/impressum
 markdown_extensions:
   - attr_list
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - search
