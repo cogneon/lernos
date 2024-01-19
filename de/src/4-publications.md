@@ -13,6 +13,7 @@ Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehör
 ![Personen vor einer Webseite](./images/undraw_Blogging_re_kl0d.png)
 
 ## 2023
+* [Lightning Talk zur lernOS Produktionskette](/blog/2024/01/19/lightning-talk-zur-lernos-produktionskette-auf-dem-37c3/) auf dem 37. Chaos Communication Congress
 * Podcast [KCLO108 x Freakshow @ EnBW – Ein Rückblick auf die lernOS Convention 2023](https://cogneon.de/podcast/2023/07/31/kclo108-x-freakshow-enbw-ein-rueckblick-auf-die-lernos-convention-2023/) (öffentliche Version des EnBW-internen Podcasts)
 * lernOS Convention 2023 "Crafting Learning Environments" vom 11.-12.07.2023 auf der Kaiserburg Nürnberg und online ([Dokumentation](https://wiki.cogneon.de/LernOS_Convention_2023), [Video](https://www.youtube.com/watch?v=W0UaN3bcmXc&pp=ygUbbG9zY29uMjMgaW1wcmVzc2lvbiBjb2duZW9u))
 * Session lernOS 101 & AMA auf dem Expedition Arbeit Barcamp am 29.04.2023 in Fürth (dafür [lernOS Basispräsentation](https://cogneon.github.io/lernos/de-slides) aktualisiert)
