@@ -1,5 +1,5 @@
 site_name: lernOS - Keep Calm and Learn On
-site_url: https://cogneon.github.io/
+site_url: https://lernos.org/
 docs_dir: src
 site_dir: ../docs/de
 
@@ -12,7 +12,7 @@ nav:
       - blog/index.md
     - FAQ: 5-faq.md
     - Links:
-      - lernOS Präsentation: https://cogneon.github.io/lernos/de-slides
+      - lernOS Präsentation: https://lernos.org/de-slides
       - lernOS Quick-Start Guide: lernOS-Quick-Start-Guide-de-v03.pdf
       - lernOS Glossar: lernos-glossary.md
       - CONNECT Community: https://community.cogneon.de
