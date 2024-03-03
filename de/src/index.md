@@ -17,7 +17,7 @@ hide:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quicklinks
-[CONNECT Community](https://community.cogneon.de/){ .md-button } [Discord Chat Server](https://discord.gg/gY6YvZyc3A){ .md-button }
+[lernOS Blog](https://lernos.org/de/blog/){ .md-button } [CONNECT Community](https://community.cogneon.de/){ .md-button } [Discord Chat Server](https://discord.gg/gY6YvZyc3A){ .md-button }
 
 ??? info "Schnellzugriff lernOS Leitfäden"
     1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/)
