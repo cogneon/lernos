@@ -20,8 +20,8 @@ Der **lernOS KI MOOC** ist **offen und kostenfrei**. Du  kannst dich [über meet
 - 06.05., 13-14 Uhr
 - 15.05., 13-14 Uhr
 - 03.06., 13-14 Uhr
-- 10.06., 10-17 Uhr
-- 17.06., 10-17 Uhr
+- 10.06., 13-14 Uhr
+- 17.06., 13-14 Uhr
 
 Alle weiteren Infos werden über den Verteiler des meetup-Termins verschickt. Ausführliche und aktuelle Informationen werden wir alle auf der [Infoseite zum kimooc24](https://loscon.lernos.org/de/kimooc24/) bereitstellen und aktuell halten.
 
