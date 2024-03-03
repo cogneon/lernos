@@ -14,6 +14,8 @@ categories:
 
 Das Leitfaden-Team des neuen **lernOS Künstliche Intelligenz (KI) Leitfadens** hat die Version 0.1 des Lernpfads fertiggestellt. Den Lernpfad wollen wir gemeinsam **mit vielen Lernzirkeln** (Learning Circles) im **lernOS KI MOOC** (Massive Open Online Kurs) **vom 6. Mai bis 21. Juni** erproben (ca. 2h/Woche nötig). Der Zeitraum ist so gewählt, dass wir die Erfahrungen dann bei der [lernOS Convention 2024](https://cogneon.de/loscon24) (2./3. Juli) zusammentragen und besprechen können.
 
+<!-- more -->
+
 ## Zum kimooc24 anmelden
 Der **lernOS KI MOOC** ist **offen und kostenfrei**. Du  kannst dich [über meetup.com zum MOOC anmelden](https://www.meetup.com/de-DE/cogneon/events/297769514/). Die Termine für die Livesessions kannst Du Dir mit dieser ICS-Datei](https://cloud.cogneon.de/s/2C6WEG3dxse3wy4) in den Kalender eintragen:
 

@@ -9,6 +9,8 @@ categories:
 
 Bisher waren die **lernOS Aktivitäten** sehr lose organisiert. Ich habe mich um Website, die drei Core-Leitfäden und einige weitere (Expert Debriefing, Podcasting, KI) gekümmert. Die Leitfaden-Teams arbeiten wie das loscon Orga-Team weitestgehen selbstorganisiert. Die lernOS Supporter Organisationen (aktuell 7), die lernOS unterstützen kommunizieren in einem eigenen Teams und in separaten Treffen. Und neben dem Community Call gibt es bisher keine weiteren synchronen Gelegenheiten für Austausch und Synchronisation.
 
+<!-- more -->
+
 Deswegen wollen wir ab 2024 das **lernOS Kernteam** etablieren, das dem Zweck der Abstimmung und gemeinsamen Synchronisation dient und sich ein Mal pro Monat trifft (immer 3. Freitag im Monat von 15-16 Uhr). Zum ersten Treffen am 15.12. sind folgende Menschen eingeladen:
 
 1. Bisherhiges **lernOS Core Team** (Karsten und Simon, Entwicklung der [drei Core Canvas](https://github.com/cogneon/lernos-core/wiki/lernOS-Core-Canvas-Vereinheitlichung))
