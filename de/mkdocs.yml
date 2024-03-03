@@ -44,8 +44,6 @@ extra:
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
     giscus: true
-    analytics:
-       provider: custom
     generator: false
 
 copyright: cogneon.de/impressum
