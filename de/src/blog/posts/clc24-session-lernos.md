@@ -33,11 +33,12 @@ Auf dem [Corporate Learning Camp 2024](https://colearn.de/clc24fruehjahr/) in Ha
 1. Aktuell 13 Leitfäden auf lernos.org veröffentlicht, 4 weitere werden in den nächsten Wochen Veröffentlicht.
 1. [lernOS on Air](https://podcasts.cogneon.io/@loa/episodes) (Podcast), davon gibt es monatlich auch die Crossover-Variante "lernOS on Air meets Corporate Learning Podcast", die auch im [Corporate Learning Podcast](https://colearn.de/podcast/) veröffentlicht wird
 
-**3.) lernOS Events & Fallbeispiele**
+**3.) lernOS Events, Community & Fallbeispiele**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W0UaN3bcmXc?si=mqUbc3a78ZdQ51YW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 1. [lernOS Convention](https://loscon.lernos.org/de/) (früher: lernOS Camp, KnowTouch), jährliches "Familientreffen der Community", hybrid auf der Kaiserburg Nürnberg (Video 2023)
+1. [CONNECT Community](https://community.cogneon.de) mit lernOS Bereich, aktuell 1.200+ Mitgliedern.
 1. [lernOS KI MOOC](https://www.meetup.com/cogneon/events/297769514/) mit 5 Themenwochen und dem neuen lernOS KI Leitfaden als Basis, man kann als Solo-Lerner:in, im Learning Circle, aber auch mit großen Gruppen in Unternehmen & Organisationen teilnehmen.
 1. [lernOS Kernteam](https://github.com/cogneon/lernos-core/wiki#kernteam-treffen) (je 1 Vertreter:in der Leitfäden, Core-Team, Kommunikations-Team, Beiräte, Freiwillige mit Drive)
 1. lernOS Fallbeispiele (z.B. DATEV Learning Circle Experience, Continental Learning Circle Experience , SAP Learning Circle Experience, EnBW KI Lernpfad)
