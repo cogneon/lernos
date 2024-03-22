@@ -10,7 +10,9 @@ categories:
 
 ![](images/clc24-banner.jpg)
 
-Auf dem [Corporate Learning Camp 2024](https://colearn.de/clc24fruehjahr/) in Hamburg (#clc24) wird es **am 21.03.2024 von 16:15 - 17:00 Uhr** eine **Session** mit dem Titel "lernOS State of the Union - Wo stehen wir als Community, was sind die nächsten Schritte?" geben. Auditive Teilnahme und Diskussion ist über [dieses Linkedin Audio Event](https://www.linkedin.com/events/lernos-stateoftheunion-wostehen7172162046560456704/comments/) möglich.
+Auf dem [Corporate Learning Camp 2024](https://colearn.de/clc24fruehjahr/) in Hamburg (#clc24) wird es **am 21.03.2024 von 16:15 - 17:00 Uhr** eine **Session** mit dem Titel "lernOS State of the Union - Wo stehen wir als Community, was sind die nächsten Schritte?" geben. Auditive Teilnahme und Diskussion ist über [dieses Linkedin Audio Event](https://www.linkedin.com/events/lernos-stateoftheunion-wostehen7172162046560456704/comments/) möglich. Die Session wurde als Podcast aufgezeichnet und ist [auf COPOD verfügbar](https://podcasts.cogneon.io/@loa/episodes/lernos-state-of-the-union-session-auf-dem-corporate-learning-camp-2024).
+
+<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px; overflow: hidden;" src="https://podcasts.cogneon.io/@loa/episodes/lernos-state-of-the-union-session-auf-dem-corporate-learning-camp-2024/embed"></iframe>
 
 <!-- more -->
 
