@@ -12,12 +12,12 @@ hide:
 
 <img title="" src="https://github.com/cogneon/lernos-core/raw/master/images/lernOS%20Logo/lernOS-logo-400px.png" alt="">
 
-**lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur Verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
+**lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Für Austausch und Interaktion verwenden wir die [CONNECT Community](https://community.cogneon.de/) und einen [Discord Chat Server](https://discord.gg/gY6YvZyc3A).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Quicklinks
-[lernOS Blog](https://lernos.org/de/blog/){ .md-button } [CONNECT Community](https://community.cogneon.de/){ .md-button } [Discord Chat Server](https://discord.gg/gY6YvZyc3A){ .md-button }
+## lernOS Leitfäden
+Die lernOS Leitfäden enthalten Lernpfade, um Lebenslangens Lernen und eine Lernende Organisation zu kultivieren (lernOS Core Leitfäden) oder um sich Wissen und Fähigkeiten zum Umgang mit Lernen und Wissen anzueignen (lernOS Toolbox Leitfäden). Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur Verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
 
 ??? info "Schnellzugriff lernOS Leitfäden"
     1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/)
@@ -34,6 +34,10 @@ hide:
     1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
     1. [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)
 
+## lernOS News
+Neuigkeiten zu lernOS verteilen wir im monatlichen Community Call (Infos über [diese Meetup-Gruppe](https://www.meetup.com/cogneon/)), den [lernOS Blog](https://lernos.org/de/blog/) (RSS-Feed), die [LinkedIn Seite](https://www.linkedin.com/showcase/28494203/admin/feed/posts/) und im Fediverse unter [@lernos@colearn.social](https://colearn.social/@lernos). Für Audio-Fans gibt es den [lernOS on Air Podcast](https://podcasts.cogneon.io/@loa) (auch als Audio on Demand [auf Spotify](https://open.spotify.com/show/4K9CueTvOFcrAQGIyKtwRp)).
+
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="800" height="600" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fcolearn.social%2Fusers%2Flernos&theme=light&size=80&header=false&replies=false&boosts=false"></iframe>
 
 ## WHY - Warum braucht es lernOS?
 **Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)). Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
