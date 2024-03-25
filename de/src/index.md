@@ -10,16 +10,17 @@ hide:
 
 # Willkommen bei lernOS
 
-<img title="" src="https://github.com/cogneon/lernos-core/raw/master/images/lernOS%20Logo/lernOS-logo-400px.png" alt="">
+<div class="grid cards" markdown>
 
-**lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Für Austausch und Interaktion verwenden wir die [CONNECT Community](https://community.cogneon.de/) und einen [Discord Chat Server](https://discord.gg/gY6YvZyc3A).
+- <img title="" src="https://github.com/cogneon/lernos-core/raw/master/images/lernOS%20Logo/lernOS-logo-400px.png" alt=""><br/>**lernOS** ist ein Methode für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS kann von **Einzelpersonen**, **Teams** und **Organisationen** verwendet werden. Für Austausch und Interaktion verwenden wir die [CONNECT Community](https://community.cogneon.de/) und einen [Discord Chat Server](https://discord.gg/gY6YvZyc3A).
+- <iframe width="400" height="255" src="https://www.youtube-nocookie.com/embed/JoTjZOK8L2g?si=cFXyjwTzzG9oBuqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="300" height="169" src="https://www.youtube.com/embed/JoTjZOK8L2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## lernOS Leitfäden
 Die lernOS Leitfäden enthalten Lernpfade, um Lebenslangens Lernen und eine Lernende Organisation zu kultivieren (lernOS Core Leitfäden) oder um sich Wissen und Fähigkeiten zum Umgang mit Lernen und Wissen anzueignen (lernOS Toolbox Leitfäden). Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur Verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
 
-??? info "Schnellzugriff lernOS Leitfäden"
+??? warning "Schnellzugriff lernOS Leitfäden"
     1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/)
     1. [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/)
     1. [lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/)
