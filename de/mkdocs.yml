@@ -5,7 +5,9 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Leitfäden: 1-guides.md
+    - Leitfäden:
+      - Überblick: 1-guides.md
+      - Künstliche Intelligenz: guides/ai.md
     - Lernen in Gruppen: 2-learning-circle.md
     - Publikationen: 4-publications.md
     - Blog:
