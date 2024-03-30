@@ -8,6 +8,8 @@ Der [**lernOS KI Leitfaden**](https://ai.lernos.org/de/) führt Menschen **ohne 
 
 ![](../images/lernos-ai-lernpfad-gif.gif)
 
+[lernOS KI Leitfaden](https://ai.lernos.org/de/){ .md-button .md-button--primary }
+
 # Zielgruppe
 Der lernOS KI Leitfadens richtet sich an die **Menschen**, die **"vor der Mattscheibe"** sitzen, **nicht an KI-Entwickler:innen**. Anwender:innen sollen aber Hintergründe Generativer KI verstehen. Der Lernpfad kann **alleine**, **im Lerntandem** oder im **Learning Circle** durchlaufen werden. **Pro Kata** sind ca. **1-2 Stunden** Zeit notwendig.
 
