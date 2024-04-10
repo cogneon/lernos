@@ -5,6 +5,7 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
+    - Über lernOS: 0-about.md
     - Leitfäden:
       - Überblick: 1-guides.md
       - Künstliche Intelligenz: guides/ai.md

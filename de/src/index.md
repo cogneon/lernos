@@ -8,6 +8,7 @@ hide:
   }
 </style>
 
+
 # Willkommen bei lernOS
 
 <div class="grid cards" markdown>
@@ -16,6 +17,7 @@ hide:
 - <iframe width="400" height="255" src="https://www.youtube-nocookie.com/embed/JoTjZOK8L2g?si=cFXyjwTzzG9oBuqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
+
 
 ## lernOS Leitfäden
 Die lernOS Leitfäden enthalten Lernpfade, um Lebenslangens Lernen und eine Lernende Organisation zu kultivieren (lernOS Core Leitfäden) oder um sich Wissen und Fähigkeiten zum Umgang mit Lernen und Wissen anzueignen (lernOS Toolbox Leitfäden). Die Inhalte von lernOS stehen unter der **Lizenz** [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) kostenfrei zur Verfügung und können bearbeitet sowie im Internet und Intranet geteilt werden.
@@ -35,25 +37,12 @@ Die lernOS Leitfäden enthalten Lernpfade, um Lebenslangens Lernen und eine Lern
     1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
     1. [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)
 
+
 ## lernOS News
 Neuigkeiten zu lernOS verteilen wir im monatlichen Community Call (Infos über [diese Meetup-Gruppe](https://www.meetup.com/cogneon/)), den [lernOS Blog](https://lernos.org/de/blog/) (RSS-Feed), die [LinkedIn Seite](https://www.linkedin.com/showcase/28494203/admin/feed/posts/) und im Fediverse unter [@lernos@colearn.social](https://colearn.social/@lernos). Für Audio-Fans gibt es den [lernOS on Air Podcast](https://podcasts.cogneon.io/@loa) (auch als Audio on Demand [auf Spotify](https://open.spotify.com/show/4K9CueTvOFcrAQGIyKtwRp)).
 
 <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="800" height="600" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fcolearn.social%2Fusers%2Flernos&theme=light&size=80&header=false&replies=false&boosts=false"></iframe>
 
-## WHY - Warum braucht es lernOS?
-**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)). Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
-
-## WHAT - Was ist lernOS?
-Das Wort **lernOS** stammt aus dem Esperanto und ist dort die Zukunftsform von Lernen: **ich/wir werden/n lernen**. Die Grundidee von lernOS ist es also, Einzelpersonen, Teams und Organisationen moderne Methoden des Lernens und Arbeitens beizubringen. Dafür stellt lernOS Leitfäden und Lernpfade bereit, mit denen eine moderne Haltung (**Mindset**), die richtigen Fähigkeiten (**Skillset**) und zeitgemäße Werkzeuge (**Toolset**) erlernt werden können.
-
-## HOW - Wie kann ich anfangen?
-Viele Wege führen zu lernOS. Ein Vorschlag:
-
-1. Wähle einen der [lernOS Leitfäden](./guides). Einsteiger_innen empfehlen wir einen der drei Lernpfade im [lernOS für Dich Leitfaden](https://cogneon.github.io/lernos-for-you/de/) zu **Produktivität & Stressfreiheit**, **Zielorientierung & Fokussierung** oder **Offenheit & Vernetzung** (s.a. [Überblick](https://cogneon.github.io/lernos-for-you/de/2-0-Lernpfade/)).
-1. Wähle einen **Zeitraum**, in dem du den Lernpfad des Leitfadens durchlaufen möchtest.
-1. Entscheide dich, ob Du **alleine**, als **Lerntandem** oder im **Circle** mit 4-5 Personen lernen möchtest. Zum Start empfehlen wir dir das Lernen im Circle.
-1. Verwende dein **persönliches Netzwerk**, **soziale Medien** oder den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende zu finden.
-1. **Stop talking, start doing! :-)**
 
 ## Die Lizenz von lernOS
 
@@ -62,3 +51,6 @@ lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
 
 ![](images/cc-by.png)
+
+
+# lernOS  Supporter
