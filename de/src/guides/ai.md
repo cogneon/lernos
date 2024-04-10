@@ -41,6 +41,7 @@ Der lernOS KI Leitfadens richtet sich an die **Menschen**, die **"vor der Mattsc
 1. [Moritz Meissner](https://www.linkedin.com/in/moritz-meissner/)
 1. [Oliver Ewinger](https://www.linkedin.com/in/oliver-ewinger/)
 1. [Oliver Pincus](https://www.linkedin.com/in/oliverpincus/)
+1. [Ruben Weiser](https://www.linkedin.com/in/dr-ruben-weiser-b109411ab/)
 1. [Simon Dückert](https://www.linkedin.com/in/simondueckert/) (Maintainer)
 1. [Simon Roderus](https://www.linkedin.com/in/simon-roderus/)
 1. [Stefan Strobel](https://www.linkedin.com/in/stefan-strobel-haiilo/)
