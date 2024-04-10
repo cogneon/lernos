@@ -10,24 +10,29 @@ Der [**lernOS KI Leitfaden**](https://ai.lernos.org/de/) führt Menschen **ohne 
 
 [lernOS KI Leitfaden](https://ai.lernos.org/de/){ .md-button .md-button--primary }
 
-# Zielgruppe
+
+## Zielgruppe
 Der lernOS KI Leitfadens richtet sich an die **Menschen**, die **"vor der Mattscheibe"** sitzen, **nicht an KI-Entwickler:innen**. Anwender:innen sollen aber Hintergründe Generativer KI verstehen. Der Lernpfad kann **alleine**, **im Lerntandem** oder im **Learning Circle** durchlaufen werden. **Pro Kata** sind ca. **1-2 Stunden** Zeit notwendig.
 
-# Inhalt
+
+## Inhalt
 - Generative KI, Maschinelles Lernen und künstliche, neuronale Netze
 - Typische Anwendungsfelder Generativer KI
 - KI-Modelle, -Tools und -Dienste
 - Promting, Promt Engineering
 - Generative KI und deren gesellschaftlichen Auswirkungen
 
-# Links
+
+## Links
 - Webversion [lernOS KI Leitfaden](https://ai.lernos.org/de/) (weitere Version wie PDF sind dort in der Navigation unter *Download* verlinkt)
 - Kategorie [lernOS Künstliche Intelligenz auf CONNECT](https://community.cogneon.de/c/lernos/lernos-kuenstliche-intelligenz/76) für Fragen, Diskussion und Erfahrungsaustausch
 
-# Testimonials
+
+## Testimonials
 >   "Hier könnte Dein Zitat stehen" (und hier Dein Name) 😉
 
-# Aktuelles Leitfaden-Team (alphabetisch)
+
+## Aktuelles Leitfaden-Team (alphabetisch)
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
 1. [Doris Schuppe](https://www.linkedin.com/in/doschu/)
 1. [Ellen Braun](https://www.linkedin.com/in/ellen-braun-work-and-feelgood/)
