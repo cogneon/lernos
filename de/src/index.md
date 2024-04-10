@@ -48,9 +48,30 @@ Neuigkeiten zu lernOS verteilen wir im monatlichen Community Call (Infos über [
 
 lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) verfügbar ([Erklärvideo zur Lizenz](https://www.youtube.com/watch?v=qDnXgMEH1vU)). Gemäß der [Open Definition](https://opendefinition.org/od/2.1/de/) kannst du die Inhalte frei zugreifen, verändern und teilen.
 
-![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
+<center>
+<a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png" /></a>
 
-![](images/cc-by.png)
+<a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank"><img src="images/cc-by.png" /></a>
+</center>
 
+## lernOS  Supporter
+lernOS Supporter sind Organisationen, die lernOS einsetzen und fördern. Jede Supporter-Organisation erhält einen Sitz im lernOS Beirat.
 
-# lernOS  Supporter
+<center>
+<p>&nbsp;</p>
+<a href="https://www.bayernwerk.de/" target="_blank"><img src="images/logo-bayernwerk.png" /></a>
+<p>&nbsp;</p>
+<a href="https://www.datev.de/" target="_blank"><img src="images/logo-datev.png" /></a>
+<p>&nbsp;</p>
+<a href="https://www.telekom.de/" target="_blank"><img src="images/logo-deutsche-telekom.png" /></a>
+<p>&nbsp;</p>
+<a href="https://www.ipi-gmbh.com/" target="_blank"><img src="images/logo-ipi.png" /></a>
+<p>&nbsp;</p>
+<a href="https://www.lv1871.de/" target="_blank"><img src="images/logo-lv1871.png" /></a>
+<p>&nbsp;</p>
+<a href="https://www.sap.com/" target="_blank"><img src="images/logo-sap.png" /></a>
+<p>&nbsp;</p>
+<a href="https://www.siemens-healthineers.com/" target="_blank"><img src="images/logo-siemens-healthineers.png" /></a>
+<p>&nbsp;</p>
+<a href="https://www.vitesco-technologies.com/" target="_blank"><img src="images/logo-vitesco.png" /></a>
+</center>

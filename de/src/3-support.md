@@ -9,6 +9,7 @@ Es gibt verschiedene Möglichkeiten, **das Projekt lernOS zu unterstützen**: Du
 
 ![Zwei Personen an einem Baum, der wächst](./images/undraw_Waiting__for_you_ldha.png)
 
+
 ## lernOS verwenden
 Zum Einstieg in lernOS ist es wichtig, eigene Erfahrungen mit der Methode zu sammeln:
 
@@ -17,6 +18,7 @@ Zum Einstieg in lernOS ist es wichtig, eigene Erfahrungen mit der Methode zu sam
 1. Entscheide dich, ob die alleine, im Lerntandem oder in einer Lerngruppe (auch Circle genannt) mit meist 4-5 Personen lernen möchtest.
 1. Verwende dein persönliches Netzwerk, soziale Medien oder den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende zu finden.
 1. Stop talking, start doing! :-)
+
 
 ## lernOS Supporter werden
 
