@@ -2,152 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://lernos.org/de/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lernos.org/de/0-about/</loc>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/1-guides/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/2-learning-circle/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/3-support/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/4-publications/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/5-faq/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/lernos-for-organizations/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/lernos-for-you/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/lernos-glossary/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/2024/03/09/clc24-session-lernos---state-of-the-union/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/2023/11/24/hallo-lernos-welt/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/2024/03/03/lernos-ki-mooc-vom-65---21062024/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/2023/11/25/konstituierung-eines-lernos-kernteams/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/2024/01/19/lightning-talk-zur-lernos-produktionskette-auf-dem-37c3/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/guides/ai/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/archive/2024/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/archive/2023/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/lernos/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/clc24/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/hamburg/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/lernos-ai/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/mooc/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/genai/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/kimooc24/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/produktionskette/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/github/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/37c3/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/kernteam/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/website/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
