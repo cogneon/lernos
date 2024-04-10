@@ -44,6 +44,7 @@ Neuigkeiten zu lernOS verteilen wir im monatlichen Community Call (Infos über [
 <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="800" height="600" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fcolearn.social%2Fusers%2Flernos&theme=light&size=80&header=false&replies=false&boosts=false"></iframe>
 
 
+
 ## Die Lizenz von lernOS
 
 lernOS ist als [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) verfügbar ([Erklärvideo zur Lizenz](https://www.youtube.com/watch?v=qDnXgMEH1vU)). Gemäß der [Open Definition](https://opendefinition.org/od/2.1/de/) kannst du die Inhalte frei zugreifen, verändern und teilen.
