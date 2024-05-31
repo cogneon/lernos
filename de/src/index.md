@@ -30,12 +30,16 @@ Die lernOS Leitfäden enthalten Lernpfade, um Lebenslangens Lernen und eine Lern
     1. [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/)
     1. [lernOS Content Curation](https://cogneon.github.io/lernos-content-curation/de/)
     1. [lernOS Digitale Zusammenarbeit](https://cogneon.github.io/lernos-digitale-zusammenarbeit/de/)
+    1. [lernOS Digitales Ökosystem](https://cogneon.github.io/lernos-digitales-oekosystem/de/)
     1. [lernOS Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/)
     1. [lernOS ePortfolio](https://cogneon.github.io/lernos-eportfolio/de/)
     1. [lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/)
+    1. [lernOS Künstliche Intelligenz](https://ai.lernos.org)
     1. [lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/)
+    1. [lernOS Problem Solving](https://cogneon.github.io/lernos-problem-solving/de/)
     1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
     1. [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)
+    1. [lernOS Zettelkasten](https://cogneon.github.io/lernos-zettelkasten/de/)
 
 
 ## lernOS News
