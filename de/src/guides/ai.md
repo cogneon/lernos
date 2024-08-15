@@ -1,9 +1,5 @@
 # lernOS KI Leitfaden
 
-!!! Hinweis
-
-    Der lernOS KI Leitfaden wird vom **6.5. - 21.6.** im [lernOS KI MOOC](https://loscon.lernos.org/de/kimooc24/) getestet. Die Erfahrungen tragen wir am **2./3. Juli 2024** in der [lernOS Convention](https://loscon.lernos.org/de/) zusammen.
-    
 Der [**lernOS KI Leitfaden**](https://ai.lernos.org/de/) führt Menschen **ohne KI-Vorbildung** an das Thema [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) und insbesondere die [Generative KI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) heran. Sie können mit dem Lernpfad eine **informierte Entscheidung** treffen, ob und wie sie betroffen sind und welchen **Nutzen** sie durch Generative KI haben könnten. Der Leitfaden kann mit **KI-Tools innerhalb und außerhalb von Organisationen** verwendet werden (im Internet z.B. ChatGPT, im Intranet z.B. Microsoft Copilot).
 
 ![](../images/lernos-ai-lernpfad-gif.gif)

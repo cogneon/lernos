@@ -47,6 +47,10 @@ extra:
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
     giscus: true
+    alternate:
+      - name: English
+        link: https://lernos.org/en
+        lang: en
     generator: false
 
 copyright: cogneon.de/impressum
