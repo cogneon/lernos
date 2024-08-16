@@ -56,6 +56,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://lernos.org/de/blog/2024/08/16/die-lernos-website-jetzt-auch-auf-englisch/</loc>
+         <lastmod>2024-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://lernos.org/de/blog/2024/03/09/clc24-session-lernos---state-of-the-union/</loc>
          <lastmod>2024-08-16</lastmod>
          <changefreq>daily</changefreq>
@@ -116,6 +121,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://lernos.org/de/blog/category/website/</loc>
+         <lastmod>2024-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lernos.org/de/blog/category/i18n/</loc>
+         <lastmod>2024-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://lernos.org/de/blog/category/clc24/</loc>
          <lastmod>2024-08-16</lastmod>
          <changefreq>daily</changefreq>
@@ -162,11 +177,6 @@
     </url>
     <url>
          <loc>https://lernos.org/de/blog/category/kernteam/</loc>
-         <lastmod>2024-08-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lernos.org/de/blog/category/website/</loc>
          <lastmod>2024-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
