@@ -9,6 +9,9 @@ nav:
     - Leitfäden:
       - Überblick: 1-guides.md
       - Künstliche Intelligenz: guides/ai.md
+      - Probleme strukturiert lösen: guides/problem-solving.md
+      - Sketchnoting: guides/sketchnoting.md
+      - Zettelkasten: guides/zettelkasten.md
     - Lernen in Gruppen: 2-learning-circle.md
     - Publikationen: 4-publications.md
     - Blog:
