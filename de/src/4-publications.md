@@ -12,6 +12,10 @@ Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehör
 
 ![Personen vor einer Webseite](./images/undraw_Blogging_re_kl0d.png)
 
+## 2024
+* Vortrag [Zurück in die Zukunft der Arbeit](https://www.youtube.com/watch?v=gixIEuf64sg) ([Folien](https://simondueckert.github.io/presentations/rasc24/)) von Simon Dückert auf dem Radikal Arbeiten Sommercamp (auch [als Podcast](https://podcasts.cogneon.io/@kclo/episodes/zuruck-in-die-zukunft-der-arbeit-mit-simon-duckert) verfügbar)
+* Buch [Learning Circles: Die Kraft der Learning Circles: Umsetzung, Wirkung und Einsatzmöglichkeiten](https://amzn.to/3AtsZqS) mit mehreren Kapiteln zu lernOS (Herausgeber: Nele Graf und Ursula Liebhart)
+
 ## 2023
 * [Lightning Talk zur lernOS Produktionskette](/blog/2024/01/19/lightning-talk-zur-lernos-produktionskette-auf-dem-37c3/) auf dem 37. Chaos Communication Congress
 * Podcast [KCLO108 x Freakshow @ EnBW – Ein Rückblick auf die lernOS Convention 2023](https://cogneon.de/podcast/2023/07/31/kclo108-x-freakshow-enbw-ein-rueckblick-auf-die-lernos-convention-2023/) (öffentliche Version des EnBW-internen Podcasts)
