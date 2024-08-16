@@ -11,8 +11,7 @@ nav:
       - Artificial Intelligence: guides/ai.md
     - Learning in Circles: 2-learning-circle.md
     - Publications: 4-publications.md
-    - Blog:
-      - blog/index.md
+    - Blog: 6-blog.md
     - FAQ: 5-faq.md
     - Links:
       - lernOS Presentation: https://lernos.org/de-slides
@@ -64,12 +63,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - blog
-  - rss:
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
-      length: 1000

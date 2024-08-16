@@ -11,35 +11,17 @@ hide:
 
 # Welcome to lernOS
 
-<div class="grid cards" markdown>
+<img title="" src="https://github.com/cogneon/lernos-core/raw/master/images/lernOS%20Logo/lernOS-logo-400px.png" alt="">
 
-- <img title="" src="https://github.com/cogneon/lernos-core/raw/master/images/lernOS%20Logo/lernOS-logo-400px.png" alt=""><br/>**lernOS** is a method for [lifelong learning](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS can be used by **individuals**, **teams** and **organisations**. For exchange and interaction we use the [CONNECT Community](https://community.cogneon.de/) and a [Discord Chat Server](https://discord.gg/gY6YvZyc3A).
-- <iframe width="400" height="255" src="https://www.youtube-nocookie.com/embed/JoTjZOK8L2g?si=cFXyjwTzzG9oBuqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**lernOS** is a method for [lifelong learning](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). lernOS can be used by **individuals**, **teams** and **organisations**. For exchange and interaction we use the [CONNECT Community](https://community.cogneon.de/) and a [Discord Chat Server](https://discord.gg/gY6YvZyc3A).
 
-</div>
+<iframe width="400" height="255" src="https://www.youtube-nocookie.com/embed/JoTjZOK8L2g?si=cFXyjwTzzG9oBuqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## lernOS Guidelines
-The lernOS guides contain learning paths to cultivate lifelong learning and a learning organisation (lernOS Core guides) or to acquire knowledge and skills for dealing with learning and knowledge (lernOS Toolbox guides). The contents of lernOS are available free of charge under the **Licence** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) and can be edited and shared on the internet and intranet.
+The [lernOS guides](1-guides.md) contain learning paths to cultivate lifelong learning and a learning organisation (lernOS Core guides) or to acquire knowledge and skills for dealing with learning and knowledge (lernOS Toolbox guides). The contents of lernOS are available free of charge under the **Licence** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) and can be edited and shared on the internet and intranet.
 
-??? warning "Quick Access lernOS Guidelines"
-    1. [lernOS für Dich](https://cogneon.github.io/lernos-for-you/de/)
-    1. [lernOS für Organisationen](https://cogneon.github.io/lernos-for-organizations/de/)
-    1. [lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/)
-    1. [lernOS BarCamp](https://cogneon.github.io/lernos-barcamp/de/)
-    1. [lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/)
-    1. [lernOS Content Curation](https://cogneon.github.io/lernos-content-curation/de/)
-    1. [lernOS Digitale Zusammenarbeit](https://cogneon.github.io/lernos-digitale-zusammenarbeit/de/)
-    1. [lernOS Digitales Ökosystem](https://cogneon.github.io/lernos-digitales-oekosystem/de/)
-    1. [lernOS Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/)
-    1. [lernOS ePortfolio](https://cogneon.github.io/lernos-eportfolio/de/)
-    1. [lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/)
-    1. [lernOS Künstliche Intelligenz](https://ai.lernos.org)
-    1. [lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/)
-    1. [lernOS Problem Solving](https://cogneon.github.io/lernos-problem-solving/de/)
-    1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
-    1. [lernOS Sketchnoting](https://cogneon.github.io/lernos-sketchnoting/de/)
-    1. [lernOS Zettelkasten](https://cogneon.github.io/lernos-zettelkasten/de/)
+[lernOS Guides](1-guides.md){ .md-button .md-button--primary }
 
 
 ## lernOS News
