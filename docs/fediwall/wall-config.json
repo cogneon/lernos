@@ -1,0 +1,26 @@
+{
+    "servers": ["colearn.social"],
+    "tags": ["lernos", "loscon25"],
+    "accounts": [@lernos@colearn.social],
+
+    "loadPublic": false,
+    "loadFederated": false,
+    "loadTrends": false,
+
+    "languages": [],
+    "badWords": [],
+    "hideSensitive": true,
+    "hideBots": true,
+    "hideReplies": true,
+    "hideBoosts": false,
+
+    "limit": 20,
+    "interval": 10,
+
+    "title": "lernOS Fediwall",
+    "theme": "auto",
+    "showInfobar": true,
+    "showText": true,
+    "showMedia": true,
+    "playVideos": true
+}
