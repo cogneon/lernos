@@ -1,6 +1,6 @@
 {
     "servers": ["colearn.social"],
-    "tags": ["#loscon25"],
+    "tags": ["#loscon25", "#lernos"],
     "accounts": [],
 
     "loadPublic": false,
@@ -11,13 +11,13 @@
     "badWords": [],
     "hideSensitive": true,
     "hideBots": true,
-    "hideReplies": true,
+    "hideReplies": false,
     "hideBoosts": false,
 
     "limit": 20,
     "interval": 10,
 
-    "title": "Fediwall",
+    "title": "loscon25 Fediwall",
     "theme": "auto",
     "showInfobar": true,
     "showText": true,
