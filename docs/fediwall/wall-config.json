@@ -1,7 +1,7 @@
 {
     "servers": ["colearn.social"],
-    "tags": ["lernos", "loscon25"],
-    "accounts": [@lernos@colearn.social],
+    "tags": ["#loscon25"],
+    "accounts": [],
 
     "loadPublic": false,
     "loadFederated": false,
@@ -17,7 +17,7 @@
     "limit": 20,
     "interval": 10,
 
-    "title": "lernOS Fediwall",
+    "title": "Fediwall",
     "theme": "auto",
     "showInfobar": true,
     "showText": true,
