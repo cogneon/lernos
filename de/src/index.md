@@ -41,29 +41,39 @@ Von der Schule, der Ausbildung, der Hochschule und der Weiterbildung in Organisa
 
 ## Schnellzugriff lernOS Leitfäden
 
-Die [lernOS Leitfäden](1-guides.md) stellen **Lernpfade** bereit, die euch beim selbstorganisierten Lernen alleine oder in Gruppen unterstützen. Die Lernpfade sind in der Regel so ausgelegt, dass sie **innerhalb eines Quartals** (12 Wochen) mit **ca. 2 Stunden Zeitaufwand pro Woche** gemeistert werden können. Die Leitfäden bestehen immer aus einem **Grundlagen-Kapitel** und einem oder mehreren **Lernpfaden** mit den **Übungen** (bei lernOS [Katas](https://de.wikipedia.org/wiki/Kata_(Programmierung)) genannt) für die einzelnen Wochen:
+Die [lernOS Leitfäden](1-guides.md) stellen **Lernpfade** bereit, die euch beim selbstorganisierten Lernen alleine oder in Gruppen unterstützen. Die Lernpfade sind in der Regel so ausgelegt, dass sie **innerhalb eines Quartals** (12 Wochen) mit **ca. 2 Stunden Zeitaufwand pro Woche** gemeistert werden können. Die Leitfäden bestehen immer aus einem **Grundlagen-Kapitel** und einem oder mehreren **Lernpfaden** mit den **Übungen** (bei lernOS [Katas](https://de.wikipedia.org/wiki/Kata_(Programmierung)) genannt) für die einzelnen Wochen.
+
+Für **Einsteiger:innen** empfiehlt sich der **lernOS für Dich Leitfaden**, um eine der **drei Methoden** [Getting Things Done](https://de.wikipedia.org/wiki/Getting_Things_Done) (Lernpfad Produktivität und Stressfreiheit), [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) (Lernpfad Zielorientierung & Fokussierung) oder [Working Out Loud](https://de.wikipedia.org/wiki/Working_out_loud) (Lernpfad Offenheit & Vernetzung) zu erlernen:
 
 [lernOS für Dich](https://4you.lernos.org){ .md-button .md-button--primary }
 
-[lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/){ .md-button }
-[lernOS Barcamp](https://cogneon.github.io/lernos-achtsamkeit/de/){ .md-button }
-[lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/){ .md-button }
+[Lernpfad Produktivität und Stressfreiheit (GTD)](https://4you.lernos.org/de/2-1-0-Lernpfad-PS/){ .md-button }
 
-[lernOS Content Curation](https://cogneon.github.io/lernos-content-curation/de/){ .md-button }
-[lernOS Digitale Zusammenarbeit](https://cogneon.github.io/lernos-digitale-zusammenarbeit/de/){ .md-button }
-[lernOS Digitales Ökosystem](https://cogneon.github.io/lernos-digitales-oekosystem/de/){ .md-button }
+[Lernpfad Objectives & Key Results (OKR)](https://4you.lernos.org/de/2-2-0-Lernpfad-ZF/){ .md-button }
 
-[lernOS Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/){ .md-button }
-[lernOS ePortfolio](https://cogneon.github.io/lernos-diversity/de/){ .md-button }
-[lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/){ .md-button }
+[Lernpfad Working Out Loud (WOL)](https://4you.lernos.org/de/2-3-0-Lernpfad-OV/){ .md-button }
 
-[lernOS Künstliche Intelligenz](https://cogneon.github.io/lernos-expert-debriefing/de/){ .md-button }
-[lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/){ .md-button }
-[lernOS Problemlösen](https://cogneon.github.io/lernos-podcasting/de/){ .md-button }
+**Weitere Methoden** könnt ihr mit den **Leitfäden** aus der **lernOS Toolbox** erlernen:
 
-[lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/){ .md-button }
-[lernOS Sketchnoting](https://cogneon.github.io/lernos-prozessmodellierung/de/){ .md-button }
-[lernOS Zettelkasten](https://cogneon.github.io/lernos-zettelkasten/de/){ .md-button }
+[lernOS Achtsamkeit](https://cogneon.github.io/lernos-achtsamkeit/de/){ .md-button .md-button--primary }
+[lernOS Barcamp](https://cogneon.github.io/lernos-achtsamkeit/de/){ .md-button .md-button--primary }
+[lernOS Community Management](https://cogneon.github.io/lernos-cmgmt/de/){ .md-button .md-button--primary }
+
+[lernOS Content Curation](https://cogneon.github.io/lernos-content-curation/de/){ .md-button .md-button--primary }
+[lernOS Digitale Zusammenarbeit](https://cogneon.github.io/lernos-digitale-zusammenarbeit/de/){ .md-button .md-button--primary }
+[lernOS Digitales Ökosystem](https://cogneon.github.io/lernos-digitales-oekosystem/de/){ .md-button .md-button--primary }
+
+[lernOS Diversity & Inclusion](https://cogneon.github.io/lernos-diversity/de/){ .md-button .md-button--primary }
+[lernOS ePortfolio](https://cogneon.github.io/lernos-eportfolio/de/){ .md-button .md-button--primary }
+[lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/){ .md-button .md-button--primary }
+
+[lernOS Künstliche Intelligenz](https://ai.lernos.org/){ .md-button .md-button--primary }
+[lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/){ .md-button .md-button--primary }
+[lernOS Problemlösen](https://cogneon.github.io/lernos-podcasting/de/){ .md-button .md-button--primary }
+
+[lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/){ .md-button .md-button--primary }
+[lernOS Sketchnoting](https://cogneon.github.io/lernos-prozessmodellierung/de/){ .md-button .md-button--primary }
+[lernOS Zettelkasten](https://cogneon.github.io/lernos-zettelkasten/de/){ .md-button .md-button--primary }
 
 **Hinweis:** Die Inhalte aller Leitfäden stehen **kostenfrei** unter [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) zur Verfügung, sie können (und sollen) im **Internet und Intranet** gerne **geteilt und bearbeitet** werden.
 
