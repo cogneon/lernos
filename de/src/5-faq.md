@@ -20,7 +20,7 @@ Auf dieser Seite sammeln wir die **Antworten zu oft gestellten Fragen**. Ist Dei
 
 **Ich möchte in lernOS einsteigen, weiß aber noch nicht genau wie. Welche Tipps gibt es?**
 
-Eine gute Anlaufstelle ist die [Community CONNECT](https://community.cogneon.de) mit über 1.600 Mitgliedern und dem monatlichen Community Call. Um die Termine mitzubekommen, kannst Du Dich einfach in unserer [Gruppe auf Meetup](https://www.meetup.com/lernos-connect/) anmelden. Außerdem kannst in den sozialen Medien wie z.B. Twitter oder LinkedIn herumfragen (Hashtag: #lernos). Wenn Du ein Lerntandem oder eine Lerngruppe starten möchtest, empfehlen wir Dir den [Peerfinder](https://web.peerfinder.app/).
+Eine gute Anlaufstelle ist die [Community CONNECT](https://community.cogneon.de) mit weit über 1.000 Mitgliedern und dem monatlichen Community Call. Um die Termine mitzubekommen, kannst Du Dich einfach in unserer [Gruppe auf Meetup](https://www.meetup.com/lernos-connect/) anmelden. Außerdem kannst in den sozialen Medien wie z.B. Twitter oder LinkedIn herumfragen (Hashtag: #lernos). Wenn Du ein Lerntandem oder eine Lerngruppe starten möchtest, empfehlen wir Dir den [Peerfinder](https://web.peerfinder.app/).
 
 **Wo finde ich die PDF-, Word- und E-Book-Dateien zu den Leitfäden?**
 
