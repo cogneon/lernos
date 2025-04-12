@@ -15,9 +15,9 @@ hide:
 
 **Zusammen lernt man weniger allein!** [Peer Learning](https://en.wikipedia.org/wiki/Peer_learning) unterstützt Menschen dabei, gemeinsam lebenslang zu lernen. Häufig verwendete Formate sind [Barcamps](https://de.wikipedia.org/wiki/Barcamp), [Stammtische & Meetups](https://en.wikipedia.org/wiki/Meeting), [Hackathons](https://de.wikipedia.org/wiki/Hackathon), [Communities of Practice](https://de.wikipedia.org/wiki/Community_of_Practice) (CoPs), [Massive Open Online Courses](https://de.wikipedia.org/wiki/Massive_Open_Online_Course) (MOOCs), [Mastermind Gruppen](https://en.wikipedia.org/wiki/Mastermind_group) und [Learning Circles](https://en.wikipedia.org/wiki/Learning_circle). Das Projekt **lernOS** stellt [offen](https://opendefinition.org/od/2.0/de/) verfügbare Lernpfade und Leitfäden zur Verfügung, um Einzelpersonen und Lerngruppen beim [selbstgesteuerten Lernen](https://de.wikipedia.org/wiki/Selbstgesteuertes_Lernen) zu unterstützen.
 
-[lernOS Community](https://community.cogneon.de/categories){ .md-button .md-button--primary }
-[lernOS @ Linkedin](https://www.linkedin.com/showcase/lern-os){ .md-button }
-[lernOS @ Mastodon](https://colearn.social/@lernos){ .md-button }
+[:fontawesome-solid-comments: lernOS Community](https://community.cogneon.de/categories){ .md-button .md-button--primary }
+[:material-linkedin: lernOS @ Linkedin](https://www.linkedin.com/showcase/lern-os){ .md-button .md-button--primary }
+[:simple-mastodon: lernOS @ Mastodon](https://colearn.social/@lernos){ .md-button .md-button--primary }
 
 <img src="./images/lernos_in_a_nutshell.png" />
 
@@ -86,9 +86,9 @@ Es gibt mehrere **Kanäle**, um über lernOS **auf dem Laufenden** zu bleiben. F
 
 :material-linkedin: [Linkedin-Seite](https://www.linkedin.com/showcase/lern-os) mit [lernOS Events](https://www.linkedin.com/showcase/lern-os/events/) und [lernOS Newsletter](https://www.linkedin.com/newsletters/lernos-news-7305595387040456705/) (Hashtag: [#lernos](https://www.linkedin.com/search/results/all/?keywords=%2523lernos)).
 
-:simple-meetup: [Meetup-Gruppe der Cogneon Akademie](https://www.meetup.com/cogneon/), in der auch lernOS Termine angekündigt werden.
+:simple-mastodon: Kanal [@lernos](https://colearn.social/@lernos) auf colearn.social ([Mastodon](https://de.wikipedia.org/wiki/Mastodon_(Soziales_Netzwerk))), auf dem wir die gleichen Neuigkeiten veröffentlichen, wie auf Linkedin (Hashtag: [#lernos](https://colearn.social/tags/lernos)).
 
-:simple-mastodon: Kanal [@lernos](https://colearn.social/@lernos) auf colearn.social ([Mastodon](https://de.wikipedia.org/wiki/Mastodon_(Soziales_Netzwerk))), auf dem wir die gleichen Neuigkeiten veröffentlichen, wie auf Linkedin.
+:simple-meetup: [Meetup-Gruppe der Cogneon Akademie](https://www.meetup.com/cogneon/), in der auch lernOS Termine angekündigt werden.
 
 :fontawesome-solid-microphone-lines: [lernOS on Air Podcast](https://podcasts.cogneon.io/@loa) mit Neuigkeiten und Geschichten aus der Welt der lernOS Community ([RSS-Feed](https://podcasts.cogneon.io/@loa/feed.xml), [Spotify](https://open.spotify.com/show/4K9CueTvOFcrAQGIyKtwRp)).
 
