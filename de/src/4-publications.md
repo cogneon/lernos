@@ -12,6 +12,9 @@ Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehör
 
 ![Personen vor einer Webseite](./images/undraw_Blogging_re_kl0d.png)
 
+## 2025
+* Buch [Die Kraft der Learning Circles: Umsetzung, Wirkung und Einsatzmöglichkeiten](https://www.vahlen.de/graf-liebhart-kraft-learning-circles/product/36921860), herausgegeben von nele Graf und Ursula Liebhart mit vielen Fallbeisspielen zu lernOS.
+
 ## 2024
 * Vortrag [Zurück in die Zukunft der Arbeit](https://www.youtube.com/watch?v=gixIEuf64sg) ([Folien](https://simondueckert.github.io/presentations/rasc24/)) von Simon Dückert auf dem Radikal Arbeiten Sommercamp (auch [als Podcast](https://podcasts.cogneon.io/@kclo/episodes/zuruck-in-die-zukunft-der-arbeit-mit-simon-duckert) verfügbar)
 * Buch [Learning Circles: Die Kraft der Learning Circles: Umsetzung, Wirkung und Einsatzmöglichkeiten](https://amzn.to/3AtsZqS) mit mehreren Kapiteln zu lernOS (Herausgeber: Nele Graf und Ursula Liebhart)

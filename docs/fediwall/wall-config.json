@@ -1,0 +1,26 @@
+{
+    "servers": ["colearn.social"],
+    "tags": ["#loscon25", "#lernos"],
+    "accounts": [],
+
+    "loadPublic": false,
+    "loadFederated": false,
+    "loadTrends": false,
+
+    "languages": [],
+    "badWords": [],
+    "hideSensitive": true,
+    "hideBots": true,
+    "hideReplies": false,
+    "hideBoosts": false,
+
+    "limit": 20,
+    "interval": 10,
+
+    "title": "loscon25 Fediwall",
+    "theme": "auto",
+    "showInfobar": true,
+    "showText": true,
+    "showMedia": true,
+    "playVideos": true
+}
