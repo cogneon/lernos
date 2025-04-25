@@ -38,7 +38,7 @@ Die **lernOS Toolbox** stellt Leitfäden zum Erlernen bewährter Methoden, Tools
 ## Leitfäden im Entstehen
 Einige Leitfäden sind gerade im Entstehen (0.x Version) und noch nicht getestet (s.a. [lernOS Leitfaden Status](https://community.cogneon.de/t/lernos-leitfaden-status/3908)):
 
-1. lernOS Change Management
+1. [lernOS Change Management](https://cogneon.github.io/lernos-change-management/de/)
 1. [lernOS Leadership](https://cogneon.github.io/lernos-leadership/de/)
 
 ## Einen eigenen Leitfaden erstellen
