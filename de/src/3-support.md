@@ -7,7 +7,7 @@
 # lernOS unterstützen
 Es gibt verschiedene Möglichkeiten, **das Projekt lernOS zu unterstützen**: Du kannst lernOS einfach verwenden, es bekannt machen, eigene Inhalte erstellen oder sogar mit Deiner Organisation lernOS Supporter werden.
 
-![Zwei Personen an einem Baum, der wächst](./images/undraw_Waiting__for_you_ldha.png)
+<img src="../images/undraw_Waiting__for_you_ldha.png" width="50%" />
 
 
 ## lernOS verwenden
@@ -22,15 +22,60 @@ Zum Einstieg in lernOS ist es wichtig, eigene Erfahrungen mit der Methode zu sam
 
 ## lernOS Supporter werden
 
-Unternehmen, Organisationen, und Institutionen können lernOS unterstützen, indem sie lernOS Supporter werden. Für einen Betrag von € 1.000,-/Jahr (zzgl. MwSt.) werden die Supporter hier genannt, erhalten 3 Tickets für die jährliche lernOS Convention und können eine Person in den lernOS Beirat entsenden. Aktuelle lernOS Supporter sind:
+lernOS Supporter sind **Organisationen, Unternehmen und Institutionen**, die lernOS **verwenden und/oder fördern** möchten. Für einen Betrag von € 1.000,-/Jahr (zzgl. MwSt.) werden die Supporter hier genannt, erhalten 3 Tickets für die jährliche lernOS Convention und können eine Person in den lernOS Beirat entsenden. Wenn ihr Supporter werden wollt, [sprecht uns gerne an](mailto:info@cogneon.de?subject=Anfrage%20lernOS%20Supporter). 
 
-1. [bayernwerk](https://www.bayernwerk.de/) vertreten durch [Gerrit Mauch](https://www.linkedin.com/in/gerrit-mauch-4b766917b/)
-1. [DATEV](https://www.datev.de/) vertreten durch [Benedict Meier](https://www.linkedin.com/in/benedict-meier/)
-1. [Deutsche Telekom](https://www.telekom.de/) vertreten durch [Jochen Pfender](https://www.linkedin.com/in/jochen-pfender-b9aaa2170/)
-1. [IPI](https://www.ipi-gmbh.com/) vertreten durch [Roland Klein](https://www.linkedin.com/in/roland-klein-61208b176/)
-1. [Lebensversicherung von 1871](https://www.lv1871.de/) vertreten durch [André Kobus](https://www.linkedin.com/in/andr%C3%A9-kobus-0b8101a9/)
-1. [SAP](https://www.sap.com/) vertreten durch [Thomas Jenewein](https://www.linkedin.com/in/thomasjenewein/)
-1. [Siemens Healthineers](https://www.siemens-healthineers.com/) vertreten durch [Marina Herold](https://www.linkedin.com/in/marina-herold/)
-1. [Vitesco Technologies](https://www.vitesco-technologies.com/) vertreten durch [Bernd Siewert](https://www.linkedin.com/in/bernd-siewert-28078812b/)
+### Aktuelle lernOS Supporter
 
-Wer lernOS Supporter werden möchte, kann [gerne Kontakt mit uns aufnehmen](https://cogneon.de/kontakt).
+---
+
+<a href="https://www.bayernwerk.de/" target="_blank"><img src="../images/logo-bayernwerk.svg" width="200" /></a>
+
+---
+
+<a href="https://www.datev.de/" target="_blank"><img src="../images/logo-datev.svg" width="200" /></a>
+
+---
+
+<a href="https://www.enbw.com/" target="_blank"><img src="../images/logo-enbw.svg" width="200" /></a>
+
+---
+
+<a href="https://www.ipi-gmbh.com/" target="_blank"><img src="../images/logo-ipi.png" width="200" /></a>
+
+---
+
+<a href="https://www.lv1871.de/" target="_blank"><img src="../images/logo-lv1871.svg" width="200" /></a>
+
+---
+
+<a href="https://www.netzsch.com/" target="_blank"><img src="../images/logo-netzsch.svg" width="200" /></a>
+
+---
+
+<a href="https://www.sap.com/" target="_blank"><img src="../images/logo-sap.svg" width="200" /></a>
+
+---
+
+<a href="https://www.schaeffler.de/" target="_blank"><img src="../images/logo-schaeffler.svg" width="200" /></a>
+
+---
+
+### Ehemalige lernOS Supporter
+
+---
+
+<a href="https://www.ey.com/" target="_blank"><img src="../images/logo-ey.svg" width="200" /></a>
+
+---
+
+<a href="https://www.telekom.de/" target="_blank"><img src="../images/logo-deutsche-telekom.svg" width="200" /></a>
+
+---
+
+<a href="https://www.siemens-healthineers.com/" target="_blank"><img src="../images/logo-siemens-healthineers.svg" width="200" /></a>
+
+---
+
+<a href="https://www.vitesco-technologies.com/" target="_blank"><img src="../images/logo-vitesco-technologies.svg" width="200" /></a>
+
+---

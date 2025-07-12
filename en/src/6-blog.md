@@ -11,4 +11,4 @@ hide:
 
 # Blog
 
-You find the lernOS blog [in the German version of the website](https://lernos.org/en/blog/). From 16th of August 2024 onwards all blog posts are published in German and English (in one post).
+You find the lernOS blog [in the German version of the website](https://lernos.org/de/blog/). We are not providing english versions right now but you can use the translator of choice to translate the posts in any language.

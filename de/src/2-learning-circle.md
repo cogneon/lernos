@@ -1,7 +1,7 @@
 # Lernen in Lerngruppen
 Lernpfade in [lernOS Leitfäden](/de/1-guides/) können alleine, zu zweit in Lerntandems oder mit 4-5 Personen in einer **Lerngruppe** (Learning Circle) durchlaufen werden. Insbesondere lernOS Neulingen (Noobs) empfehlen wir die Lerngruppe, idealerweise mit mindestens einer Person mit Erfahrung.
 
-![Gruppe von Personen beim Lernen](./images/undraw_Engineering_team_a7n2.png)
+<img src="../images/undraw_Engineering_team_a7n2.png" width="50%" />
 
 Die Lerngruppe durchläuft einen Lernpfad meist im Zeitraum von einem Quartal, den wir in lernOS in Anlehnung an Scrum auch Lern-Sprint nennen. Der Sprint startet in Woche 0 mit einer Planung. Die Wochen 1-11 werden von den Übungen (Katas) des genutzen Lernpfads gefüllt. In Woche 12 endet der Sprint mit einer Retrospektive und dem gemeinsamen Feiern des Erreichten.
 
@@ -14,6 +14,23 @@ Die Lerngruppe durchläuft einen Lernpfad meist im Zeitraum von einem Quartal, d
 * Alle können ihr eigenes Lernziel verfolgen
 * Das Risiko des Abbruchs ist geringer (wie bei einer Sport-/Laufgruppe)
 * Treffen sind persönlich, virtuell und hybrid möglich
+
+## Peer Learning Quickstarter
+Von der Schule, der Ausbildung, der Hochschule und der Weiterbildung in Organisationen und Unternehmen sind wir gewohnt, dass andere uns **Lerneinheiten** (z.B. Schulungen, Seminare, E-Learnings) mit vorgegebenen **Lernzielen** und **Lerninhalten** vorgeben (fremdgesteuertes Lernen, auch [instructor-led training](https://en.wikipedia.org/wiki/Peer_learning)). Das ist bequem, passt aber nicht immer zu den Anforderungen. Die ersten Schritte ins selbstgesteuerte Lernen fühlen sich sicher etwas ungewohnt an. Hier ein paar Tipps für den Einstieg:
+
+![](./images/lernOS-Sprint.svg)
+
+:fontawesome-solid-bullseye: Welche **Lernziele** hast du, die du durch fremdgesteuertes Lernen nicht oder nicht gut erreichst? Schreibe sie auf.
+
+:fontawesome-solid-calendar-days: Welches der Lernziele willst du **im nächsten Quartal** erreichen? Wie viel Zeit kannst/willst du investieren? Gib dem Ziel die Priorität 1.
+
+:fontawesome-solid-book: Gibt es zur Erreichung des Lernziels schon einen **Lernpfad**, z.B. in Form eines **lernOS Leitfadens** (s.u.) oder einer anderen offenen Lern-Ressource ([Open Educational Ressource](https://de.wikipedia.org/wiki/Open_Educational_Resources))?
+
+:fontawesome-solid-people-group: Möchtest du **alleine**, im **Lerntandem** (zu zweit) oder in einem **Learning Circle** (mit 3-5 Personen) lernen? Hast du schon Mitlernende? Wenn nicht, nutze soziale Netzwerke wie Linkedin, Mastodon, Viva Engage & Co. oder Tools wie den Peerfinder, um eine Lerngruppe zu bilden
+
+:fontawesome-solid-lightbulb: **Tipp:** wenn du gar nicht weißt, wo du anfangen sollst, suche dir 3-4 Mitlernende und startet einen **Learning Circle** [mit einem der drei Lernpfade](https://4you.lernos.org/de/2-0-Lernpfade/) aus dem **lernOS für Dich Leitfaden** ([Getting Things Done](https://de.wikipedia.org/wiki/Getting_Things_Done) für stressfreie Produktivität, [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) für Zielorientierung & Fokussierung, [Working Out Loud](https://de.wikipedia.org/wiki/Working_out_loud) für offenes & vernetztes Lernen und Arbeiten).
+
+:fontawesome-solid-rocket: Viel Erfolg - **Keep Calm & Learn On** - Lifelong!
 
 ## Woche 0: Die Lerngruppe startet
 Wie bei einer echten Reise ist die Planung vorab wichtig, damit die Reise gelingt. Eine kleine Checkliste als Hilfestellung für den gemeinsamen Start in Woche 0:

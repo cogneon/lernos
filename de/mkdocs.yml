@@ -27,6 +27,7 @@ theme:
       logo: material/home
     features:
       - search.share
+      - toc.integrate
 
 extra_css:
   - stylesheets/extra.css
@@ -61,7 +62,8 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
-  - blog
+  - blog:
+      blog_dir: .
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
@@ -80,7 +82,6 @@ nav:
     - Leitfäden: 1-guides.md
     - Lernen in Gruppen: 2-learning-circle.md
     - Publikationen: 4-publications.md
-    - Blog: blog/index.md
     - FAQ: 5-faq.md
     - Links:
       - lernOS Präsentation: https://lernos.org/de-slides
@@ -90,3 +91,4 @@ nav:
       - Meetup Gruppe: https://www.meetup.com/de-DE/lernos-connect/
       - Peerfinder: https://web.peerfinder.app
     - Unterstützen: 3-support.md
+#    - Blog: blog/index.md

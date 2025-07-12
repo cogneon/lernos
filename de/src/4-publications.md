@@ -10,9 +10,12 @@ hide:
 # Publikationen
 Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehören Artikel, Blogs, Vorträge, Podcasts und Videos. Wenn du noch relevante Quellen kennst, melde dich bei uns oder trage die Links unten in die Kommentare ein.
 
-![Personen vor einer Webseite](./images/undraw_Blogging_re_kl0d.png)
+<img src="../images/undraw_Blogging_re_kl0d.png" width="50%" />
 
 ## 2025
+* [KI-basierte Dokumentation der loscon25](https://cogneon.github.io/loscon25doku/de/) und [loscon25 Playlist](https://www.youtube.com/watch?v=BFAstADUUp4&list=PLsDEDkLIwmRzhoq0PcpNKMdFPh6japZSY&pp=gAQB) mit Aufzeichnungen auf Youtube.
+* Podcast-Episode [Peer Learning groß machen](https://podcasts.cogneon.io/@loa/episodes/peer-learning-gros-machen-loscon25) mit Christian Kaiser, Shakil Awan und Simon Dückert im lernOS on Air Podcast (aufgezeichnet auf der loscon25).
+* Podcast-Episode [Knowledge Gap: Wie managen wir Wissen?](https://neues-lernen.podigee.io/52-knowledge-gap-wie-managen-wir-wissen) mit Simon Dückert im Podcast Neues Lernen von [personalmagazin](https://www.personalmagazin.de/).
 * Buch [Die Kraft der Learning Circles: Umsetzung, Wirkung und Einsatzmöglichkeiten](https://www.vahlen.de/graf-liebhart-kraft-learning-circles/product/36921860), herausgegeben von nele Graf und Ursula Liebhart mit vielen Fallbeisspielen zu lernOS.
 
 ## 2024
