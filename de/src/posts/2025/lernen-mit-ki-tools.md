@@ -23,8 +23,8 @@ Da aufgrund der vielen Veranstaltungen in den kommenden Wochen eine Teilnahme in
 **Meine Idee**, die ihr natürlich gerne auf beliebige andere lernOS Leitfäden erweitern könnt, **ist die folgende**:
 
 1. Ich lade die Markdown-Version des Change Management Leitfadens zusammen mit relevanten Quellen zur ISO 30401 in einen ChatGPT-Chat
-1. Ich nutze einen Prompt, der mit mir einen Test zu dem Wissen im Grundlagen-Kapitel macht, mich wöchentlich in das Thema der Kata einführt und bei der Durchführung begleitet
-1. Ich nutze die geplanten Aufgaben, um mir wöchentlich eine E-Mail mit Learning Nuggets zum Wochenthema schickt und mich durch die Woche führt
+2. Ich nutze einen Prompt, der mit mir einen Test zu dem Wissen im Grundlagen-Kapitel macht, mich wöchentlich in das Thema der Kata einführt und bei der Durchführung begleitet
+3. Ich nutze die geplanten Aufgaben, um mir wöchentlich eine E-Mail mit Learning Nuggets zum Wochenthema schickt und mich durch die Woche führt
 
 Das ist **der initiale Prompt**, den ich verwenden werde (im Anschluss an die Lernreise schreibe ich einen kleinen Erfahrungsbericht):
 
