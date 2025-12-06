@@ -64,14 +64,14 @@ plugins:
   - search
   - blog:
       blog_dir: .
-#  - rss:
-#      match_path:   posts/.* 
-#      date_from_meta:
-#        as_creation: date
-#      categories:
-#        - categories
-#        - tags
-#      length: 1000
+  - rss:
+      match_path:   posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+      length: 1000
 #  - minify:
 #      minify_html: true
 
