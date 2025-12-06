@@ -11,7 +11,7 @@ categories:
 
 # loscon Orga Jahresausklang & Ausblick
 
-![](./images/loscon26-matrix-poster.png)
+![](https://lernos.org/de/2025/images/loscon26-matrix-poster.png)
 
 Am **Freitag den 19.12.2025** von 10:00-11:00 Uhr treffen wir uns nochmal zu einem lockeren Jahresausklang. Wir wollen die Ereignisse seit der [loscon25](https://wiki.cogneon.de/loscon25) zusammenkehren und schonmal über die Eckpunkte der **loscon26** (23.-24. Juni 2026) sprechen. Eingeladen ist das Orga-Team, sowie alle, die nächstes Jahr in der Orga mitmachen wollen. Einwahldaten bekommt ihr ganz einfach [über diese Anmeldung](https://events.teams.microsoft.com/event/ac450ee6-ed4f-4250-964e-486fa930fbe7@93e1683c-5df4-46ff-8c5a-de6f62e19d5d) (Microsoft Teams).
 
