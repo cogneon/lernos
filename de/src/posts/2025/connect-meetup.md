@@ -10,7 +10,7 @@ categories:
 
 # CONNECT Meetup - ein Meetup (nicht nur) für die lernOS Community
 
-![a community meetup in a coworking space, one person presenting something with a laptop on a beamer, a lot of people sitting on chairs and beanbags and on the ground listening and learning](./images/connect-meetup.png)
+![KI generiert, Prompt: a community meetup in a coworking space, one person presenting something with a laptop on a beamer, a lot of people sitting on chairs and beanbags and on the ground listening and learning](./images/connect-meetup.png)
 
 Auf der [lernOS Convention 2025](https://wiki.cogneon.de/loscon25) habe ich mit einigen Leuten über die **Idee eines monatlichen Meetups** gesprochen. Die Idee kam prinzipiell gut an und ich habe versucht, etwas zu planen. Meine Idee war, einen Starttermin mit einigen der Autor:innen des neuen [Learning Circles Buchs](https://amzn.to/4hPIvPj) (*) zu machen und als Termin einfach den Slot des [C3Managers Meetup](https://cogneon.de/serien/c3managers-meetup/) zu verwenden (Donnerstag Nachmittag, 16:00-17:30 Uhr). Da ich aber die Leute terminlich nicht unter einen Hut bekommen habe, mache ich hiermit nochmal einen neuen Anlauf.
 

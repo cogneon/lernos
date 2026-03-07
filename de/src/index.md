@@ -17,6 +17,7 @@ hide:
 
 <a href="./images/lernos_in_a_nutshell.png"><img src="./images/lernos_in_a_nutshell.png" width="30%" /></a>
 
+---
 
 ## lernOS Blog
 

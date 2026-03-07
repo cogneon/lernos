@@ -10,7 +10,7 @@ categories:
 
 # loscon26 Orga-Team Call for Participation
 
-![](./images/loscon26-orga-cfp.png)
+![](./images/loscon26-key-visual.png)
 
 Vom **23.-24. Juni 2026** findet wieder die **lernOS Convention** unter dem Motto **"AI for Work that Works!"** auf der Kaiserburg in Nürnberg, in dezentralen Satelliten und online statt. Da so ein hybrides Multi-Format-Event gut vorbereitet sein will, formiert sich ab Freitag 30.01.2026 mal wieder das grandiose Orga-Team. Sei dabei!
 
