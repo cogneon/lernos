@@ -1,9 +1,3 @@
-<style>
-  .md-content__button {
-    display: none;
-  }
-</style>
-
 # lernOS Leitfäden
 
 Die [lernOS Leitfäden](1-guides.md) stellen **Lernpfade** bereit, die euch beim selbstorganisierten Lernen alleine oder in Gruppen unterstützen. Die Lernpfade sind in der Regel so ausgelegt, dass sie **innerhalb eines Quartals** (12 Wochen) mit **ca. 2 Stunden Zeitaufwand pro Woche** gemeistert werden können. Die Leitfäden bestehen immer aus einem **Grundlagen-Kapitel** und einem oder mehreren **Lernpfaden** mit den **Übungen** (bei lernOS [Katas](https://de.wikipedia.org/wiki/Kata_(Programmierung)) genannt) für die einzelnen Wochen.

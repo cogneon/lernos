@@ -38,3 +38,13 @@
 .chat-window-toggle svg {
     display: none !important;
 }
+
+/* TOC ausblenden */
+.md-sidebar--secondary {
+    display: none !important;
+}
+
+/* Edit on Github Button ausblenden */
+.md-content__button {
+    display: none;
+}

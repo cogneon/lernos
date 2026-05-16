@@ -3,8 +3,6 @@
 lernOS ist ein Community-Projekt - es lebt von Menschen, die mitmachen.
 Hier findest du alle Wege, wie du dich einbringen kannst.
 
----
-
 ## Als Lernende
 
 Du willst lernOS ausprobieren und mit anderen lernen?

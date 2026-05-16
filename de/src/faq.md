@@ -1,17 +1,3 @@
----
-
-hide:
-
-- toc
-
----
-
-<style>
-  .md-content__button {
-    display: none;
-  }
-</style>
-
 # lernOS FAQ
 
 Auf dieser Seite sammeln wir die **Antworten zu oft gestellten Fragen**. Ist Deine Frage nicht dabei, kannst du sie unten in die Kommentare schreiben.

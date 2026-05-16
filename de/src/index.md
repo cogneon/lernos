@@ -3,12 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<style>
-  .md-content__button {
-    display: none;
-  }
-</style>
-
 # Willkommen bei lernOS 👋
 
 ![lernOS in a Nutshell](images/lernos_in_a_nutshell.png){ align=right width=400 }
@@ -158,3 +152,20 @@ in der Cogneon Akademie Nürnberg und online, und einmal im Jahr bei der
 
     [:octicons-arrow-right-24: Discord beitreten](https://discord.gg/3d6zEnt)
 </div>
+
+## lernOS News aus dem Fediverse
+
+Die lernOS Community ist auch auf [Mastodon](https://de.wikipedia.org/wiki/Mastodon_(soziales_Netzwerk)) aktiv - teile deine Lernerfahrungen
+mit dem Hashtag **#lernOS** auf Mastodon. Wir empfehlen [colearn.social](https://colearn.social), die Instanz der [Corporate Learning Community](https://colearn.de) für
+alle, die rund um Lernen und Wissensmanagement vernetzt sein wollen.
+
+[:fontawesome-brands-mastodon: Konto auf colearn.social anlegen](https://colearn.social/auth/sign_up){ .md-button }
+[:octicons-arrow-right-24: @lernos folgen](https://colearn.social/@lernos){ .md-button }
+
+<iframe 
+    src="https://cogneon.github.io/mastowall/?hashtags=lernos%2Closcon26&server=https%3A%2F%2Fcolearn.social"
+    width="100%" 
+    height="800px" 
+    frameborder="0"
+    scrolling="yes">
+</iframe>
