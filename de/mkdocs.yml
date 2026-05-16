@@ -25,7 +25,7 @@ theme:
         primary: custom
         accent: custom
     language: de
-    logo: images/logo.svg
+    logo: images/lernos-logo.svg
     icon:
       repo: fontawesome/brands/github
     features:
@@ -46,10 +46,10 @@ extra:
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
     giscus: true
-    alternate:
-      - name: English
-        link: https://lernos.org/en
-        lang: en
+#    alternate:
+#      - name: English
+#        link: https://lernos.org/en
+#        lang: en
     generator: false
 
 # Extensions
@@ -83,6 +83,7 @@ plugins:
 nav:
     - Startseite: index.md
     - Über lernOS: about.md
+    - Events: events.md
     - Leitfäden: guides.md
     - Learning Circles: learning-circles.md
     - Mitmachen: contribute.md

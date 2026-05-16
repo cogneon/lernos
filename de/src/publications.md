@@ -12,15 +12,18 @@ Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehör
 
 <img src="../images/undraw_Blogging_re_kl0d.png" width="50%" />
 
+## 2026
+* [DATEV-CoCreationCamp – Ein lernOS-fähiger Möglichkeitsraum für Transformation](https://www.gfwm.de/wp-content/uploads/2026/04/CKaiser-SDueckert-DATEV-CoCreationCamp.-Das-Kuratierte-Dossier-8-GfWM-2026-.pdf) (PDF), Beitrag von [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/) (DATEV eG) und [Simon Dückert](https://www.linkedin.com/in/simondueckert/) (Cogneon GmbH) im kuratierten GfWM Dossier Bd. 8.
+
 ## 2025
 * [KI-basierte Dokumentation der loscon25](https://cogneon.github.io/loscon25doku/de/) und [loscon25 Playlist](https://www.youtube.com/watch?v=BFAstADUUp4&list=PLsDEDkLIwmRzhoq0PcpNKMdFPh6japZSY&pp=gAQB) mit Aufzeichnungen auf Youtube.
 * Podcast-Episode [Peer Learning groß machen](https://podcasts.cogneon.io/@loa/episodes/peer-learning-gros-machen-loscon25) mit Christian Kaiser, Shakil Awan und Simon Dückert im lernOS on Air Podcast (aufgezeichnet auf der loscon25).
 * Podcast-Episode [Knowledge Gap: Wie managen wir Wissen?](https://neues-lernen.podigee.io/52-knowledge-gap-wie-managen-wir-wissen) mit Simon Dückert im Podcast Neues Lernen von [personalmagazin](https://www.personalmagazin.de/).
 * Buch [Die Kraft der Learning Circles: Umsetzung, Wirkung und Einsatzmöglichkeiten](https://www.vahlen.de/graf-liebhart-kraft-learning-circles/product/36921860), herausgegeben von nele Graf und Ursula Liebhart mit vielen Fallbeisspielen zu lernOS.
+* [lernOS Leitfaden Neugier und Resilienz als Zukunftskompetenz von Organisationen](https://da-run.h-da.de/fileadmin/DA_run/Dokumente/DA_RuN_lernOS_Neugier_und_Resilienz_als_Zukunftskompetenz_Einfuehrung_und_Selbstlernunterlage.pdf) (PDF), [Johanna Möbius](https://www.linkedin.com/in/johanna-moebius-2021jm/) und Prof. [Werner Stork](https://www.linkedin.com/in/dr-werner-stork/) (Hinweis: bisher nur als PDF erschienen)
 
 ## 2024
 * Vortrag [Zurück in die Zukunft der Arbeit](https://www.youtube.com/watch?v=gixIEuf64sg) ([Folien](https://simondueckert.github.io/presentations/rasc24/)) von Simon Dückert auf dem Radikal Arbeiten Sommercamp (auch [als Podcast](https://podcasts.cogneon.io/@kclo/episodes/zuruck-in-die-zukunft-der-arbeit-mit-simon-duckert) verfügbar)
-* Buch [Learning Circles: Die Kraft der Learning Circles: Umsetzung, Wirkung und Einsatzmöglichkeiten](https://amzn.to/3AtsZqS) mit mehreren Kapiteln zu lernOS (Herausgeber: Nele Graf und Ursula Liebhart)
 
 ## 2023
 * [Lightning Talk zur lernOS Produktionskette](/blog/2024/01/19/lightning-talk-zur-lernos-produktionskette-auf-dem-37c3/) auf dem 37. Chaos Communication Congress
@@ -80,5 +83,4 @@ Auf dieser Seite sammeln wir **Veröffentlichungen rund um lernOS**. Dazu gehör
 ## 2016
 
 * Podcast [Cogneon 2.0](https://cogneon.de/2016/12/23/m2p026-cogneon-2-0/) mit einer Aufzeichnung von der 15-Jahres-Feier von Cogneon. Dort haben wir über unsere Vergangenheit und Zukunft gesprochen und das 6-jährige lernOS-Projekt aus der Taufe gehoben.
-
 * [Knowledge Jam #ckj25 Digital Leadership](https://wiki.cogneon.de/Cogneon_Knowledge_Jam/Digital_Leadership_(ckj25)) mit Impulsvortrag zu Working Out Loud von John Stepper und Doppelsession *In Search of a WOL Business Model* in der Cogneon Akademie in Nürnberg

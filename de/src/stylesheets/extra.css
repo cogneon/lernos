@@ -22,3 +22,19 @@
     border-top: 4px solid #ff6600;
     background-color: #fff3e0;
 }
+
+/* Suri-Icon als Chat-Trigger */
+.chat-window-toggle {
+    background-image: url('/de/images/suri.png') !important;
+    background-size: cover !important;
+    background-color: transparent !important;
+    background-position: center !important;
+    border-radius: 50% !important;
+    width: 60px !important;
+    height: 60px !important;
+}
+
+/* Standard SVG-Icon ausblenden */
+.chat-window-toggle svg {
+    display: none !important;
+}

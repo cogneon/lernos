@@ -15,7 +15,10 @@ hide:
 
 **lernOS** (Esperanto für "ich werde lernen") ist ein offenes System für [selbstgesteuertes Lernen](https://de.wikipedia.org/wiki/Selbstgesteuertes_Lernen) und [Peer Learning](https://en.wikipedia.org/wiki/Peer_learning). Auf **persönlicher Ebene** helfen lernOS Leitfäden dabei, alleine, zu zweit oder in einer kleinen Gruppe (Learning Circle) **neues Wissen und neue Fähigkeiten** aufzubauen. Auf **organisationaler Ebene** unterstützt lernOS Unternehmen und Institutionen beim **Aufbau einer Lernenden Organisation**. Alle Inhalte stehen unter der offenen Lizenz [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) und sind auch **in Unternehmen kostenlos** nutzbar - mit Namensnennung.
 
-[:material-presentation: lernOS Präsentation](https://lernos.org/de-slides){ .md-button }
+[:material-presentation: lernOS Präsentation](https://lernos.org/de-slides){ .md-button } [:material-rocket-launch: Quick Start Guide](images/lernOS-Quick-Start-Guide-de-v03.pdf){ .md-button }
+
+[![CC BY 4.0](images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/deed.de)
+
 
 <div style="clear: both;"></div>
 
@@ -60,11 +63,16 @@ hide:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Hi9myfpJEw?si=YEmG--x4_g36a26F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-## Termine
+
+## lernOS Events
+
+Die lernOS Community trifft sich regelmäßig - monatlich beim **lernOS Meetup**
+in der Cogneon Akademie Nürnberg und online, und einmal im Jahr bei der
+**lernOS Convention (loscon)**. Alle Termine auf einen Blick:
+
+[:material-calendar: Alle Events und Infos](events.md){ .md-button } [:material-calendar-export: Kalender abonnieren (.ics)](https://export.kalender.digital/ics/6650391/36fea8076648f909efcc/lernostermine.ics?past_months=3&future_months=36){ .md-button }
 
 <iframe frameborder="0" height="500px" width="100%" src="https://kalender.digital/0b0b376e6e880459954a?iframe=true"></iframe>
-
-[:material-calendar-export: lernOS Kalender abonnieren (.ics)](https://export.kalender.digital/ics/6650391/0b0b376e6e880459954a/lernostermine.ics?past_months=0&future_months=36){ .md-button }
 
 ---
 

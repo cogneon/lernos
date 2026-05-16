@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block styles %}
+  {{ super() }}
+  <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet">
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script type="module">
+    import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+    createChat({
+      webhookUrl: 'https://flow.cogneon.io/webhook/d1792728-0f5f-4bd1-9e2c-fb6e9cb55381/chat',
+      mode: 'window',
+      defaultLanguage: 'de',
+      initialMessages: [
+        'Hallo! Ich bin Suri, dein lernOS Assistent. 👋 Ich helfe bei Fragen zu lernOS und Learning Circles.',
+      ],
+      style: {
+        '--chat--color-primary': '#ff6600',
+        '--chat--color-primary-shade-50': '#e65c00',
+        '--chat--color-primary-shade-100': '#cc5200',
+        '--chat--color-secondary': '#ff6600',
+        '--chat--color-secondary-shade-50': '#e65c00',
+      },
+      i18n: {
+        de: {
+          title: 'Suri',
+          subtitle: 'Dein lernOS Assistent',
+          inputPlaceholder: 'Frag mich etwas zu lernOS...',
+          getStarted: 'Gespräch starten',
+          closeButtonTooltip: 'Chat schließen',
+        }
+      },
+    });
+  </script>
+{% endblock %}
