@@ -1,5 +1,5 @@
 # Project Information
-site_name: lernOS
+site_name: Zusammen lernt man weniger allein!
 site_url: https://lernos.org/de
 site_author: Simon Dückert
 site_description: lernOS ist eine Community und eine Sammlung von Lernpfaden rund um das selbstorganisierte, lebenslange Lernen.
@@ -9,7 +9,8 @@ repo_name: 'cogneon/lernos'
 repo_url: 'https://github.com/cogneon/lernos'
 
 # Copyright
-copyright: cogneon.de/impressum
+copyright: lernOS wird gesponsert von <a href="https://cogneon.de">Cogneon</a> (<a href="https://cogneon.de/impressum">Impressum</a>) und den <a href="https://cogneon.de/lernos">lernOS Supportern</a> 🧡
+# copyright: cogneon.de/impressum
 
 # Folder
 docs_dir: src
@@ -20,14 +21,15 @@ theme:
     name: material
     custom_dir: src/overrides
     palette:
-        scheme: lernos
+        scheme: default
+        primary: custom
+        accent: custom
     language: de
+    logo: images/logo.svg
     icon:
       repo: fontawesome/brands/github
-      logo: material/home
     features:
       - search.share
-      - toc.integrate
 
 extra_css:
   - stylesheets/extra.css
@@ -39,6 +41,8 @@ extra:
           link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/mastodon
           link: 'https://colearn.social/@lernos'
+        - icon: fontawesome/brands/discord
+          link: 'https://discord.gg/3d6zEnt'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
     giscus: true
@@ -63,7 +67,7 @@ markdown_extensions:
 plugins:
   - search
   - blog:
-      blog_dir: .
+      blog_dir: blog
   - rss:
       match_path:   posts/.* 
       date_from_meta:
@@ -78,17 +82,12 @@ plugins:
 # Navigation
 nav:
     - Startseite: index.md
-    - Über lernOS: 0-about.md
-    - Leitfäden: 1-guides.md
-    - Lernen in Gruppen: 2-learning-circle.md
-    - Publikationen: 4-publications.md
-    - FAQ: 5-faq.md
-    - Links:
-      - lernOS Präsentation: https://lernos.org/de-slides
-      - lernOS Quick-Start Guide: lernOS-Quick-Start-Guide-de-v03.pdf
-      - lernOS Glossar: lernos-glossary.md
-      - CONNECT Community: https://community.cogneon.de
-      - Meetup Gruppe: https://www.meetup.com/de-DE/lernos-connect/
-      - Peerfinder: https://web.peerfinder.app
-    - Unterstützen: 3-support.md
-#    - Blog: blog/index.md
+    - Über lernOS: about.md
+    - Leitfäden: guides.md
+    - Learning Circles: learning-circles.md
+    - Mitmachen: contribute.md
+    - Leitfaden erstellen: create-guide.md
+    - Für Organisationen: for-organizations.md
+    - Publikationen: publications.md
+    - FAQ: faq.md
+    - Blog: blog/index.md
