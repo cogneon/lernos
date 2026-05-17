@@ -22,7 +22,7 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-account-school:{ .lg .middle } **Ich will lernen**
+- :material-account-group:{ .lg .middle } **Ich will lernen**
 
     ---
 
@@ -30,7 +30,7 @@ hide:
 
     [:octicons-arrow-right-24: Zu den Leitfäden](guides.md)
 
-- :material-account-group:{ .lg .middle } **Ich will an Leitfäden mitarbeiten**
+- :material-book-edit:{ .lg .middle } **Ich will an Leitfäden mitarbeiten**
 
     ---
 
@@ -68,35 +68,83 @@ Die **lernOS Community** trifft sich regelmäßig - monatlich beim **lernOS Meet
 
 ---
 
-## Aktuelles
+## Akutell im lernOS Blog
 
-<div class="grid cards" markdown>
+<div id="blog-posts"><em>Lade aktuelle Beiträge...</em></div>
 
-- **[loscon26 Orga-Team Call for Participation](https://lernos.org/de/blog/2026/01/24/loscon26-orga-team-call-for-participation/)**
+<script>
+async function loadBlogPosts() {
+    try {
+        const response = await fetch('https://lernos.org/de/feed_rss_created.xml');
+        const text = await response.text();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, 'text/xml');
+        const items = Array.from(xml.querySelectorAll('item'));
 
-    ---
+        // Datum aus URL extrahieren
+        function dateFromUrl(url) {
+            const match = url.match(/\/(\d{4})\/(\d{2})\/(\d{2})\//);
+            if (match) {
+                return new Date(match[1], match[2]-1, match[3])
+                    .toLocaleDateString('de-DE', {day:'2-digit', month:'2-digit', year:'numeric'});
+            }
+            return '';
+        }
 
-    *24. Januar 2026* - Einladung in das Orga-Team der lernOS Convention 2026.
+        // Nach Datum aus URL sortieren (neueste zuerst)
+        items.sort((a, b) => {
+            const urlA = a.querySelector('link').textContent;
+            const urlB = b.querySelector('link').textContent;
+            const matchA = urlA.match(/\/(\d{4})\/(\d{2})\/(\d{2})\//);
+            const matchB = urlB.match(/\/(\d{4})\/(\d{2})\/(\d{2})\//);
+            if (matchA && matchB) {
+                return new Date(matchB[1], matchB[2]-1, matchB[3]) - 
+                       new Date(matchA[1], matchA[2]-1, matchA[3]);
+            }
+            return 0;
+        });
 
-- **[loscon Orga Jahresausklang & Ausblick](https://lernos.org/de/blog/2025/12/06/loscon-orga-jahresausklang--ausblick/)**
+        let html = '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1rem 0;">';
 
-    ---
+        items.slice(0, 3).forEach(item => {
+            const title = item.querySelector('title').textContent;
+            const link = item.querySelector('link').textContent;
+            const date = dateFromUrl(link);
+            const desc = item.querySelector('description').textContent
+                .replace(/<[^>]*>/g, '')
+                .replace(/\s+/g, ' ')
+                .trim()
+                .slice(0, 120) + '...';
 
-    *6. Dezember 2025* - Wir kehren die Ereignisse aus dem Jahr zusammen und spinnen Ideen für 2026.
+            html += `
+            <div style="border: 1px solid var(--md-default-fg-color--lightest); 
+                        border-top: 4px solid var(--md-accent-fg-color);
+                        border-radius: 4px; 
+                        padding: 1rem;
+                        background: var(--md-code-bg-color);">
+                <strong><a href="${link}">${title}</a></strong>
+                <hr style="margin: 0.5rem 0;">
+                <small><em>${date}</em></small>
+                <p style="font-size: 0.85rem; margin: 0.5rem 0 0 0;">${desc}</p>
+            </div>`;
+        });
 
-- **[CONNECT Meetup - ein Meetup (nicht nur) für die lernOS Community](https://lernos.org/de/blog/2025/11/08/connect-meetup---ein-meetup-nicht-nur-f%C3%BCr-die-lernos-community/)**
+        html += '</div>';
+        document.getElementById('blog-posts').innerHTML = html;
 
-    ---
-
-    *8. November 2025* - Die lernOS Convention als Jahrestreffen ist nicht genug für die Community, wir brauchen ein monatliches Meetup.
-
-</div>
+    } catch(e) {
+        document.getElementById('blog-posts').innerHTML = 
+            '<p><a href="blog/">Alle Blog-Beiträge</a></p>';
+    }
+}
+loadBlogPosts();
+</script>
 
 [:octicons-arrow-right-24: Alle Blog-Beiträge](blog/index.md){ .md-button }
 
 ---
 
-## Bleib auf dem Laufenden
+## Lass uns vernetzen!
 
 <div class="grid cards" markdown>
 
