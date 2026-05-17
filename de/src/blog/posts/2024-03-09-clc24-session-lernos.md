@@ -1,5 +1,7 @@
 ---
 date: 2024-03-09
+authors:
+  - simondueckert
 categories:
   - lernos
   - clc24

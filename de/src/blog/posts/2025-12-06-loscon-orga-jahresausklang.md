@@ -1,6 +1,8 @@
 ---
 date:
   created: 2025-12-06
+authors:
+  - simondueckert
 draft: false
 pin: false
 categories:

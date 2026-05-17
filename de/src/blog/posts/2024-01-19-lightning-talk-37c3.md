@@ -1,5 +1,7 @@
 ---
 date: 2024-01-19
+authors:
+  - simondueckert
 categories:
   - lernos
   - produktionskette

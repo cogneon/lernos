@@ -1,5 +1,7 @@
 ---
 date: 2024-08-16
+authors:
+  - simondueckert
 categories:
   - lernos
   - website

@@ -1,6 +1,8 @@
 ---
 date: 2023-11-24
-categories:
+authors:
+  - simondueckert
+ategories:
   - lernos
   - website
 ---

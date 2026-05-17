@@ -1,6 +1,8 @@
 ---
 date:
   created: 2025-11-08
+authors:
+  - simondueckert
 pin: false
 categories:
   - connect
