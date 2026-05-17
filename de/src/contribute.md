@@ -1,7 +1,6 @@
 # Mitmachen
 
-lernOS ist ein Community-Projekt - es lebt von Menschen, die mitmachen.
-Hier findest du alle Wege, wie du dich einbringen kannst.
+**lernOS** ist ein **Community-Projekt** - es lebt von Menschen, die mitmachen. Hier findest du alle Wege, wie du dich einbringen kannst - egal, ob du nur eine Stunde Zeit hast, oder viel mehr.
 
 ## Als Lernende
 

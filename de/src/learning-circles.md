@@ -26,7 +26,7 @@ Von der Schule, der Ausbildung, der Hochschule und der Weiterbildung in Organisa
 
 :fontawesome-solid-book: Gibt es zur Erreichung des Lernziels schon einen **Lernpfad**, z.B. in Form eines **lernOS Leitfadens** (s.u.) oder einer anderen offenen Lern-Ressource ([Open Educational Ressource](https://de.wikipedia.org/wiki/Open_Educational_Resources))?
 
-:fontawesome-solid-people-group: Möchtest du **alleine**, im **Lerntandem** (zu zweit) oder in einem **Learning Circle** (mit 3-5 Personen) lernen? Hast du schon Mitlernende? Wenn nicht, nutze soziale Netzwerke wie Linkedin, Mastodon, Viva Engage & Co. oder Tools wie den Peerfinder, um eine Lerngruppe zu bilden
+:fontawesome-solid-people-group: Möchtest du **alleine**, im **Lerntandem** (zu zweit) oder in einem **Learning Circle** (mit 3-5 Personen) lernen? Hast du schon Mitlernende? Wenn nicht, nutze soziale Netzwerke wie Linkedin, Mastodon, Viva Engage & Co. oder die [Community-Plattform CONNECT](https://community.cogneon.de), um eine Lerngruppe zu bilden
 
 :fontawesome-solid-lightbulb: **Tipp:** wenn du gar nicht weißt, wo du anfangen sollst, suche dir 3-4 Mitlernende und startet einen **Learning Circle** [mit einem der drei Lernpfade](https://4you.lernos.org/de/2-0-Lernpfade/) aus dem **lernOS für Dich Leitfaden** ([Getting Things Done](https://de.wikipedia.org/wiki/Getting_Things_Done) für stressfreie Produktivität, [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) für Zielorientierung & Fokussierung, [Working Out Loud](https://de.wikipedia.org/wiki/Working_out_loud) für offenes & vernetztes Lernen und Arbeiten).
 

@@ -1,12 +1,8 @@
 # Einen lernOS Leitfaden erstellen
 
-Ein lernOS Leitfaden hilft Lernenden, in einem **13-wöchigen Learning Sprint**
-alleine, im Lerntandem oder im Learning Circle (4-5 Personen) neue Kompetenzen
-aufzubauen. Der Aufwand sollte maximal 2 Stunden pro Woche betragen.
+Ein lernOS Leitfaden hilft Lernenden, in einem **13-wöchigen Learning Sprint** alleine, im Lerntandem oder im Learning Circle (4-5 Personen) neue Kompetenzen aufzubauen. Der Aufwand sollte maximal 2 Stunden pro Woche betragen.
 
-Alle Leitfäden stehen unter der offenen Lizenz
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) und
-werden als Markdown-Dateien auf GitHub verwaltet.
+Alle Leitfäden stehen unter der offenen Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) und werden **als Markdown-Dateien auf GitHub** verwaltet.
 
 ---
 
@@ -73,16 +69,23 @@ Das Lernziel kann aus einer oder einer Kombination dieser drei Ebenen kommen:
 
 ---
 
-## Lebenszyklus eines Leitfadens
+## Lebenszyklus eines lernOS Leitfadens
 
 Ein Leitfaden durchläuft typischerweise diese Phasen:
 
-**Idee** - **Zieldefinition** - **Erstellung** - **Veröffentlichung (0.x)** -
-**Praxistest** - **Stabile Version (1.0)** - **Pflege** - **Archivierung**
+```mermaid
+flowchart LR
+    A[Idee] --> B[Zieldefinition]
+    B --> C[Erstellung]
+    C --> D[Veröffentlichung\n0.x]
+    D --> E[Praxistest mit 5+ Learning Circle]
+    E --> F[Stabile Version\n1.0]
+    F --> G[Pflege]
+    G --> F
+    G --> H[Archivierung]
+```
 
-Solange ein Leitfaden noch nicht in der Praxis getestet wurde, empfehlen wir
-die Versionsnummer 0.x. Nach einem erfolgreichen Praxistest erhält er die
-Version 1.0 - idealerweise in Deutsch und Englisch.
+Solange ein Leitfaden noch nicht in der Praxis getestet wurde, empfehlen wir die Versionsnummer 0.x. Nach einem erfolgreichen Praxistest erhält er die Version 1.0. Idealerweise erscheint der Leitfaden dann in Deutsch und Englisch.
 
 ---
 
@@ -93,15 +96,16 @@ Version 1.0 - idealerweise in Deutsch und Englisch.
     Die Texterstellung kann in Word oder Google Docs beginnen.
     Die technische Konvertierung in Markdown und die Einrichtung der
     Produktionskette kann im Team aufgeteilt werden - nicht alle müssen
-    alles können.
+    alles können. Wir empfehlen aber frühzeitig den Leitfaden in Markdown anzulegen und sich damit zu beschäftigen, um Mehraufwand am Ende zu vermeiden.
 
 Die Produktionskette verwendet folgende Tools:
 
-- **Markdown** als Quellformat (Texterstellung)
-- **GitHub** zur Versionsverwaltung und Veröffentlichung
-- **Pandoc** zur Konvertierung in PDF, Word, HTML, E-Book
-- **mkdocs** zur Erstellung der Webversion
-- **GitHub Actions** für die automatische Generierung in der Cloud
+- **[Markdown](https://de.wikipedia.org/wiki/Markdown)** als Quellformat für die Texterstellung (Empfohlener Editor: [MarkText](https://marktext.me/))
+- **[GitHub](https://de.wikipedia.org/wiki/GitHub)** zur Versionsverwaltung und Veröffentlichung ([Github Desktop](https://desktop.github.com/download/) für lokales Arbeiten)
+- **[Pandoc](https://pandoc.org/)** zur Konvertierung in PDF, Word, HTML, E-Book
+- **[mkdocs](https://www.mkdocs.org/)** zur Erstellung der Webversion
+- **[mkdocs material](https://squidfunk.github.io/mkdocs-material/)** als Theme der Webversion
+- **[GitHub Actions](https://docs.github.com/en/actions)** für die automatische Generierung in der Cloud
 
 Eine detaillierte Anleitung findest du im
 [lernOS Template Leitfaden](https://github.com/cogneon/lernos-template).

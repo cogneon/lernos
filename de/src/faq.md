@@ -6,8 +6,7 @@ Auf dieser Seite sammeln wir die **Antworten zu oft gestellten Fragen**. Ist Dei
 
     Eine gute Anlaufstelle ist die [Community CONNECT](https://community.cogneon.de) 
     mit weit über 1.000 Mitgliedern und dem monatlichen lernOS Meetup. Um Termine 
-    mitzubekommen, melde dich in der [Meetup-Gruppe](https://www.meetup.com/cogneon/) an. 
-    Außerdem kannst du auf LinkedIn nachfragen (Hashtag: #lernos).
+    mitzubekommen, folge lernOS [auf Mastodon]() oder [auf Linkedin](https://www.linkedin.com/showcase/lern-os/) (hier kannst du dich auch [zum lernOS Newsletter anmelden](https://www.linkedin.com/newsletters/lernos-news-7305595387040456705/)).
 
 ??? question "Wo finde ich die PDF-, Word- und E-Book-Dateien zu den Leitfäden?"
 
@@ -18,13 +17,13 @@ Auf dieser Seite sammeln wir die **Antworten zu oft gestellten Fragen**. Ist Dei
 
 ??? question "Kann ich die lernOS Leitfäden auf einem E-Book-Reader wie dem Kindle lesen?"
 
-    Ja. Die Leitfaden sind in den E-Book-Formaten [EPUB](https://de.wikipedia.org/wiki/EPUB) und [Mobipocket](https://de.wikipedia.org/wiki/Mobipocket) verfügbar. Beim Kindle musst du z.B. die mobi-Datei an die E-Mail-Adresse des Kindle schicken (wird in den Einstellungen angezeigt). Bei E-Book-Management-Software wie [Calibre](https://calibre-ebook.com/) kann die epub-Datei einfach per Drag&Drop hinzugefügt werden.
+    Ja. Die Leitfaden sind im E-Book-Format [EPUB](https://de.wikipedia.org/wiki/EPUB) verfügbar. Bei E-Book-Management-Software wie [Calibre](https://calibre-ebook.com/) kann die epub-Datei einfach per Drag&Drop hinzugefügt werden.
 
 ??? question "Kann ich lernOS Inhalte benutzen und modifizieren?"
 
-    Ja, Du kannst und wir wollen sogar, dass du das machst! Aus diesem Grund werden die Inhalte von lernOS unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) veröffentlicht. Du kannst die Inhalte herunterladen, benutzen und modifizieren. Du kannst lernOS Inhalte im privaten und kommerziellen Kontexten kostenfrei verwenden.
+    Ja, Du kannst und wir wollen sogar, dass du das machst! Aus diesem Grund werden die Inhalte von lernOS unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) veröffentlicht. Du kannst die Inhalte herunterladen, benutzen und modifizieren. Du kannst lernOS Inhalte im privaten und geschäftlichen Kontexten mit Namensnennung kostenfrei verwenden.
 
-??? question "Was ist der Unterschied zwischen lernOS und anderen Methoden wie z.B. Working Out Looud (WOL)?"
+??? question "Was ist der Unterschied zwischen lernOS und anderen Methoden wie z.B. Working Out Loud (WOL)?"
     Siehe [Blog zu den wichtigsten Unterschieden](https://cogneon.de/2019/07/13/di3-13-wichtigsten-unterschiede-zwischen-lernos-und-wol/).
 
 ??? question "Kann ich kommerzielle Produkte und Dienstleistungen mit lernOS im Namen anbieten?"

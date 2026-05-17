@@ -7,7 +7,7 @@ hide:
 
 ![lernOS in a Nutshell](images/lernos_in_a_nutshell.png){ align=right width=400 }
 
-**lernOS** (Esperanto für "ich werde lernen") ist ein offenes System für [selbstgesteuertes Lernen](https://de.wikipedia.org/wiki/Selbstgesteuertes_Lernen) und [Peer Learning](https://en.wikipedia.org/wiki/Peer_learning). Auf **persönlicher Ebene** helfen lernOS Leitfäden dabei, alleine, zu zweit oder in einer kleinen Gruppe (Learning Circle) **neues Wissen und neue Fähigkeiten** aufzubauen. Auf **organisationaler Ebene** unterstützt lernOS Unternehmen und Institutionen beim **Aufbau einer Lernenden Organisation**. Alle Inhalte stehen unter der offenen Lizenz [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) und sind auch **in Unternehmen kostenlos** nutzbar - mit Namensnennung.
+**lernOS** (Esperanto für ["ich werde lernen"](https://en.wiktionary.org/wiki/lernos)) ist ein offenes System für [selbstgesteuertes Lernen](https://de.wikipedia.org/wiki/Selbstgesteuertes_Lernen) und [Peer Learning](https://en.wikipedia.org/wiki/Peer_learning). Auf **persönlicher Ebene** helfen lernOS Leitfäden dabei, alleine, zu zweit oder in einer kleinen Gruppe ([Learning Circle](learning-circles.md)) **neues Wissen und neue Fähigkeiten** aufzubauen. Auf **organisationaler Ebene** unterstützt lernOS Unternehmen und Institutionen beim **Aufbau einer Lernenden Organisation**. Alle Inhalte stehen unter der offenen Lizenz [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) und sind auch **in Unternehmen kostenlos** nutzbar - mit Namensnennung.
 
 [:material-presentation: lernOS Präsentation](https://lernos.org/de-slides){ .md-button } [:material-rocket-launch: Quick Start Guide](images/lernOS-Quick-Start-Guide-de-v03.pdf){ .md-button }
 
@@ -26,7 +26,7 @@ hide:
 
     ---
 
-    Wähle einen Leitfaden, starte alleine oder such dir Mitlerner für einen Learning Circle. Kostenlos, selbstorganisiert, 13 Wochen.
+    Wähle einen **Leitfaden mit Lernpfad**, starte alleine oder such dir Mitlerner für einen Learning Circle. Kostenlos, selbstorganisiert, 13 Wochen.
 
     [:octicons-arrow-right-24: Zu den Leitfäden](guides.md)
 
@@ -34,7 +34,7 @@ hide:
 
     ---
 
-    Du hast Expertise zu einem Thema und willst einen lernOS Leitfaden entwickeln oder mitarbeiten? Hier findest du Vorlagen, Tools und Anlaufstellen.
+    Du hast Expertise zu einem Thema und willst einen lernOS **Leitfaden entwickeln**? Hier findest du Vorlagen, Tools und Anlaufstellen.
 
     [:octicons-arrow-right-24: Leitfaden erstellen](create-guide.md)
 
@@ -42,7 +42,7 @@ hide:
 
     ---
 
-    Informelles, selbstgesteuertes Lernen neben formalen Schulungen etablieren? Hier erfährst du, wie Organisationen lernOS einführen.
+    **Selbstgesteuertes Lernen** neben formalen Schulungen **kultivieren**? Hier erfährst du, wie Organisationen lernOS einführen.
 
     [:octicons-arrow-right-24: lernOS für Organisationen](for-organizations.md)
 
@@ -52,7 +52,7 @@ hide:
 
 ## lernOS in 5 Minuten verstehen
 
-[Simon Dückert](https://www.linkedin.com/in/simondueckert/) hat lernOS auf dem 39. Chaos Communication Congress (#39C3) in einem **5-minütigen Lightning Talk** vorgestellt:
+[Simon Dückert](https://www.linkedin.com/in/simondueckert/) hat lernOS auf dem [39. Chaos Communication Congress](https://media.ccc.de/c/39c3) (#39C3) in einem **5-minütigen Lightning Talk** vorgestellt:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Hi9myfpJEw?si=YEmG--x4_g36a26F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -60,13 +60,11 @@ hide:
 
 ## lernOS Events
 
-Die lernOS Community trifft sich regelmäßig - monatlich beim **lernOS Meetup**
-in der Cogneon Akademie Nürnberg und online, und einmal im Jahr bei der
-**lernOS Convention (loscon)**. Alle Termine auf einen Blick:
-
-[:material-calendar: Alle Events und Infos](events.md){ .md-button } [:material-calendar-export: Kalender abonnieren (.ics)](https://export.kalender.digital/ics/6650391/36fea8076648f909efcc/lernostermine.ics?past_months=3&future_months=36){ .md-button }
+Die **lernOS Community** trifft sich regelmäßig - monatlich beim **lernOS Meetup** in Präsenz, online und hybrid - und einmal im Jahr bei der **lernOS Convention (loscon)**. Alle Termine auf einen Blick:
 
 <iframe frameborder="0" height="500px" width="100%" src="https://kalender.digital/0b0b376e6e880459954a?iframe=true"></iframe>
+
+[:material-calendar: Alle Events und Infos](events.md){ .md-button } [:material-calendar-export: Kalender abonnieren (.ics)](https://export.kalender.digital/ics/6650391/36fea8076648f909efcc/lernostermine.ics?past_months=3&future_months=36){ .md-button }
 
 ---
 
@@ -106,7 +104,7 @@ in der Cogneon Akademie Nürnberg und online, und einmal im Jahr bei der
 
     ---
 
-    Kurzimpulse und Terminankündigungen im Fediverse.
+    Neuigkeiten, Lernimpulse und Terminankündigungen im Fediverse.
 
     [:octicons-arrow-right-24: @lernos@colearn.social](https://colearn.social/@lernos)
 
@@ -114,7 +112,7 @@ in der Cogneon Akademie Nürnberg und online, und einmal im Jahr bei der
 
     ---
 
-    Neuigkeiten, Lernimpulse und der monatliche lernOS Newsletter.
+    Neuigkeiten, Lernimpulse, Terminankündigungen und der monatliche lernOS Newsletter.
 
     [:octicons-arrow-right-24: LinkedIn-Seite](https://www.linkedin.com/showcase/lern-os)
     [:octicons-arrow-right-24: Newsletter](https://www.linkedin.com/newsletters/lernos-news-7305595387040456705/)
@@ -123,7 +121,7 @@ in der Cogneon Akademie Nürnberg und online, und einmal im Jahr bei der
 
     ---
 
-    Fragen, Austausch und Diskussion mit anderen Lernenden.
+    Fragen, Ideen, Erfahrungsaustausch und Diskussion mit anderen Lernenden.
 
     [:octicons-arrow-right-24: Zur Community](https://community.cogneon.de/c/lernos/73)
 
@@ -155,9 +153,8 @@ in der Cogneon Akademie Nürnberg und online, und einmal im Jahr bei der
 
 ## lernOS News aus dem Fediverse
 
-Die lernOS Community ist auch auf [Mastodon](https://de.wikipedia.org/wiki/Mastodon_(soziales_Netzwerk)) aktiv - teile deine Lernerfahrungen
-mit dem Hashtag **#lernOS** auf Mastodon. Wir empfehlen [colearn.social](https://colearn.social), die Instanz der [Corporate Learning Community](https://colearn.de) für
-alle, die rund um Lernen und Wissensmanagement vernetzt sein wollen.
+Die lernOS Community ist auch im [Fediverse](https://de.wikipedia.org/wiki/Fediverse) aktiv - teile deine Lernerfahrungen
+mit dem Hashtag **#lernOS** auf [Mastodon](https://de.wikipedia.org/wiki/Mastodon_(soziales_Netzwerk)). Wir empfehlen [colearn.social](https://colearn.social), die Instanz der [Corporate Learning Community](https://colearn.de) für alle, die rund um Lernen und Wissensmanagement vernetzt sein wollen (Tipp: Booklet [Fediverse. So geht Social Media - Raus aus den Hassmedien](https://pub.uni-bielefeld.de/download/2966158/2966159/kum_16_free.pdf) (PDF) von [digitalcourage](https://digitalcourage.de/)).
 
 [:fontawesome-brands-mastodon: Konto auf colearn.social anlegen](https://colearn.social/auth/sign_up){ .md-button }
 [:octicons-arrow-right-24: @lernos folgen](https://colearn.social/@lernos){ .md-button }
