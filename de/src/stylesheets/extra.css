@@ -25,7 +25,7 @@
 
 /* Suri-Icon als Chat-Trigger */
 .chat-window-toggle {
-    background-image: url('/de/images/suri.png') !important;
+    background-image: url('/de/images/lernos-suri.png') !important;
     background-size: cover !important;
     background-color: transparent !important;
     background-position: center !important;
@@ -47,4 +47,44 @@
 /* Edit on Github Button ausblenden */
 .md-content__button {
     display: none;
+}
+
+
+/* Chat Header Hintergrund */
+.chat-header {
+    background-color: #ff6600 !important;
+    color: #ffffff !important;
+}
+
+/* Chat Header Titel und Untertitel */
+.chat-header h1,
+.chat-header p {
+    color: #ffffff !important;
+}
+
+/* Bot-Nachrichten Hintergrund */
+.chat-message-from-bot .chat-message-markdown {
+    background-color: #ffffff !important;
+}
+
+/* Send-Button */
+.chat-input-send-button {
+    background-color: #ff6600 !important;
+}
+
+.chat-header h1 {
+    font-size: 1.5rem !important;
+}
+
+.chat-header p {
+    font-size: 1rem !important;
+}
+
+.chat-input-send-button {
+    background-color: #ff6600 !important;
+    color: #ffffff !important;
+}
+
+.chat-input-send-button svg path {
+    fill: #ffffff !important;
 }
