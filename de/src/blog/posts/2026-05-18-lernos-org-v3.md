@@ -81,4 +81,4 @@ Die **wichtigsten Änderungen** in Kürze:
     - Für die Zukunft werden wir uns die Möglichkeiten des **Wechsels von Github** zu [Codeberg](https://codeberg.org/) ansehen ([Forgejo](https://forgejo.org/) gehostet von deutschem Verein).
 
 Die Detailseiten werden in den kommenden Wochen mit Version 3.1 weiter
-ausgebaut. Feedback gerne als Kommentar hier oder auf CONNECT schreiben.
+ausgebaut. Feedback gerne **als Kommentar hier** oder [auf CONNECT](https://community.cogneon.de/t/lernos-website-in-version-3-veroeffentlicht/4314) schreiben.
