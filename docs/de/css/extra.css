@@ -10,3 +10,11 @@ background-color: #ff6600;
 background: #ff6600;
 background-color: #ff6600;
 }
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+    border-top: 4px solid var(--md-accent-fg-color);
+    background-color: var(--md-code-bg-color);
+}
+.md-sidebar--secondary {
+    display: none !important;
+}

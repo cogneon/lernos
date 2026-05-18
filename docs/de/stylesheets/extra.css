@@ -3,3 +3,98 @@
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
 }
+.md-header {
+    background-color: #ff6600 !important;
+}
+[data-md-color-primary="custom"] {
+    --md-primary-fg-color: #ff6600;
+    --md-primary-fg-color--light: #ff8533;
+    --md-primary-fg-color--dark: #cc5200;
+    --md-accent-fg-color: #ff6600;
+}
+@media screen and (max-width: 60em) {
+    .lernos-intro {
+        grid-template-columns: 1fr;
+    }
+}
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+    border-top: 4px solid #ff6600;
+    background-color: #fff3e0;
+}
+
+/* Suri-Icon als Chat-Trigger */
+.chat-window-toggle {
+    background-image: url('/de/images/lernos-suri.png') !important;
+    background-size: cover !important;
+    background-color: transparent !important;
+    background-position: center !important;
+    border-radius: 50% !important;
+    width: 60px !important;
+    height: 60px !important;
+}
+
+/* Standard SVG-Icon ausblenden */
+.chat-window-toggle svg {
+    display: none !important;
+}
+
+/* TOC ausblenden */
+.md-sidebar--secondary {
+    display: none !important;
+}
+
+/* Edit on Github Button ausblenden */
+.md-content__button {
+    display: none;
+}
+
+
+/* Chat Header Hintergrund */
+.chat-header {
+    background-color: #ff6600 !important;
+    color: #ffffff !important;
+}
+
+/* Chat Header Titel und Untertitel */
+.chat-header h1,
+.chat-header p {
+    color: #ffffff !important;
+}
+
+/* Bot-Nachrichten Hintergrund */
+.chat-message-from-bot .chat-message-markdown {
+    background-color: #ffffff !important;
+}
+
+/* Send-Button */
+.chat-input-send-button {
+    background-color: #ff6600 !important;
+}
+
+.chat-header h1 {
+    font-size: 1.5rem !important;
+}
+
+.chat-header p {
+    font-size: 1rem !important;
+}
+
+.chat-input-send-button {
+    background-color: #ff6600 !important;
+    color: #ffffff !important;
+}
+
+.chat-input-send-button svg path {
+    fill: #ffffff !important;
+}
+
+.lernos-image {
+    border-top: 4px solid var(--md-accent-fg-color);
+    border-radius: 4px;
+}
+
+/* Fließtext größer */
+.md-typeset {
+    font-size: 1rem !important;
+}
