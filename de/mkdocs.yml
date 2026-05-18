@@ -75,7 +75,7 @@ plugins:
   - blog:
       blog_dir: blog
   - rss:
-      match_path:   posts/.* 
+      match_path:   blog/posts/.* 
       date_from_meta:
         as_creation: date
       categories:

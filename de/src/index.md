@@ -75,7 +75,7 @@ Die **lernOS Community** trifft sich regelmäßig - monatlich beim **lernOS Meet
 <script>
 async function loadBlogPosts() {
     try {
-        const response = await fetch('https://lernos.org/de/feed_rss_created.xml');
+        const response = await fetch('./feed_rss_created.xml');
         const text = await response.text();
         const parser = new DOMParser();
         const xml = parser.parseFromString(text, 'text/xml');
