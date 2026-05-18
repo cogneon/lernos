@@ -5,7 +5,7 @@ hide:
 ---
 # Willkommen bei lernOS 👋
 
-![lernOS in a Nutshell](images/lernos_in_a_nutshell.png){ align=right width=400 }
+![lernOS in a Nutshell](images/lernos_in_a_nutshell.png){ align=right width=400 .lernos-image }
 
 **lernOS** (Esperanto für ["ich werde lernen"](https://en.wiktionary.org/wiki/lernos)) ist ein offenes System für [selbstgesteuertes Lernen](https://de.wikipedia.org/wiki/Selbstgesteuertes_Lernen) und [Peer Learning](https://en.wikipedia.org/wiki/Peer_learning). Auf **persönlicher Ebene** helfen lernOS Leitfäden dabei, alleine, zu zweit oder in einer kleinen Gruppe ([Learning Circle](learning-circles.md)) **neues Wissen und neue Fähigkeiten** aufzubauen. Auf **organisationaler Ebene** unterstützt lernOS Unternehmen und Institutionen beim **Aufbau einer Lernenden Organisation**. Alle Inhalte stehen unter der offenen Lizenz [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY) und sind auch **in Unternehmen kostenlos** nutzbar - mit Namensnennung.
 
@@ -60,7 +60,7 @@ hide:
 
 ## lernOS Events
 
-Die **lernOS Community** trifft sich regelmäßig - monatlich beim **lernOS Meetup** in Präsenz, online und hybrid - und einmal im Jahr bei der **lernOS Convention (loscon)**. Alle Termine auf einen Blick:
+Die **lernOS Community** trifft sich regelmäßig - monatlich beim **lernOS Meetup** in Präsenz, online und hybrid - und einmal im Jahr bei der **lernOS Convention** (loscon). Alle Termine auf einen Blick:
 
 <iframe frameborder="0" height="500px" width="100%" src="https://kalender.digital/0b0b376e6e880459954a?iframe=true"></iframe>
 

@@ -88,3 +88,13 @@
 .chat-input-send-button svg path {
     fill: #ffffff !important;
 }
+
+.lernos-image {
+    border-top: 4px solid var(--md-accent-fg-color);
+    border-radius: 4px;
+}
+
+/* Fließtext größer */
+.md-typeset {
+    font-size: 1rem !important;
+}
