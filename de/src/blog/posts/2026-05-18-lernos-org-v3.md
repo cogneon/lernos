@@ -25,6 +25,8 @@ und ein **Chatbot-Assistent**.
 drei **Zielgruppen** - Lernende, Leitfaden-Teams und Organisationen. Mit **Version 3.0**
 haben wir das grundlegend überarbeitet.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HIi1ERSSe1s?si=20b_CIjOIOJ2bcEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Die **wichtigsten Änderungen** in Kürze:
 
 1. **Startseite:**
