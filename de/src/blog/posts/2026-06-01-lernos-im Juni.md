@@ -43,7 +43,7 @@ Der Leitfaden liegt aktuell in einer PDF-Version unter [Creative Commons CC BY L
 
 ## lernOS Convention 2026 - AI for Work that Works!
 
-Am **23.-24. Juni 2026** findet die [lernOS Convention](https://loscon.lernos.org) unter dem **Motto "AI for Work that Works!"** statt. Veranstaltungsort ist wieder die [Kaiserburg in Nürnberg](https://loscon.lernos.org/de/location/), ihr könnt aber auch online teilnehmen (loscon26 ist [Perfectly Hybrid](https://loscon.lernos.org/de/perfectly-hybrid/)), oder an einem der vier [Satelliten-Lokationen][(https://loscon.lernos.org/de/loscon-everywhere/)] (Berlin, Würzburg, Wien, Mallorca).
+Am **23.-24. Juni 2026** findet die [lernOS Convention](https://loscon.lernos.org) unter dem **Motto "AI for Work that Works!"** statt. Veranstaltungsort ist wieder die [Kaiserburg in Nürnberg](https://loscon.lernos.org/de/location/), ihr könnt aber auch online teilnehmen (loscon26 ist [Perfectly Hybrid](https://loscon.lernos.org/de/perfectly-hybrid/)), oder an einem der vier [Satelliten-Lokationen](https://loscon.lernos.org/de/loscon-everywhere/) (Berlin, Würzburg, Wien, Mallorca).
 
 Das [Programm](https://loscon.lernos.org/de/program/) ist mittlerweile in Version 1 erschienen, euch erwarten wieder Impulsvorträge/Keynotes, ein [Makeathon](https://loscon.lernos.org/de/makeathon/) mit Vibecoding, Lightning Talks, Vorträge, Workshops, Barcamp-Sessions, [Live-Podcasts](https://loscon.lernos.org/de/podcasting/) und natürlich viele wertvolle Gespräche - geplant und ungeplant. Und im Abendprogramm spielen wir das **KI-Spiel Promptables**.
 
