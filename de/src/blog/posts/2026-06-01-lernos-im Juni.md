@@ -14,7 +14,9 @@ categories:
 
 # lernOS im Juni 2026
 
-Der Juni 2026 steht natürlich ganz im Zeichen der [lernOS Convention 2026](https://loscon.lernos.org), die vom **23.-24. Juni 2026** stattfindet. Aber es gibt auch weitere News wie z.B. die Aktualisierung der lernOS Website in Version 3.
+![lernOS News Banner mit QR-Code zur Website lernos.org und Suri Maskottchen](images/lernOS-News-Key-Visual-720p.png)
+
+Der **Juni 2026** steht natürlich ganz im Zeichen der [lernOS Convention 2026](https://loscon.lernos.org), die vom **23.-24. Juni 2026** stattfindet. Aber es gibt auch weitere News wie z.B. die Aktualisierung der lernOS Website in Version 3.
 
 <!-- more -->
 
