@@ -28,6 +28,7 @@ Die **lernOS Toolbox** stellt Leitfäden zum Erlernen bewährter Methoden, Tools
 1. [lernOS Expert Debriefing](https://cogneon.github.io/lernos-expert-debriefing/de/)
 1. [lernOS Künstliche Intelligenz](https://cogneon.github.io/lernos-ai/de/)
 1. [lernOS Leadership](https://cogneon.github.io/lernos-leadership/de/)
+1. [lernOS Nachhaltigkeit](https://cogneon.github.io/lernos-sustainability/de/)
 1. [lernOS Podcasting](https://cogneon.github.io/lernos-podcasting/de/)
 1. [lernOS Problemlösen](https://cogneon.github.io/lernos-problem-solving/de/)
 1. [lernOS Prozessmodellierung](https://cogneon.github.io/lernos-prozessmodellierung/de/)
