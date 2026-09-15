@@ -16,12 +16,6 @@ und andere Kalender-Apps:
 
 ## lernOS Convention (loscon)
 
-
-!!! tip "Nächste lernOS Convention"
-    **loscon26** - 23.-24. Juni 2026 auf der Kaiserburg Nürnberg, dezentral und online. **Motto: "AI for Work that Works!"**. Wieder im Rahmen des [Nürnberg Digital Festivals](https://nuernberg.digital/).
-
-    [:material-ticket: Zur loscon26](https://loscon.lernos.org){ .md-button }
-
 Die **lernOS Convention** hat ihre Wurzeln in einer langen Tradition der Wissensmanagement-Community in Deutschland. Von 1999 bis 2015 war die [KnowTech](https://wiki.cogneon.de/KnowTech) des BITKOM das jährliche Klassentreffen der Wissensmanagement-Szene. Als BITKOM die KnowTech 2016 einstellte, führte Cogneon die Tradition unter dem Namen [KnowTouch](https://wiki.cogneon.de/KnowTouch) weiter - abgeleitet aus [John Naisbitts](https://de.wikipedia.org/wiki/John_Naisbitt) **Megatrend "High Tech & High Touch - Technology and Our Search for Meaning"**, der die menschliche und emotionale Seite gegenüber reiner Technologie betont. Ein Gedanke, der in Zeiten von KI aktueller ist denn je.
 
 Ab 2019 entstand daraus die [lernOS Convention](https://wiki.cogneon.de/LernOS_Convention) - zunächst als "lernOS Camp", dann umbenannt weil das Format weit über ein reines Barcamp hinausgeht: Impulsvorträge, Lightning Talks, Workshops, Sessions und Assemblies machen die loscon zu einem **Multiformat-Event**. Die **Community** trifft sich damit **seit über 25 Jahren**   - in wechselnden Formaten, aber mit dem gleichen Kern: Menschen zusammenbringen, die Wissen teilen und voneinander lernen wollen.
