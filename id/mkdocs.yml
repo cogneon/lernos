@@ -1,0 +1,68 @@
+site_name: lernOS - Tetap Tenang dan Terus Belajar
+site_url: https://lernos.org/id
+docs_dir: src
+site_dir: ../docs/id
+
+nav:
+    - Beranda: index.md
+    - Tentang lernOS: 0-about.md
+    - Panduan:
+      - Ringkasan: 1-guides.md
+      - Kecerdasan Buatan (AI): guides/ai.md
+    - Belajar dalam Lingkaran: 2-learning-circle.md
+    - Publikasi: 4-publications.md
+    - Blog: 6-blog.md
+    - FAQ: 5-faq.md
+    - Tautan:
+      - Presentasi lernOS: https://lernos.org/de-slides
+      - Panduan Singkat lernOS: lernOS-Quick-Start-Guide-de-v03.pdf
+      - Glosarium lernOS: lernos-glossary.md
+      - Komunitas CONNECT: https://community.cogneon.de
+      - Grup Meetup: https://www.meetup.com/de-DE/lernos-connect/
+      - Peerfinder: https://web.peerfinder.app
+    - Dukungan: 3-support.md
+theme:
+    name: 'material'
+    custom_dir: src/overrides
+    palette:
+        scheme: lernos
+    language: id
+    icon:
+      repo: fontawesome/brands/github
+      logo: material/home
+
+extra_css:
+  - stylesheets/extra.css
+
+repo_name: 'cogneon/lernos'
+repo_url: 'https://github.com/cogneon/lernos'
+
+extra:
+    social:
+        - icon: fontawesome/brands/mastodon
+          link: 'https://colearn.social/@lernos'
+        - icon: fontawesome/brands/linkedin
+          link: 'https://www.linkedin.com/showcase/lern-os'
+        - icon: fontawesome/brands/github
+          link: 'https://github.com/cogneon'
+    giscus: true
+    alternate:
+      - name: English
+        link: https://lernos.org/en
+        lang: en
+      - name: German
+        link: https://lernos.org/de
+        lang: de
+    generator: false
+
+copyright: cogneon.de/impressum
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+
+plugins:
+  - search
