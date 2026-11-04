@@ -20,5 +20,5 @@ Am 14. Oktober 2026 haben [Christian](https://www.linkedin.com/in/christian-kais
 
 Links:
 
-- [Folien zum Workshop](https://cloud.cogneon.de/s/LgT4ZREFB9igLze) (PDF)
+- [Folien zum Workshop](https://cloud.cogneon.de/s/M8wg2iEejBGLdRJ) (PDF)
 - [Folge des lernOS on Air Podcast](https://podcasts.cogneon.io/@loa/episodes/peer-learning-workshop-auf-dem-lern-geschehen-summit-von-masterplan-in-berlin) mit der Aufzeichnung der Tonspur des Workshops (nur Christian/Simon)
